@@ -339,7 +339,7 @@ Viele Angelvereine betreiben aktive Gewässerpflege (Hege). Als Angler kann man 
 - Besatz ohne ökologische Prüfung
 - Genetische Verfälschung heimischer Bestände
 
-### Lebensraumberverbesserung
+### Lebensraumverbesserung
 
 **Sinnvolle Maßnahmen:**
 - Totholz ins Wasser einbringen (Unterschlupf für Fische)

@@ -72,7 +72,7 @@ Brassen leben in großen Schwärmen in stehenden und langsam fließenden Gewäss
 **Laichzeit:** Mai bis Juni
 
 **Besonderheiten:**
-Junge Brassen unter 30 cm nennt man Brachsen. In nährstoffreichen Gewässern können Brassen zur dominanten Art werden.
+Junge Brassen haben regional unterschiedliche Bezeichnungen; oft wird 'Brachse' aber auch synonym für die Art an sich verwendet. In nährstoffreichen Gewässern können Brassen zur dominanten Art werden.
 
 ### Die Rotfeder (Scardinius erythrophthalmus)
 
