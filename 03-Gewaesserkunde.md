@@ -97,7 +97,7 @@ Bachforelle, Döbel, Hasel, Barbe
 Barbe
 
 **Weitere Arten:**
-Döbel, Hasel, Nase, Aitel, Hecht, Barsch, Aal
+Döbel, Hasel, Nase, Hecht, Barsch, Aal
 
 ### Brachsenregion (Bleiregion)
 
@@ -155,7 +155,7 @@ In Seen und größeren Stillgewässern kommt es zu einer charakteristischen Schi
 Zweimal im Jahr, im Frühjahr und Herbst, kommt es zur vollständigen Durchmischung des Sees:
 
 **Frühjahrszirkulation:**
-Das Oberflächenwasser kühlt ab, wird schwerer und sinkt. Dadurch wird der gesamte See durchmischt. Sauerstoff gelangt in die Tiefe, Nährstoffe nach oben.
+Das Oberflächenwasser erwärmt sich auf 4°C, wird dadurch schwerer als die kälteren Wasserschichten und sinkt ab. Dadurch wird der gesamte See durchmischt. Sauerstoff gelangt in die Tiefe, Nährstoffe nach oben.
 
 **Herbstzirkulation:**
 Ähnlicher Prozess nach dem Sommer. Diese Durchmischungen sind essentiell für die Sauerstoffversorgung der Tiefenzonen.

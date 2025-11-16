@@ -61,7 +61,7 @@ Dies ist einer der wichtigsten Aspekte des Tierschutzes beim Angeln. Jeder Angle
 
 Der Fisch muss vor der Tötung betäubt werden, sodass er schmerzunempfindlich ist.
 
-**Methode - Kiemenschnitt:**
+**Methode - Betäubungsschlag:**
 Ein gezielter Schlag mit einem geeigneten Gegenstand (Totschläger, Priest) auf den Kopf des Fisches, direkt hinter die Augen auf das Schädeldach. Der Schlag muss kräftig genug sein, um sofortige Bewusstlosigkeit herbeizuführen.
 
 **Technik:**
@@ -121,8 +121,9 @@ Ein oft diskutiertes Thema mit rechtlichen und ethischen Aspekten.
 
 **Erlaubt ist das Zurücksetzen in folgenden Fällen:**
 - Falsche Art gefangen (z.B. Friedfisch beim Raubfischangeln)
-- Fisch ist verletzt und würde verenden
 - Hegemaßnahme (z.B. große Laichfische schonen)
+
+**Wichtig:** Schwer verletzte Fische, die nicht überlebensfähig sind, dürfen nicht zurückgesetzt werden - sie müssen aus Tierschutzgründen waidgerecht getötet werden. Das Zurücksetzen eines sterbenden Fisches wäre Tierquälerei.
 
 **Umstritten ist:**
 - Reines Sportangeln ohne Verwertungsabsicht
@@ -331,7 +332,7 @@ Viele Angelvereine betreiben aktive Gewässerpflege (Hege). Als Angler kann man 
 - Besatz sollte fachlich fundiert sein
 - Heimische Arten bevorzugen
 - Genetisch passende Stämme verwenden
-- Keine Übersetzung
+- Keine Überbesatzung
 
 **Problematisch:**
 - Besatz mit fremden Arten
