@@ -333,20 +333,11 @@ Viele Bodenlebewesen sind Indikatoren für Wasserqualität:
 
 ### Gefährdungen von Gewässern
 
-**Eutrophierung:**
-Überdüngung durch Einträge von Nährstoffen (Landwirtschaft, Abwasser). Folgen: Algenblüten, Sauerstoffmangel, Fischsterben.
-
-**Verschmutzung:**
-Eintrag von Schadstoffen, Schwermetallen, Chemikalien, Mikroplastik.
-
-**Verbauung:**
-Begradigung von Flüssen, Wehre, Staudämme zerstören natürliche Lebensräume und verhindern Fischwanderungen.
-
-**Erwärmung:**
-Klimawandel und Einleitung von warmem Kühlwasser reduzieren Sauerstoffgehalt.
-
-**Versauerung:**
-Saurer Regen, Moore - kann Fischsterben verursachen.
+- **Eutrophierung:** Überdüngung durch Einträge von Nährstoffen (Landwirtschaft, Abwasser). Folgen: Algenblüten, Sauerstoffmangel, Fischsterben.
+- **Verschmutzung:** Eintrag von Schadstoffen, Schwermetallen, Chemikalien, Mikroplastik.
+- **Verbauung:** Begradigung von Flüssen, Wehre, Staudämme zerstören natürliche Lebensräume und verhindern Fischwanderungen.
+- **Erwärmung:** Klimawandel und Einleitung von warmem Kühlwasser reduzieren Sauerstoffgehalt.
+- **Versauerung:** Saurer Regen, Moore - kann Fischsterben verursachen.
 
 ### Maßnahmen zum Gewässerschutz
 

@@ -388,7 +388,7 @@ Haken werden nach Größe nummeriert - **Achtung: Je größer die Nummer, desto 
 - **Größe 1-4/0**: Groß, für große Köder, Köderfische (Hecht, Wels)
 - **Größe 6/0-10/0**: Sehr groß, für riesige Köder (Großwels)
 
-**Bei Drillinge anders:** Größe 12 ist klein, Größe 4 mittel, Größe 1/0 groß
+**Bei Drillingen anders:** Größe 12 ist klein, Größe 4 mittel, Größe 1/0 groß
 
 ### Haken ohne Widerhaken (Schonhaken)
 
@@ -678,7 +678,7 @@ Schonende Landung des Fisches.
 - Immer ins Wasser halten, bevor Fisch landet
 - Fisch ins Netz führen, nicht mit Kescher "jagen"
 
-### Unterfangkescher und Abhakmatte
+### Abhakmatte
 
 **Abhakmatte:**
 - Weiche Unterlage für Fische beim Abhaken
