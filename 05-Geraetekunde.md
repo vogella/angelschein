@@ -14,7 +14,7 @@ Die Angelrute ist das zentrale Werkzeug. Sie überträgt den Anhieb, federt die 
 - **Blank (Rutenrohling)**: Das eigentliche Rohr, meist aus Carbon oder Glasfaser
 - **Griff**: Korkgriff oder EVA-Schaum, zum Halten der Rute
 - **Rollenhalter**: Befestigung für die Angelrolle
-- **Ringe**: Führen die Schnur vom Rollenblatt zur Rutenspitze
+- **Ringe**: Führen die Schnur von der Rolle zur Rutenspitze
 - **Spitze**: Das empfindlichste Teil, zeigt Bisse an
 
 ### Rutenmaterialien
@@ -23,7 +23,7 @@ Die Angelrute ist das zentrale Werkzeug. Sie überträgt den Anhieb, federt die 
 - Sehr leicht und steif
 - Hohe Sensibilität
 - Schnelle Aktion
-- Moderne Standard-Material
+- Modernes Standardmaterial
 - Teurer als Glasfaser
 
 **Glasfaser:**
@@ -390,9 +390,9 @@ Haken werden nach Größe nummeriert - **Achtung: Je größer die Nummer, desto 
 
 **Bei Drillinge anders:** Größe 12 ist klein, Größe 4 mittel, Größe 1/0 groß
 
-### Widerhakenbarbless Haken
+### Haken ohne Widerhaken (Schonhaken)
 
-Haken ohne Widerhaken:
+Diese Haken besitzen keinen Widerhaken:
 
 **Vorteile:**
 - Schonender für den Fisch

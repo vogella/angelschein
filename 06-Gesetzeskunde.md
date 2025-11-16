@@ -440,8 +440,8 @@ Da Fischereirecht Ländersache ist, gibt es erhebliche Unterschiede:
 - Jugendfischereischein ab 10 Jahren (nur mit erwachsener Begleitung)
 
 **Niedersachsen:**
-- Fischerprüfung Pflicht
-- Friedfischangeln ohne Prüfung möglich (Sonderfischereischein)
+- Fischerprüfung ist für Binnengewässer Pflicht
+- An Küstengewässern ist das Angeln unter bestimmten Bedingungen ohne Prüfung erlaubt
 - Ab 14 Jahren
 
 **Mecklenburg-Vorpommern:**
