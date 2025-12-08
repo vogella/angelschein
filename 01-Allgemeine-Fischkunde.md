@@ -62,7 +62,7 @@ Der Verdauungstrakt ist eng an die Nahrung angepasst:
 -   **Raubfische (Fleischfresser):** Sie haben einen kurzen Darm (oft kürzer als die Körperlänge), da tierische Nahrung leicht verdaulich ist. Der Magen ist oft als dehnbarer Sackmagen ausgebildet, um große Beute aufzunehmen.
 -   **Friedfische (Pflanzen-/Allesfresser):** Sie besitzen einen sehr langen Darm (z.B. beim Karpfen 2-3 mal so lang wie der Körper), da pflanzliche Nahrung schwerer aufzuschließen ist. Viele Friedfische haben keinen echten Magen (magenlose Fische).
 
-Ein besonderes Organ ist die **Schwimmblase**. Sie funktioniert wie ein interner Auftriebskörper und ermöglicht es dem Fisch, ohne Energieaufwand in verschiedenen Wassertiefen zu schweben. Der Fisch kann Gas in die Schwimmblase einlagern oder wieder abgeben.
+Ein besonderes Organ ist die **Schwimmblase**. Sie funktioniert wie ein interner Auftriebskörper und ermöglicht es dem Fisch, ohne Energieaufwand in verschiedenen Wassertiefen zu schweben. Der Fisch kann Gas in die Schwimmblase einlagern oder wieder abgeben. Wird ein Fisch zu schnell aus großer Tiefe geholt, kann die schnelle Ausdehnung der Gase zu schweren inneren Verletzungen führen (Barotrauma).
 
 ## Die Atmung der Fische
 
@@ -70,7 +70,7 @@ Fische atmen über Kiemen. Diese hochspezialisierten Organe sind wahre Meisterwe
 
 Hier findet der Gasaustausch statt: Sauerstoff aus dem Wasser diffundiert ins Blut, während Kohlendioxid ins Wasser abgegeben wird. Dieser Prozess funktioniert nach dem Gegenstromprinzip - das Blut fließt in die entgegengesetzte Richtung wie das Wasser. Dadurch wird eine maximale Sauerstoffausbeute erreicht.
 
-Die Effizienz der Kiemenatmung ist beeindruckend, aber sie hat auch ihre Grenzen. Bei warmem Wasser sinkt der Sauerstoffgehalt, was für Fische problematisch werden kann.
+Die Effizienz der Kiemenatmung ist beeindruckend, aber sie hat auch ihre Grenzen. Bei warmem Wasser sinkt der Sauerstoffgehalt, was für Fische problematisch werden kann, weshalb sie dann oft sauerstoffreichere Bereiche aufsuchen.
 
 ## Das Kreislaufsystem
 
@@ -82,12 +82,12 @@ Da Fische wechselwarm sind - ihre Körpertemperatur also der Umgebungstemperatur
 
 ### Das Sehvermögen
 
-Fische können sehen, und zwar oft besser, als viele Angler denken. Die Augen sitzen seitlich am Kopf und ermöglichen ein weites Sichtfeld. Allerdings gibt es direkt vor dem Kopf einen toten Winkel. Fische sind kurzsichtig an der Luft, aber unter Wasser können sie scharf sehen und oft Farben wahrnehmen.
+Fische können sehen, und zwar oft besser, als viele Angler denken. Die Augen sitzen seitlich am Kopf und ermöglichen ein weites Sichtfeld, allerdings mit einem toten Winkel direkt vor dem Maul. Fische sind kurzsichtig an der Luft, aber unter Wasser können sie scharf sehen und oft Farben wahrnehmen. Für die Köderwahl ist wichtig zu wissen, dass rotes Licht unter Wasser schnell absorbiert wird, während Blau- und Grüntöne auch in größeren Tiefen noch sichtbar sind.
 
 ### Das Seitenliniensorgan
 
 Dies ist vielleicht das faszinierendste Sinnesorgan der Fische. Entlang der Körperseiten verläuft eine Linie kleiner Poren - die Seitenlinie. Darunter liegen Sinneszellen, die Druckwellen im Wasser wahrnehmen können.
-Mit diesem Organ kann der Fisch Bewegungen registrieren ("Ferntastsinn"), Hindernisse orten und Beute finden, selbst im Dunkeln.
+Mit diesem Organ kann der Fisch Bewegungen registrieren ("Ferntastsinn"), Hindernisse orten und Beute finden, selbst im Dunkeln. Für Angler bedeutet das: Laute Schritte oder Erschütterungen am Ufer werden vom Fisch wahrgenommen und können ihn verscheuchen.
 
 ### Der Geruchssinn
 
@@ -123,7 +123,7 @@ Einige Arten betreiben Brutpflege (z.B. Stichling, Wels, Zander), die meisten ü
 
 ### Die Entwicklung
 
-Aus dem befruchteten Ei schlüpft die Larve, die sich zunächst von ihrem Dottersack ernährt. Danach beginnt sie als Brut selbstständig Plankton zu fressen.
+Aus dem befruchteten Ei schlüpft die Larve, die sich zunächst von ihrem Dottersack ernährt. Danach beginnt sie als Brut selbstständig Plankton zu fressen. Das Wachstum der Jungfische ist stark von der Wassertemperatur und dem Nahrungsangebot abhängig.
 
 ## Fischkrankheiten
 
@@ -138,11 +138,11 @@ Wichtige Krankheiten:
 
 ## Altersbestimmung
 
-Die gängigste Methode ist die **Schuppen-Methode**: Zählen der Jahresringe auf den Schuppen (ähnlich wie bei Bäumen). Auch Otolithen (Gehörsteine) oder Kiemendeckelknochen können genutzt werden.
+Die gängigste Methode ist die **Schuppen-Methode**: Zählen der Jahresringe auf den Schuppen (ähnlich wie bei Bäumen). Auch Otolithen (Gehörsteine) oder Kiemendeckelknochen können genutzt werden. Die Kenntnis des Alters ist wichtig für das Fischereimanagement, um z.B. das Wachstum von Populationen zu verstehen und Schonmaße festzulegen.
 
 ## Zusammenfassung
 
-Die allgemeine Fischkunde lehrt uns das "Funktionsprinzip Fisch". Von der hydrodynamischen Form über die spezialisierten Sinne bis hin zur Anpassung an verschiedene Gewässerzonen - all dies hilft dem Angler, den Fisch nicht nur als Beute, sondern als komplexes Lebewesen zu verstehen und zu respektieren.
+Die allgemeine Fischkunde lehrt uns das "Funktionsprinzip Fisch". Von der hydrodynamischen Form über die spezialisierten Sinne bis hin zur Anpassung an verschiedene Gewässerzonen - all dies hilft dem Angler, den Fisch nicht nur als Beute, sondern als komplexes Lebewesen zu verstehen und zu respektieren. Im nächsten Kapitel widmen wir uns der speziellen Fischkunde und den einzelnen Fischarten.
 
 ---
 
