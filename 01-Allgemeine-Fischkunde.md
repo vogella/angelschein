@@ -2,33 +2,67 @@
 
 ## Einleitung
 
-Die allgemeine Fischkunde bildet das biologische Fundament für jeden Angler. Wer verstehen möchte, wie man erfolgreich und tierschutzgerecht angelt, muss zunächst verstehen, wie Fische funktionieren. In diesem Kapitel tauchen wir ein in die faszinierende Welt der Fische - von ihrem Körperbau über ihre Sinne bis hin zu ihrer Fortpflanzung.
+Die allgemeine Fischkunde bildet das biologische Fundament für jeden Angler. 
+Wer verstehen möchte, wie man erfolgreich und tierschutzgerecht angelt, muss zunächst verstehen, wie Fische funktionieren.
+In diesem Kapitel tauchen wir ein in die faszinierende Welt der Fische - von ihrem Körperbau über ihre Sinne bis hin zu ihrer Fortpflanzung.
 
 ## Der Körperbau der Fische
 
 ### Die äußere Anatomie
 
-Wenn wir einen Fisch betrachten, sehen wir auf den ersten Blick eine perfekt an das Leben im Wasser angepasste Kreatur. Der Körper ist stromlinienförmig, wodurch der Fisch mit minimalem Energieaufwand durchs Wasser gleiten kann. Diese Form nennen wir auch "torpedoförmig" - besonders ausgeprägt bei schnellen Schwimmern wie der Forelle.
+Wenn wir einen Fisch betrachten, sehen wir auf den ersten Blick eine perfekt an das Leben im Wasser angepasste Kreatur.
+Der Körper ist stromlinienförmig, wodurch der Fisch mit minimalem Energieaufwand durchs Wasser gleiten kann. 
+Diese Form nennen wir auch "torpedoförmig" - besonders ausgeprägt bei schnellen Schwimmern wie der Forelle.
 
-Die Haut des Fisches ist mit Schuppen bedeckt, die wie Dachziegel übereinander liegen. Diese Schuppen sind nicht nur Schutz, sondern auch ein Wachstumsprotokoll: Ähnlich wie bei Baumringen kann man an den Jahresringen auf den Schuppen das Alter eines Fisches ablesen. Im Winter, wenn das Wachstum langsamer ist, entstehen engere Ringe - im Sommer weitere Abstände.
+Neben dieser Grundform gibt es weitere typische Körperformen, die viel über den Lebensraum verraten:
+- **Pfeilförmig:** Rücken- und Afterflosse sind weit nach hinten verlagert (z.B. Hecht). Dies ermöglicht eine enorme Beschleunigung aus dem Stand für den Beutefang.
+- **Hochrückig:** Der Körper ist seitlich stark abgeflacht (z.B. Brasse). Dies sorgt für gute Manövrierfähigkeit in pflanzenreichen Gewässern, ist aber ungünstig in starker Strömung.
+- **Schlangenförmig:** Der Körper ist lang und rund (z.B. Aal), ideal um sich am Grund und in engen Spalten zu bewegen.
+- **Spindelförmig:** Die klassische Stromlinienform (z.B. Forelle) für ausdauerndes Schwimmen, auch gegen die Strömung.
 
-Über der Schuppenschicht liegt eine dünne Schleimschicht, die mehrere wichtige Funktionen erfüllt. Sie reduziert den Wasserwiderstand, schützt vor Krankheitserregern und hilft bei der Osmoregulation - also dem Wasserhaushalt des Fisches. Deshalb ist es so wichtig, beim Umgang mit gefangenen Fischen diese Schleimschicht nicht zu beschädigen.
+Die Haut des Fisches ist komplex aufgebaut und besteht aus zwei Hauptschichten:
+1.  **Oberhaut (Epidermis):** Sie enthält viele Schleimzellen, die die wichtige Schleimschicht produzieren.
+2.  **Lederhaut (Dermis):** Sie ist fester und enthält Blutgefäße, Nerven sowie die Farbzellen. In ihr sind auch die Schuppen verankert.
+
+Die Schuppen liegen wie Dachziegel übereinander. Sie sind nicht nur Schutz, sondern auch ein Wachstumsprotokoll: Ähnlich wie bei Baumringen kann man an den Jahresringen auf den Schuppen das Alter eines Fisches ablesen. Im Winter, wenn das Wachstum langsamer ist, entstehen engere Ringe - im Sommer weitere Abstände.
+
+Über der Schuppenschicht liegt die dünne Schleimschicht. Sie reduziert den Wasserwiderstand, schützt vor Krankheitserregern (Bakterien, Pilze) und hilft bei der Osmoregulation. Deshalb ist es so wichtig, beim Umgang mit gefangenen Fischen diese Schleimschicht nicht zu beschädigen (Hände vorher nass machen!).
+
+### Kopf und Maul
+
+Die Form des Maules und die Bezahnung verraten, wo und was ein Fisch frisst.
+
+**Maulstellungen:**
+-   **Oberständiges Maul:** Der Unterkiefer ist länger als der Oberkiefer, die Maulspalte zeigt nach oben (z.B. Hecht). Diese Fische jagen oft an der Wasseroberfläche.
+-   **Endständiges Maul:** Ober- und Unterkiefer sind gleich lang, die Maulspalte zeigt nach vorne (z.B. Forelle, Rotauge). Typisch für Fische, die im freien Wasser jagen.
+-   **Unterständiges Maul:** Der Oberkiefer ragt über den Unterkiefer, die Maulöffnung zeigt nach unten (z.B. Karpfen, Barbe). Dies ist typisch für Fische, die ihre Nahrung am Grund suchen (Gründler).
+
+**Bezahnung:**
+-   **Kieferzähne:** Raubfische (z.B. Hecht, Zander) besitzen oft spitze Zähne im Kiefer (z.B. "Hundszähne"), um Beute zu greifen und festzuhalten.
+-   **Schlundzähne:** Friedfische (z.B. Karpfen, Rotauge) haben im Maul selbst keine Zähne ("zahnloses Maul"). Stattdessen sitzen tief im Schlund auf den Schlundknochen Zähne, die die Nahrung gegen eine knöcherne Kauplatte (Karpfenstein) am Schädelboden zermahlen.
 
 ### Die Flossen - Steuerung und Antrieb
 
-Fische besitzen verschiedene Arten von Flossen, und jede hat eine spezifische Aufgabe. Die Schwanzflosse, auch Caudalflosse genannt, ist der Hauptantrieb. Durch seitliche Bewegungen des Schwanzstiels wird der Fisch nach vorne getrieben. Die Form der Schwanzflosse verrät viel über die Lebensweise: Schnelle Raubfische wie Hechte haben oft gegabelte Schwanzflossen, während Grundfische wie Karpfen eher abgerundete Schwanzflossen besitzen.
+Fische besitzen verschiedene Arten von Flossen, und jede hat eine spezifische Aufgabe. Die Schwanzflosse (Caudalflosse) ist der Hauptantrieb. Durch seitliche Bewegungen des Schwanzstiels wird der Fisch nach vorne getrieben. Die Form der Schwanzflosse verrät viel über die Lebensweise: Schnelle Raubfische wie Hechte haben oft gegabelte Schwanzflossen, während Grundfische wie Karpfen eher abgerundete Schwanzflossen besitzen.
 
-Die Rückenflosse, oder Dorsalflosse, stabilisiert den Fisch und verhindert ein seitliches Kippen. Manche Fischarten wie Barsche haben sogar zwei Rückenflossen - eine vordere mit Hartstrahlen als Schutz und eine hintere mit Weichstrahlen für feinere Steuerbewegungen.
+Die Rückenflosse (Dorsalflosse) stabilisiert den Fisch und verhindert ein seitliches Kippen. Manche Fischarten wie Barsche haben sogar zwei Rückenflossen - eine vordere mit Hartstrahlen als Schutz und eine hintere mit Weichstrahlen.
 
-Die paarigen Brustflossen dienen zum Bremsen und für präzise Manöver. Sie funktionieren ähnlich wie Ruder und ermöglichen es dem Fisch, rückwärts zu schwimmen oder auf der Stelle zu verweilen. Die Bauchflossen unterstützen diese Bewegungen und helfen bei der Stabilisierung.
+Die paarigen Brustflossen dienen zum Bremsen und für präzise Manöver. Die Bauchflossen unterstützen diese Bewegungen und helfen bei der Stabilisierung.
 
-Die Afterflosse, unterhalb des Fisches gelegen, sorgt zusammen mit der Rückenflosse für die Richtungsstabilität - ähnlich wie ein Kiel bei einem Schiff.
+Die Afterflosse, unterhalb des Fisches gelegen, sorgt zusammen mit der Rückenflosse für die Richtungsstabilität.
+
+Eine Besonderheit ist die **Fettflosse**. Sie ist eine kleine, strahlenlose Hautfahne zwischen Rücken- und Schwanzflosse. Sie ist ein wichtiges Erkennungsmerkmal für alle lachsartigen Fische (**Salmoniden**) wie Forellen, Äschen und Saiblinge, kommt aber auch bei Zwergwelsen vor. Friedfische wie Karpfen haben *keine* Fettflosse.
 
 ### Die innere Anatomie
 
-Unter der Oberfläche verbirgt sich ein hochkomplexes System. Das Skelett besteht bei den meisten Fischen, die wir angeln, aus Knochen. Diese Knochenfische nennen wir Osteichthyes. Es gibt auch Knorpelfische wie Haie und Rochen, aber die finden wir nicht in unseren Binnengewässern.
+Unter der Oberfläche verbirgt sich ein hochkomplexes System. Das Skelett besteht bei den meisten heimischen Fischen aus Knochen (Knochenfische/Osteichthyes).
 
-Ein besonderes Organ ist die Schwimmblase. Sie funktioniert wie ein interner Auftriebskörper und ermöglicht es dem Fisch, ohne Energieaufwand in verschiedenen Wassertiefen zu schweben. Der Fisch kann Gas in die Schwimmblase einlagern oder wieder abgeben und so seine Position im Wasser regulieren. Wenn ein Fisch zu schnell aus großer Tiefe nach oben geholt wird, kann die Schwimmblase sich zu stark ausdehnen - ein wichtiger Aspekt beim tierschutzgerechten Angeln.
+**Verdauungssystem:**
+Der Verdauungstrakt ist eng an die Nahrung angepasst:
+-   **Raubfische (Fleischfresser):** Sie haben einen kurzen Darm (oft kürzer als die Körperlänge), da tierische Nahrung leicht verdaulich ist. Der Magen ist oft als dehnbarer Sackmagen ausgebildet, um große Beute aufzunehmen.
+-   **Friedfische (Pflanzen-/Allesfresser):** Sie besitzen einen sehr langen Darm (z.B. beim Karpfen 2-3 mal so lang wie der Körper), da pflanzliche Nahrung schwerer aufzuschließen ist. Viele Friedfische haben keinen echten Magen (magenlose Fische).
+
+Ein besonderes Organ ist die **Schwimmblase**. Sie funktioniert wie ein interner Auftriebskörper und ermöglicht es dem Fisch, ohne Energieaufwand in verschiedenen Wassertiefen zu schweben. Der Fisch kann Gas in die Schwimmblase einlagern oder wieder abgeben.
 
 ## Die Atmung der Fische
 
@@ -36,102 +70,80 @@ Fische atmen über Kiemen. Diese hochspezialisierten Organe sind wahre Meisterwe
 
 Hier findet der Gasaustausch statt: Sauerstoff aus dem Wasser diffundiert ins Blut, während Kohlendioxid ins Wasser abgegeben wird. Dieser Prozess funktioniert nach dem Gegenstromprinzip - das Blut fließt in die entgegengesetzte Richtung wie das Wasser. Dadurch wird eine maximale Sauerstoffausbeute erreicht.
 
-Die Effizienz der Kiemenatmung ist beeindruckend, aber sie hat auch ihre Grenzen. Bei warmem Wasser sinkt der Sauerstoffgehalt, was für Fische problematisch werden kann. Deshalb sind viele Fischarten besonders in heißen Sommern an gut durchlüfteten Stellen anzutreffen - dort wo frisches, sauerstoffreiches Wasser einströmt.
+Die Effizienz der Kiemenatmung ist beeindruckend, aber sie hat auch ihre Grenzen. Bei warmem Wasser sinkt der Sauerstoffgehalt, was für Fische problematisch werden kann.
 
 ## Das Kreislaufsystem
 
-Das Herz eines Fisches ist einfacher gebaut als das von Säugetieren. Es besteht aus nur zwei Kammern - einem Vorhof und einer Herzkammer. Das Blut wird vom Herzen zu den Kiemen gepumpt, wo es mit Sauerstoff angereichert wird, und fließt dann weiter durch den Körper, bevor es zum Herzen zurückkehrt.
+Das Herz eines Fisches ist einfacher gebaut als das von Säugetieren. Es besteht aus nur zwei Hauptkammern - einem Vorhof und einer Herzkammer. Das Blut wird vom Herzen zu den Kiemen gepumpt, wo es mit Sauerstoff angereichert wird, und fließt dann weiter durch den Körper, bevor es zum Herzen zurückkehrt (einfacher Blutkreislauf).
 
-Dieser einfache Kreislauf ist ausreichend für die Bedürfnisse der Fische. Da Fische wechselwarm sind - ihre Körpertemperatur also der Umgebungstemperatur entspricht - benötigen sie auch weniger Energie und damit weniger Sauerstoff als gleichwarme Tiere.
+Da Fische wechselwarm sind - ihre Körpertemperatur also der Umgebungstemperatur entspricht - benötigen sie weniger Energie als gleichwarme Tiere.
 
 ## Die Sinnesorgane der Fische
 
 ### Das Sehvermögen
 
-Fische können sehen, und zwar oft besser, als viele Angler denken. Die Augen sitzen seitlich am Kopf und ermöglichen ein weites Sichtfeld - wichtig, um Fressfeinde rechtzeitig zu erkennen. Allerdings gibt es direkt vor dem Kopf einen toten Winkel, den der Fisch nicht sehen kann.
-
-Unter Wasser funktioniert das Sehen anders als an Land. Fische sind kurzsichtig an der Luft, aber unter Wasser können sie scharf sehen. Viele Fischarten können sogar Farben wahrnehmen, manche sogar UV-Licht. Das ist wichtig zu wissen, wenn es um die Wahl der richtigen Köderfarbe geht.
-
-Die Lichtbedingungen unter Wasser ändern sich mit der Tiefe. Rotes Licht wird bereits in den ersten Metern absorbiert, während blaues und grünes Licht tiefer vordringt. Manche Fische haben sich daran angepasst und sind in der Tiefe besonders empfindlich für diese Farben.
+Fische können sehen, und zwar oft besser, als viele Angler denken. Die Augen sitzen seitlich am Kopf und ermöglichen ein weites Sichtfeld. Allerdings gibt es direkt vor dem Kopf einen toten Winkel. Fische sind kurzsichtig an der Luft, aber unter Wasser können sie scharf sehen und oft Farben wahrnehmen.
 
 ### Das Seitenliniensorgan
 
-Dies ist vielleicht das faszinierendste Sinnesorgan der Fische. Entlang der Körperseiten verläuft eine Linie kleiner Poren - die Seitenlinie. Darunter liegen Sinneszellen, die Druckveränderungen im Wasser wahrnehmen können.
-
-Mit diesem Organ kann der Fisch Bewegungen im Wasser registrieren, Hindernisse orten und sogar die Größe und Form von Objekten "erfühlen". Ein blinder Fisch kann dank der Seitenlinie trotzdem navigieren und Beute finden. Für Angler bedeutet dies: Grobe Bewegungen am Ufer oder stampfende Schritte werden vom Fisch registriert und können ihn verschrecken.
+Dies ist vielleicht das faszinierendste Sinnesorgan der Fische. Entlang der Körperseiten verläuft eine Linie kleiner Poren - die Seitenlinie. Darunter liegen Sinneszellen, die Druckwellen im Wasser wahrnehmen können.
+Mit diesem Organ kann der Fisch Bewegungen registrieren ("Ferntastsinn"), Hindernisse orten und Beute finden, selbst im Dunkeln.
 
 ### Der Geruchssinn
 
-Fische haben einen ausgezeichneten Geruchssinn. Sie besitzen Nasenöffnungen, durch die Wasser strömt und über Riechzellen geleitet wird. Manche Arten wie Aale können winzigste Konzentrationen von Duftstoffen wahrnehmen - vergleichbar mit einem Tropfen Parfüm in einem Schwimmbad.
-
-Der Geruchssinn ist besonders wichtig für die Nahrungssuche und für die Orientierung. Lachse finden mit seiner Hilfe zu ihrem Geburtsfluss zurück, indem sie sich an den charakteristischen "Geruch" ihres Heimatgewässers erinnern.
+Fische haben einen ausgezeichneten Geruchssinn. Sie besitzen Nasenöffnungen (Riechgruben), durch die Wasser strömt. Manche Arten wie Aale können winzigste Duftstoffkonzentrationen wahrnehmen. Dies ist wichtig für Nahrungssuche und Orientierung (z.B. Lachswanderung).
 
 ### Der Geschmackssinn
 
-Geschmacksknospen befinden sich nicht nur im Maul, sondern bei vielen Fischarten über den ganzen Körper verteilt. Besonders ausgeprägt ist dies bei Welsen, die über ihre Barteln - lange Tastorgane am Maul - ihre Umgebung "erschmecken" können.
+Geschmacksknospen befinden sich nicht nur im Maul, sondern bei vielen Fischarten auch außen am Körper, z.B. auf den Lippen oder auf Barteln (z.B. beim Wels oder der Barbe).
 
 ### Das Gehör
 
-Obwohl Fische keine äußeren Ohren haben, können sie hören. Schallwellen werden über den Körper und die Schwimmblase aufgenommen und zu einem Innenohr weitergeleitet. Manche Fischarten haben besonders gutes Gehör, andere eher weniger. Grundsätzlich gilt: Laute Geräusche wie Motorenlärm oder Schläge gegen das Boot können Fische verschrecken.
+Obwohl Fische keine äußeren Ohren haben, können sie hören. Schallwellen werden über den Körper und oft verstärkt durch die Schwimmblase zum Innenohr geleitet. Laute Geräusche am Ufer oder im Boot werden wahrgenommen und können Scheuchwirkung haben.
 
 ## Die Fortpflanzung
 
 ### Laichzeit und Laichverhalten
 
-Die Fortpflanzung der Fische ist an bestimmte Jahreszeiten gebunden - die Laichzeit. Diese ist von Art zu Art verschieden und oft temperaturabhängig. Winterlaicher wie Forellen laichen im Winter bei niedrigen Temperaturen, Sommerlaicher wie Karpfen in den warmen Monaten.
+Die Fortpflanzung (Laichzeit) ist artspezifisch und temperaturabhängig.
+-   **Winterlaicher:** z.B. Forelle, Quappe (November bis Februar)
+-   **Frühjahrslaicher:** z.B. Hecht, Äsche (Februar bis Mai)
+-   **Sommerlaicher:** z.B. Karpfen, Schleie, Wels (Mai bis Juli)
 
-Während der Laichzeit ändern viele Fischarten ihr Verhalten dramatisch. Sie werden territorial, verteidigen Laichplätze und entwickeln oft ein farbenprächtiges Laichkleid. Männliche Forellen entwickeln beispielsweise einen "Laichhaken" am Unterkiefer.
+Während der Laichzeit bilden manche Fische ein "Laichkleid" (intensivere Farben) oder einen "Laichhaken" (männliche Forellen).
 
 ### Der Laichakt
 
-Die meisten einheimischen Fische sind Freilaicher - das bedeutet, Eier und Samen werden ins freie Wasser abgegeben. Das Weibchen legt die Eier ab, oft auf Kies oder Wasserpflanzen, und das Männchen befruchtet sie anschließend von außen. Diese Art der Fortpflanzung nennt man äußere Befruchtung.
+Die meisten heimischen Fische sind Freilaicher mit äußerer Befruchtung.
+Je nach Ablageort unterscheidet man:
+-   **Kieslaicher (Lithophile):** Legen Eier in kiesigem Grund ab (z.B. Forelle).
+-   **Krautlaicher (Phytophile):** Kleben Eier an Wasserpflanzen (z.B. Hecht, Karpfen).
 
-Einige Arten betreiben Brutpflege. Stichlinge bauen Nester, Barsche bewachen ihre Eigelege, und Welse bleiben in der Nähe ihrer Brut, um Fressfeinde zu vertreiben.
+Einige Arten betreiben Brutpflege (z.B. Stichling, Wels, Zander), die meisten überlassen den Laich sich selbst.
 
 ### Die Entwicklung
 
-Aus dem befruchteten Ei entwickelt sich zunächst eine Larve mit großem Dottersack. Von diesem Dottersack ernährt sich die Larve in den ersten Tagen, bevor sie selbstständig Nahrung aufnehmen muss. Die jungen Fische nennt man je nach Entwicklungsstadium Brut oder Jungfische.
-
-Das Wachstum ist stark temperaturabhängig. In warmen Sommern wachsen Fische schneller als in kalten. Auch die Nahrungsverfügbarkeit spielt eine wichtige Rolle. Ein gut ernährter Fisch wächst schneller und wird größer als ein unterernährter.
+Aus dem befruchteten Ei schlüpft die Larve, die sich zunächst von ihrem Dottersack ernährt. Danach beginnt sie als Brut selbstständig Plankton zu fressen.
 
 ## Fischkrankheiten
 
-### Erkennung und Bedeutung
+Als verantwortungsvoller Angler muss man Krankheiten erkennen:
+-   **Verhaltensauffälligkeiten:** Taumeln, Apathie, Scheuern am Boden.
+-   **Äußere Merkmale:** Geschwüre, Pilzbeläge, Glotzaugen, abstehende Schuppen, blasse Kiemen.
 
-Als verantwortungsvoller Angler sollte man kranke Fische erkennen können. Typische Anzeichen für Krankheiten sind:
-
-- Verhaltensauffälligkeiten wie apathisches Schwimmen, Taumeln oder Atemnot
-- Äußere Veränderungen wie Geschwüre, Verfärbungen oder Pilzbefall
-- Verdickte oder blutunterlaufene Flossen
-- Glotzaugen oder eingesunkene Augen
-- Schleimabsonderungen oder weiße Pünktchen auf der Haut
-
-### Wichtige Krankheiten
-
-Die Weißpünktchenkrankheit wird durch einen Parasiten verursacht und ist an den charakteristischen weißen Punkten auf Haut und Flossen erkennbar. Pilzinfektionen zeigen sich als watteähnliche Beläge. Bakterielle Infektionen können zu Geschwüren und Entzündungen führen.
-
-Manche Krankheiten sind hochansteckend und können ganze Fischbestände gefährden. Deshalb ist es wichtig, erkrankte Fische zu melden - in Deutschland gibt es meldepflichtige Fischseuchen, bei denen die zuständigen Behörden informiert werden müssen.
-
-### Prävention
-
-Gesunde Fischbestände sind widerstandsfähiger gegen Krankheiten. Faktoren wie gute Wasserqualität, ausreichend Sauerstoff, angemessener Besatz und natürliche Lebensräume stärken das Immunsystem der Fische. Als Angler können wir dazu beitragen, indem wir schonend mit Fischen umgehen, keine fremden Gewässerorganismen einschleppen und gefangene Fische nicht unnötig stressen.
+Wichtige Krankheiten:
+-   **Fischschimmel (Verpilzung):** Watteartige Beläge, oft nach Verletzung der Schleimhaut.
+-   **Weißpünktchenkrankheit (Ichthyophthiriose):** Parasitärer Befall, weiße Punkte auf Haut/Flossen.
+-   **Frühjahrsvirämie:** Viruserkrankung oft bei Karpfen (Bauchwassersucht).
 
 ## Altersbestimmung
 
-Das Alter von Fischen lässt sich auf verschiedene Weise bestimmen. Die gängigste Methode ist die Schuppen-Methode: Auf den Schuppen bilden sich Jahresringe, ähnlich wie bei Bäumen. Im Sommer, wenn der Fisch gut wächst, sind die Ringe breit, im Winter eng. Durch Zählen dieser Ringe kann man das ungefähre Alter bestimmen.
-
-Alternativ können auch Gehörsteine (Otolithen) oder bei manchen Arten die Flossenstrahlen zur Altersbestimmung herangezogen werden. Diese Methoden werden vor allem in der Forschung eingesetzt.
-
-Die Kenntnis über das Alter von Fischen ist wichtig für das Fischereimanagement. Sie hilft zu verstehen, wie schnell eine Population wächst, wann Fische geschlechtsreif werden und wie sich die Altersstruktur eines Bestandes entwickelt.
+Die gängigste Methode ist die **Schuppen-Methode**: Zählen der Jahresringe auf den Schuppen (ähnlich wie bei Bäumen). Auch Otolithen (Gehörsteine) oder Kiemendeckelknochen können genutzt werden.
 
 ## Zusammenfassung
 
-Die allgemeine Fischkunde vermittelt uns ein tiefes Verständnis für das Leben unter Wasser. Wir lernen, dass Fische hochentwickelte Lebewesen mit erstaunlichen Anpassungen sind. Ihr Körperbau ist perfekt auf das Leben im Wasser abgestimmt, ihre Sinnesorgane sind oft empfindlicher als wir denken, und ihre Fortpflanzungsstrategien sind faszinierend vielfältig.
-
-Dieses Wissen ist nicht nur Prüfungsstoff - es ist die Grundlage für verantwortungsvolles Angeln. Wer versteht, wie Fische funktionieren, kann besser einschätzen, wo und wann sie zu finden sind, wie man sie schonend behandelt und warum bestimmte Regelungen wie Schonzeiten und Mindestmaße sinnvoll sind.
-
-Im nächsten Kapitel werden wir uns der speziellen Fischkunde widmen - dort lernen wir die einzelnen Fischarten kennen, ihre Besonderheiten, ihre Lebensräume und wie man sie sicher unterscheiden kann.
+Die allgemeine Fischkunde lehrt uns das "Funktionsprinzip Fisch". Von der hydrodynamischen Form über die spezialisierten Sinne bis hin zur Anpassung an verschiedene Gewässerzonen - all dies hilft dem Angler, den Fisch nicht nur als Beute, sondern als komplexes Lebewesen zu verstehen und zu respektieren.
 
 ---
 
-*Hinweis: Dieses Dokument dient der Prüfungsvorbereitung für den Angelschein. Die Inhalte basieren auf allgemeinen fischbiologischen Kenntnissen. Spezifische Regelungen können je nach Bundesland variieren.*
+*Hinweis: Dieses Dokument dient der Prüfungsvorbereitung für den Angelschein. Die Inhalte basieren auf allgemeinen fischbiologischen Kenntnissen.*
