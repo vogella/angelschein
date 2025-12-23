@@ -11,20 +11,23 @@ In diesem Kapitel tauchen wir ein in die faszinierende Welt der Fische - von ihr
 ### Die äußere Anatomie
 
 Wenn wir einen Fisch betrachten, sehen wir auf den ersten Blick eine perfekt an das Leben im Wasser angepasste Kreatur.
-Der Körper ist stromlinienförmig, wodurch der Fisch mit minimalem Energieaufwand durchs Wasser gleiten kann. 
-Diese Form nennen wir auch "torpedoförmig" - besonders ausgeprägt bei schnellen Schwimmern wie der Forelle.
+Der Körper ist stromlinienförmig, wodurch der Fisch mit minimalem Energieaufwand durchs Wasser gleiten kann.
 
-Neben dieser Grundform gibt es weitere typische Körperformen, die viel über den Lebensraum verraten:
-- **Pfeilförmig:** Rücken- und Afterflosse sind weit nach hinten verlagert (z.B. Hecht). Dies ermöglicht eine enorme Beschleunigung aus dem Stand für den Beutefang.
-- **Hochrückig:** Der Körper ist seitlich stark abgeflacht (z.B. Brasse). Dies sorgt für gute Manövrierfähigkeit in pflanzenreichen Gewässern, ist aber ungünstig in starker Strömung.
-- **Schlangenförmig:** Der Körper ist lang und rund (z.B. Aal), ideal um sich am Grund und in engen Spalten zu bewegen.
-- **Spindelförmig:** Die klassische Stromlinienform (z.B. Forelle) für ausdauerndes Schwimmen, auch gegen die Strömung.
+Wir unterscheiden verschiedene typische Körperformen, die viel über den Lebensraum und die Jagdweise verraten:
+-   **Spindelförmig (Torpedoförmig):** Der Körper ist im Querschnitt fast rund und verjüngt sich zu beiden Enden. Dies ist die ideale Form für ausdauernde Schwimmer, auch in starker Strömung (z.B. Forelle, Lachs).
+-   **Pfeilförmig:** Der Körper ist langgestreckt, aber Rücken- und Afterflosse sind weit nach hinten verlagert. Dies ermöglicht keine Ausdauer, aber eine enorme Beschleunigung aus dem Stand für den Beutefang (z.B. Hecht).
+-   **Hochrückig:** Der Körper ist seitlich stark abgeflacht (z.B. Brasse). Dies sorgt für gute Manövrierfähigkeit in pflanzenreichen Gewässern, ist aber ungünstig in starker Strömung.
+-   **Schlangenförmig:** Der Körper ist sehr lang und rund (z.B. Aal), ideal um sich am Grund und in engen Spalten zu bewegen.
 
 Die Haut des Fisches ist komplex aufgebaut und besteht aus zwei Hauptschichten:
 1.  **Oberhaut (Epidermis):** Sie enthält viele Schleimzellen, die die wichtige Schleimschicht produzieren.
 2.  **Lederhaut (Dermis):** Sie ist fester und enthält Blutgefäße, Nerven sowie die Farbzellen. In ihr sind auch die Schuppen verankert.
 
 Die Schuppen liegen wie Dachziegel übereinander. Sie sind nicht nur Schutz, sondern auch ein Wachstumsprotokoll: Ähnlich wie bei Baumringen kann man an den Jahresringen auf den Schuppen das Alter eines Fisches ablesen. Im Winter, wenn das Wachstum langsamer ist, entstehen engere Ringe - im Sommer weitere Abstände.
+
+Man unterscheidet im Wesentlichen zwei Schuppenarten:
+-   **Rundschuppen (Cycloidschuppen):** Diese sind am Hinterrand glatt und rund. Streicht man über den Fisch, fühlt er sich glatt an. Typisch für fast alle Friedfische (z.B. Karpfen, Rotauge) und Salmoniden (Forelle).
+-   **Kammschuppen (Ctenoidschuppen):** Diese besitzen am Hinterrand kleine Zähnchen oder Dornen. Der Fisch fühlt sich rau an, wie Schmirgelpapier. Typisch für Barschhaltige (z.B. Barsch, Zander).
 
 Über der Schuppenschicht liegt die dünne Schleimschicht. Sie reduziert den Wasserwiderstand, schützt vor Krankheitserregern (Bakterien, Pilze) und hilft bei der Osmoregulation. Deshalb ist es so wichtig, beim Umgang mit gefangenen Fischen diese Schleimschicht nicht zu beschädigen (Hände vorher nass machen!).
 
@@ -48,6 +51,9 @@ Fische besitzen verschiedene Arten von Flossen, und jede hat eine spezifische Au
 Die Rückenflosse (Dorsalflosse) stabilisiert den Fisch und verhindert ein seitliches Kippen. Manche Fischarten wie Barsche haben sogar zwei Rückenflossen - eine vordere mit Hartstrahlen als Schutz und eine hintere mit Weichstrahlen.
 
 Die paarigen Brustflossen dienen zum Bremsen und für präzise Manöver. Die Bauchflossen unterstützen diese Bewegungen und helfen bei der Stabilisierung.
+Die Position der Bauchflossen verrät viel über die Entwicklungsgeschichte:
+-   **Bauchständig:** Die Bauchflossen sitzen weit *hinter* den Brustflossen (z.B. Karpfen, Forelle). Dies ist ein Merkmal eher ursprünglicher Arten.
+-   **Brustständig:** Die Bauchflossen sind nach vorne gewandert und sitzen fast direkt *unter* den Brustflossen (z.B. Barsch, Zander). Dies ermöglicht eine noch bessere Manövrierfähigkeit.
 
 Die Afterflosse, unterhalb des Fisches gelegen, sorgt zusammen mit der Rückenflosse für die Richtungsstabilität.
 
@@ -62,7 +68,10 @@ Der Verdauungstrakt ist eng an die Nahrung angepasst:
 -   **Raubfische (Fleischfresser):** Sie haben einen kurzen Darm (oft kürzer als die Körperlänge), da tierische Nahrung leicht verdaulich ist. Der Magen ist oft als dehnbarer Sackmagen ausgebildet, um große Beute aufzunehmen.
 -   **Friedfische (Pflanzen-/Allesfresser):** Sie besitzen einen sehr langen Darm (z.B. beim Karpfen 2-3 mal so lang wie der Körper), da pflanzliche Nahrung schwerer aufzuschließen ist. Viele Friedfische haben keinen echten Magen (magenlose Fische).
 
-Ein besonderes Organ ist die **Schwimmblase**. Sie funktioniert wie ein interner Auftriebskörper und ermöglicht es dem Fisch, ohne Energieaufwand in verschiedenen Wassertiefen zu schweben. Der Fisch kann Gas in die Schwimmblase einlagern oder wieder abgeben. Wird ein Fisch zu schnell aus großer Tiefe geholt, kann die schnelle Ausdehnung der Gase zu schweren inneren Verletzungen führen (Barotrauma).
+Ein besonderes Organ ist die **Schwimmblase**. Sie funktioniert wie ein interner Auftriebskörper und ermöglicht es dem Fisch, ohne Energieaufwand in verschiedenen Wassertiefen zu schweben.
+Wir unterscheiden dabei zwei Gruppen:
+1.  **Luftröhrenfische (Physostomen):** Sie haben eine Verbindung zwischen Schwimmblase und Vorderdarm (Ductus pneumaticus). Sie können Druckunterschiede schnell ausgleichen, indem sie Luft "rülpsen" oder schlucken (z.B. Forelle, Hecht, Karpfen).
+2.  **Luftpumpenfische (Physoklisten):** Diese Verbindung fehlt oder ist verkümmert. Der Gasaustausch erfolgt langsam über das Blut (Gasdrüse). Werden diese Fische (z.B. Barsch, Zander) schnell aus großer Tiefe geholt, dehnt sich die Schwimmblase explosionsartig aus, drückt den Magen aus dem Maul und führt zu tödlichen Verletzungen (Barotrauma). Solche Fische haben kaum Überlebenschancen.
 
 ## Die Atmung der Fische
 
@@ -100,8 +109,11 @@ Geschmacksknospen befinden sich nicht nur im Maul, sondern bei vielen Fischarten
 ### Das Gehör
 
 Obwohl Fische keine äußeren Ohren haben, können sie hören. Schallwellen werden über den Körper und oft verstärkt durch die Schwimmblase zum Innenohr geleitet. Laute Geräusche am Ufer oder im Boot werden wahrgenommen und können Scheuchwirkung haben.
+Eine Besonderheit besitzen die Ostariophysi (dazu gehören Karpfenartige und Welse): Sie verfügen über die **Weber'schen Knöchelchen** (Weber'scher Apparat). Diese Knochenverbindung überträgt Schwingungen von der Schwimmblase direkt zum Innenohr und wirkt wie ein Verstärker. Diese Fische hören daher extrem gut.
 
 ## Die Fortpflanzung
+
+In der Fachsprache nennt man das männliche Tier **Milchner** (wegen der milchigen Samenflüssigkeit) und das weibliche Tier **Rogner** (wegen des Rogens/der Eier).
 
 ### Laichzeit und Laichverhalten
 
@@ -111,6 +123,13 @@ Die Fortpflanzung (Laichzeit) ist artspezifisch und temperaturabhängig.
 -   **Sommerlaicher:** z.B. Karpfen, Schleie, Wels (Mai bis Juli)
 
 Während der Laichzeit bilden manche Fische ein "Laichkleid" (intensivere Farben) oder einen "Laichhaken" (männliche Forellen).
+
+### Wanderverhalten
+
+Viele Fische unternehmen Wanderungen zum Laichen. Wir unterscheiden:
+-   **Anadrome Wanderfische:** Sie leben im Meer und wandern zum Laichen ins Süßwasser (die Flüsse hinauf). Beispiel: Lachs, Meerforelle ("Lachs steigt auf").
+-   **Katadrome Wanderfische:** Sie leben im Süßwasser und wandern zum Laichen ins Meer (in die Tiefe). Beispiel: Aal ("Aal steigt ab").
+-   **Potamodrome Fische:** Sie wandern innerhalb des Süßwassersystems (z.B. Barbe, Nase).
 
 ### Der Laichakt
 
