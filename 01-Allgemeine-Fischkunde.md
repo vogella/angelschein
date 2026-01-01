@@ -2,36 +2,41 @@
 
 ## Einleitung
 
-Die allgemeine Fischkunde bildet das biologische Fundament für jeden Angler. 
-Wer verstehen möchte, wie man erfolgreich und tierschutzgerecht angelt, muss zunächst verstehen, wie Fische funktionieren.
-In diesem Kapitel tauchen wir ein in die faszinierende Welt der Fische - von ihrem Körperbau über ihre Sinne bis hin zu ihrer Fortpflanzung.
+Die allgemeine Fischkunde bildet das biologische Fundament für jeden Angler.
+In diesem Kapitel behandeln wir ihren Körperbau, ihre Sinne und ihre Fortpflanzung.
 
 ## Der Körperbau der Fische
 
 ### Die äußere Anatomie
 
-Wenn wir einen Fisch betrachten, sehen wir auf den ersten Blick eine perfekt an das Leben im Wasser angepasste Kreatur.
+Wenn wir einen Fisch betrachten, sehen wir eine perfekt an das Leben im Wasser angepasste Kreatur.
 Der Körper ist stromlinienförmig, wodurch der Fisch mit minimalem Energieaufwand durchs Wasser gleiten kann.
 
 Wir unterscheiden verschiedene typische Körperformen, die viel über den Lebensraum und die Jagdweise verraten:
--   **Spindelförmig (Torpedoförmig):** Der Körper ist im Querschnitt fast rund und verjüngt sich zu beiden Enden. Dies ist die ideale Form für ausdauernde Schwimmer, auch in starker Strömung (z.B. Forelle, Lachs).
+
+*   **Spindelförmig (Torpedoförmig):** Der Körper ist im Querschnitt fast rund und verjüngt sich zu beiden Enden. Dies ist die ideale Form für ausdauernde Schwimmer, auch in starker Strömung (z.B. Forelle, Lachs).
     ![Spindelförmige Körperform (Forelle)](img/koerperform_torpedo.png)
--   **Pfeilförmig:** Der Körper ist langgestreckt, aber Rücken- und Afterflosse sind weit nach hinten verlagert. Dies ermöglicht keine Ausdauer, aber eine enorme Beschleunigung aus dem Stand für den Beutefang (z.B. Hecht).
+
+*   **Pfeilförmig:** Der Körper ist langgestreckt, aber Rücken- und Afterflosse sind weit nach hinten verlagert. Dies ermöglicht keine Ausdauer, aber eine enorme Beschleunigung aus dem Stand für den Beutefang (z.B. Hecht).
     ![Pfeilförmige Körperform (Hecht)](img/koerperform_pfeil.png)
--   **Hochrückig:** Der Körper ist seitlich stark abgeflacht (z.B. Brasse). Dies sorgt für gute Manövrierfähigkeit in pflanzenreichen Gewässern, ist aber ungünstig in starker Strömung.
+
+*   **Hochrückig:** Der Körper ist seitlich stark abgeflacht (z.B. Brasse). Dies sorgt für gute Manövrierfähigkeit in pflanzenreichen Gewässern, ist aber ungünstig in starker Strömung.
     ![Hochrückige Körperform (Brasse)](img/koerperform_hoch.png)
--   **Schlangenförmig:** Der Körper ist sehr lang und rund (z.B. Aal), ideal um sich am Grund und in engen Spalten zu bewegen.
+
+*   **Schlangenförmig:** Der Körper ist sehr lang und rund (z.B. Aal), ideal um sich am Grund und in engen Spalten zu bewegen.
     ![Schlangenförmige Körperform (Aal)](img/koerperform_schlange.png)
 
 Die Haut des Fisches ist komplex aufgebaut und besteht aus zwei Hauptschichten:
-1.  **Oberhaut (Epidermis):** Sie enthält viele Schleimzellen, die die wichtige Schleimschicht produzieren.
-2.  **Lederhaut (Dermis):** Sie ist fester und enthält Blutgefäße, Nerven sowie die Farbzellen. In ihr sind auch die Schuppen verankert.
+
+*   **Oberhaut (Epidermis):** Sie enthält viele Schleimzellen, die die wichtige Schleimschicht produzieren.
+*   **Lederhaut (Dermis):** Sie ist fester und enthält Blutgefäße, Nerven sowie die Farbzellen. In ihr sind auch die Schuppen verankert.
 
 Die Schuppen liegen wie Dachziegel übereinander. Sie sind nicht nur Schutz, sondern auch ein Wachstumsprotokoll: Ähnlich wie bei Baumringen kann man an den Jahresringen auf den Schuppen das Alter eines Fisches ablesen. Im Winter, wenn das Wachstum langsamer ist, entstehen engere Ringe - im Sommer weitere Abstände.
 
 Man unterscheidet im Wesentlichen zwei Schuppenarten:
--   **Rundschuppen (Cycloidschuppen):** Diese sind am Hinterrand glatt und rund. Streicht man über den Fisch, fühlt er sich glatt an. Typisch für fast alle Friedfische (z.B. Karpfen, Rotauge) und Salmoniden (Forelle).
--   **Kammschuppen (Ctenoidschuppen):** Diese besitzen am Hinterrand kleine Zähnchen oder Dornen. Der Fisch fühlt sich rau an, wie Schmirgelpapier. Typisch für Barschhaltige (z.B. Barsch, Zander).
+
+*   **Rundschuppen (Cycloidschuppen):** Diese sind am Hinterrand glatt und rund. Streicht man über den Fisch, fühlt er sich glatt an. Typisch für fast alle Friedfische (z.B. Karpfen, Rotauge) und Salmoniden (Forelle).
+*   **Kammschuppen (Ctenoidschuppen):** Diese besitzen am Hinterrand kleine Zähnchen oder Dornen. Der Fisch fühlt sich rau an, wie Schmirgelpapier. Typisch für Barschhaltige (z.B. Barsch, Zander).
 
 Über der Schuppenschicht liegt die dünne Schleimschicht. Sie reduziert den Wasserwiderstand, schützt vor Krankheitserregern (Bakterien, Pilze) und hilft bei der Osmoregulation. Deshalb ist es so wichtig, beim Umgang mit gefangenen Fischen diese Schleimschicht nicht zu beschädigen (Hände vorher nass machen!).
 
@@ -40,16 +45,18 @@ Man unterscheidet im Wesentlichen zwei Schuppenarten:
 Die Form des Maules und die Bezahnung verraten, wo und was ein Fisch frisst.
 
 **Maulstellungen:**
--   **Oberständiges Maul:** Der Unterkiefer ist länger als der Oberkiefer, die Maulspalte zeigt nach oben (z.B. Hecht). Diese Fische jagen oft an der Wasseroberfläche.
+
+*   **Oberständiges Maul:** Der Unterkiefer ist länger als der Oberkiefer, die Maulspalte zeigt nach oben (z.B. Hecht). Diese Fische jagen oft an der Wasseroberfläche.
     ![Oberständiges Maul (Hecht)](img/maulstellung_oberstaendig.png)
--   **Endständiges Maul:** Ober- und Unterkiefer sind gleich lang, die Maulspalte zeigt nach vorne (z.B. Forelle, Rotauge). Typisch für Fische, die im freien Wasser jagen.
+*   **Endständiges Maul:** Ober- und Unterkiefer sind gleich lang, die Maulspalte zeigt nach vorne (z.B. Forelle, Rotauge). Typisch für Fische, die im freien Wasser jagen.
     ![Endständiges Maul (Forelle)](img/maulstellung_endstaendig.png)
--   **Unterständiges Maul:** Der Oberkiefer ragt über den Unterkiefer, die Maulöffnung zeigt nach unten (z.B. Karpfen, Barbe). Dies ist typisch für Fische, die ihre Nahrung am Grund suchen (Gründler).
+*   **Unterständiges Maul:** Der Oberkiefer ragt über den Unterkiefer, die Maulöffnung zeigt nach unten (z.B. Karpfen, Barbe). Dies ist typisch für Fische, die ihre Nahrung am Grund suchen (Gründler).
     ![Unterständiges Maul (Karpfen)](img/maulstellung_unterstaendig.png)
 
 **Bezahnung:**
--   **Kieferzähne:** Raubfische (z.B. Hecht, Zander) besitzen oft spitze Zähne im Kiefer (z.B. "Hundszähne"), um Beute zu greifen und festzuhalten.
--   **Schlundzähne:** Friedfische (z.B. Karpfen, Rotauge) haben im Maul selbst keine Zähne ("zahnloses Maul"). Stattdessen sitzen tief im Schlund auf den Schlundknochen Zähne, die die Nahrung gegen eine knöcherne Kauplatte (Karpfenstein) am Schädelboden zermahlen.
+
+*   **Kieferzähne:** Raubfische (z.B. Hecht, Zander) besitzen oft spitze Zähne im Kiefer (z.B. "Hundszähne"), um Beute zu greifen und festzuhalten.
+*   **Schlundzähne:** Friedfische (z.B. Karpfen, Rotauge) haben im Maul selbst keine Zähne ("zahnloses Maul"). Stattdessen sitzen tief im Schlund auf den Schlundknochen Zähne, die die Nahrung gegen eine knöcherne Kauplatte (Karpfenstein) am Schädelboden zermahlen.
 
 ### Die Flossen - Steuerung und Antrieb
 
@@ -61,8 +68,9 @@ Die Rückenflosse (Dorsalflosse) stabilisiert den Fisch und verhindert ein seitl
 
 Die paarigen Brustflossen dienen zum Bremsen und für präzise Manöver. Die Bauchflossen unterstützen diese Bewegungen und helfen bei der Stabilisierung.
 Die Position der Bauchflossen verrät viel über die Entwicklungsgeschichte:
--   **Bauchständig:** Die Bauchflossen sitzen weit *hinter* den Brustflossen (z.B. Karpfen, Forelle). Dies ist ein Merkmal eher ursprünglicher Arten.
--   **Brustständig:** Die Bauchflossen sind nach vorne gewandert und sitzen fast direkt *unter* den Brustflossen (z.B. Barsch, Zander). Dies ermöglicht eine noch bessere Manövrierfähigkeit.
+
+*   **Bauchständig:** Die Bauchflossen sitzen weit *hinter* den Brustflossen (z.B. Karpfen, Forelle). Dies ist ein Merkmal eher ursprünglicher Arten.
+*   **Brustständig:** Die Bauchflossen sind nach vorne gewandert und sitzen fast direkt *unter* den Brustflossen (z.B. Barsch, Zander). Dies ermöglicht eine noch bessere Manövrierfähigkeit.
 
 Die Afterflosse, unterhalb des Fisches gelegen, sorgt zusammen mit der Rückenflosse für die Richtungsstabilität.
 
@@ -78,13 +86,15 @@ Unter der Oberfläche verbirgt sich ein hochkomplexes System. Das Skelett besteh
 
 **Verdauungssystem:**
 Der Verdauungstrakt ist eng an die Nahrung angepasst:
--   **Raubfische (Fleischfresser):** Sie haben einen kurzen Darm (oft kürzer als die Körperlänge), da tierische Nahrung leicht verdaulich ist. Der Magen ist oft als dehnbarer Sackmagen ausgebildet, um große Beute aufzunehmen.
--   **Friedfische (Pflanzen-/Allesfresser):** Sie besitzen einen sehr langen Darm (z.B. beim Karpfen 2-3 mal so lang wie der Körper), da pflanzliche Nahrung schwerer aufzuschließen ist. Viele Friedfische haben keinen echten Magen (magenlose Fische).
+
+*   **Raubfische (Fleischfresser):** Sie haben einen kurzen Darm (oft kürzer als die Körperlänge), da tierische Nahrung leicht verdaulich ist. Der Magen ist oft als dehnbarer Sackmagen ausgebildet, um große Beute aufzunehmen.
+*   **Friedfische (Pflanzen-/Allesfresser):** Sie besitzen einen sehr langen Darm (z.B. beim Karpfen 2-3 mal so lang wie der Körper), da pflanzliche Nahrung schwerer aufzuschließen ist. Viele Friedfische haben keinen echten Magen (magenlose Fische).
 
 Ein besonderes Organ ist die **Schwimmblase**. Sie funktioniert wie ein interner Auftriebskörper und ermöglicht es dem Fisch, ohne Energieaufwand in verschiedenen Wassertiefen zu schweben.
 Wir unterscheiden dabei zwei Gruppen:
-1.  **Luftröhrenfische (Physostomen):** Sie haben eine Verbindung zwischen Schwimmblase und Vorderdarm (Ductus pneumaticus). Sie können Druckunterschiede schnell ausgleichen, indem sie Luft "rülpsen" oder schlucken (z.B. Forelle, Hecht, Karpfen).
-2.  **Luftpumpenfische (Physoklisten):** Diese Verbindung fehlt oder ist verkümmert. Der Gasaustausch erfolgt langsam über das Blut (Gasdrüse). Werden diese Fische (z.B. Barsch, Zander) schnell aus großer Tiefe geholt, dehnt sich die Schwimmblase explosionsartig aus, drückt den Magen aus dem Maul und führt zu tödlichen Verletzungen (Barotrauma). Solche Fische haben kaum Überlebenschancen.
+
+*   **Luftröhrenfische (Physostomen):** Sie haben eine Verbindung zwischen Schwimmblase und Vorderdarm (Ductus pneumaticus). Sie können Druckunterschiede schnell ausgleichen, indem sie Luft "rülpsen" oder schlucken (z.B. Forelle, Hecht, Karpfen).
+*   **Luftpumpenfische (Physoklisten):** Diese Verbindung fehlt oder ist verkümmert. Der Gasaustausch erfolgt langsam über das Blut (Gasdrüse). Werden diese Fische (z.B. Barsch, Zander) schnell aus großer Tiefe geholt, dehnt sich die Schwimmblase explosionsartig aus, drückt den Magen aus dem Maul und führt zu tödlichen Verletzungen (Barotrauma). Solche Fische haben kaum Überlebenschancen.
 
 ## Die Atmung der Fische
 
@@ -131,25 +141,28 @@ In der Fachsprache nennt man das männliche Tier **Milchner** (wegen der milchig
 ### Laichzeit und Laichverhalten
 
 Die Fortpflanzung (Laichzeit) ist artspezifisch und temperaturabhängig.
--   **Winterlaicher:** z.B. Forelle, Quappe (November bis Februar)
--   **Frühjahrslaicher:** z.B. Hecht, Äsche (Februar bis Mai)
--   **Sommerlaicher:** z.B. Karpfen, Schleie, Wels (Mai bis Juli)
+
+*   **Winterlaicher:** z.B. Forelle, Quappe (November bis Februar)
+*   **Frühjahrslaicher:** z.B. Hecht, Äsche (Februar bis Mai)
+*   **Sommerlaicher:** z.B. Karpfen, Schleie, Wels (Mai bis Juli)
 
 Während der Laichzeit bilden manche Fische ein "Laichkleid" (intensivere Farben) oder einen "Laichhaken" (männliche Forellen).
 
 ### Wanderverhalten
 
 Viele Fische unternehmen Wanderungen zum Laichen. Wir unterscheiden:
--   **Anadrome Wanderfische:** Sie leben im Meer und wandern zum Laichen ins Süßwasser (die Flüsse hinauf). Beispiel: Lachs, Meerforelle ("Lachs steigt auf").
--   **Katadrome Wanderfische:** Sie leben im Süßwasser und wandern zum Laichen ins Meer (in die Tiefe). Beispiel: Aal ("Aal steigt ab").
--   **Potamodrome Fische:** Sie wandern innerhalb des Süßwassersystems (z.B. Barbe, Nase).
+
+*   **Anadrome Wanderfische:** Sie leben im Meer und wandern zum Laichen ins Süßwasser (die Flüsse hinauf). Beispiel: Lachs, Meerforelle ("Lachs steigt auf").
+*   **Katadrome Wanderfische:** Sie leben im Süßwasser und wandern zum Laichen ins Meer (in die Tiefe). Beispiel: Aal ("Aal steigt ab").
+*   **Potamodrome Fische:** Sie wandern innerhalb des Süßwassersystems (z.B. Barbe, Nase).
 
 ### Der Laichakt
 
 Die meisten heimischen Fische sind Freilaicher mit äußerer Befruchtung.
 Je nach Ablageort unterscheidet man:
--   **Kieslaicher (Lithophile):** Legen Eier in kiesigem Grund ab (z.B. Forelle).
--   **Krautlaicher (Phytophile):** Kleben Eier an Wasserpflanzen (z.B. Hecht, Karpfen).
+
+*   **Kieslaicher (Lithophile):** Legen Eier in kiesigem Grund ab (z.B. Forelle).
+*   **Krautlaicher (Phytophile):** Kleben Eier an Wasserpflanzen (z.B. Hecht, Karpfen).
 
 Einige Arten betreiben Brutpflege (z.B. Stichling, Wels, Zander), die meisten überlassen den Laich sich selbst.
 
@@ -160,13 +173,15 @@ Aus dem befruchteten Ei schlüpft die Larve, die sich zunächst von ihrem Dotter
 ## Fischkrankheiten
 
 Als verantwortungsvoller Angler muss man Krankheiten erkennen:
--   **Verhaltensauffälligkeiten:** Taumeln, Apathie, Scheuern am Boden.
--   **Äußere Merkmale:** Geschwüre, Pilzbeläge, Glotzaugen, abstehende Schuppen, blasse Kiemen.
+
+*   **Verhaltensauffälligkeiten:** Taumeln, Apathie, Scheuern am Boden.
+*   **Äußere Merkmale:** Geschwüre, Pilzbeläge, Glotzaugen, abstehende Schuppen, blasse Kiemen.
 
 Wichtige Krankheiten:
--   **Fischschimmel (Verpilzung):** Watteartige Beläge, oft nach Verletzung der Schleimhaut.
--   **Weißpünktchenkrankheit (Ichthyophthiriose):** Parasitärer Befall, weiße Punkte auf Haut/Flossen.
--   **Frühjahrsvirämie:** Viruserkrankung oft bei Karpfen (Bauchwassersucht).
+
+*   **Fischschimmel (Verpilzung):** Watteartige Beläge, oft nach Verletzung der Schleimhaut.
+*   **Weißpünktchenkrankheit (Ichthyophthiriose):** Parasitärer Befall, weiße Punkte auf Haut/Flossen.
+*   **Frühjahrsvirämie:** Viruserkrankung oft bei Karpfen (Bauchwassersucht).
 
 ## Altersbestimmung
 
@@ -178,4 +193,3 @@ Die allgemeine Fischkunde lehrt uns das "Funktionsprinzip Fisch". Von der hydrod
 
 ---
 
-*Hinweis: Dieses Dokument dient der Prüfungsvorbereitung für den Angelschein. Die Inhalte basieren auf allgemeinen fischbiologischen Kenntnissen.*

@@ -17,7 +17,7 @@ Um die PDFs zu erzeugen, müssen folgende Tools auf deinem System installiert se
 Unter Debian/Ubuntu kannst du die Abhängigkeiten wie folgt installieren:
 ```bash
 sudo apt update
-sudo apt install pandoc texlive-latex-base texlive-xetex texlive-luatex fonts-dejavu-core
+sudo apt install pandoc texlive-latex-base texlive-luatex fonts-dejavu-core
 ```
 
 ### PDFs erstellen

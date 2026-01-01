@@ -57,6 +57,8 @@ Schleien lieben verkrautete Gewässer mit weichem, schlammigem Grund. Sie sind d
 **Besonderheiten:**
 Schleien können in sauerstoffarmen Gewässern überleben, in denen andere Fische eingehen würden. Ihr dicker Schleimmantel schützt sie vor Krankheiten und Verletzungen.
 
+![Schleie (Tinca tinca)](img/fisch_schleie.png)
+
 ### Der Brassen (Abramis brama)
 
 Der Brassen, auch Brachse oder Blei genannt, ist in vielen Gewässern der häufigste Weißfisch.
@@ -75,6 +77,8 @@ Brassen leben in großen Schwärmen in stehenden und langsam fließenden Gewäss
 
 **Besonderheiten:**
 Junge Brassen haben regional unterschiedliche Bezeichnungen; oft wird 'Brachse' aber auch synonym für die Art an sich verwendet. In nährstoffreichen Gewässern können Brassen zur dominanten Art werden.
+
+![Brassen (Abramis brama)](img/fisch_brassen.png)
 
 ### Die Rotfeder (Scardinius erythrophthalmus)
 
@@ -95,6 +99,8 @@ Rotfedern bevorzugen pflanzenreiche, stehende oder langsam fließende Gewässer.
 
 **Besonderheiten:**
 Der wichtigste Unterschied zum Rotauge: Bei der Rotfeder ist das Maul oberständig und die Rückenflosse sitzt weiter hinten.
+
+![Rotfeder (Scardinius erythrophthalmus)](img/fisch_rotfeder.png)
 
 ### Das Rotauge (Rutilus rutilus)
 
