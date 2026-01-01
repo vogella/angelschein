@@ -27,6 +27,8 @@ Der Karpfen ist wohl der bekannteste Friedfisch und bei Anglern sehr beliebt. Ur
 - Lange Rückenflosse mit einem gezähnten Hartstrahl
 - Kann über 1 Meter lang und über 30 kg schwer werden
 
+![Karpfen (Cyprinus carpio)](img/fisch_karpfen.png)
+
 **Lebensweise:**
 Karpfen bevorzugen stehende oder langsam fließende, warme Gewässer mit Pflanzenbewuchs und schlammigem Grund. Sie sind Allesfresser und ernähren sich von Bodentieren, Schnecken, Muscheln, Würmern und Pflanzen. Im Winter verfallen sie in eine Art Winterruhe und fressen kaum.
 
