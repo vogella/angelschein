@@ -1,10 +1,10 @@
-# Makefile for generating PDFs using Pandoc directly with pdflatex
+# Makefile for generating PDFs using Pandoc directly with lualatex
 
 # Tools
 PANDOC := pandoc
 
 # Files
-SOURCES := $(wildcard *.md)
+SOURCES := $(wildcard [0-9][0-9]-*.md)
 OUT_DIR := pdfs
 OBJECTS := $(patsubst %.md,$(OUT_DIR)/%.pdf,$(SOURCES))
 
