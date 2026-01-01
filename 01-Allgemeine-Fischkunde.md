@@ -15,9 +15,13 @@ Der Körper ist stromlinienförmig, wodurch der Fisch mit minimalem Energieaufwa
 
 Wir unterscheiden verschiedene typische Körperformen, die viel über den Lebensraum und die Jagdweise verraten:
 -   **Spindelförmig (Torpedoförmig):** Der Körper ist im Querschnitt fast rund und verjüngt sich zu beiden Enden. Dies ist die ideale Form für ausdauernde Schwimmer, auch in starker Strömung (z.B. Forelle, Lachs).
+    ![Spindelförmige Körperform (Forelle)](img/koerperform_torpedo.png)
 -   **Pfeilförmig:** Der Körper ist langgestreckt, aber Rücken- und Afterflosse sind weit nach hinten verlagert. Dies ermöglicht keine Ausdauer, aber eine enorme Beschleunigung aus dem Stand für den Beutefang (z.B. Hecht).
+    ![Pfeilförmige Körperform (Hecht)](img/koerperform_pfeil.png)
 -   **Hochrückig:** Der Körper ist seitlich stark abgeflacht (z.B. Brasse). Dies sorgt für gute Manövrierfähigkeit in pflanzenreichen Gewässern, ist aber ungünstig in starker Strömung.
+    ![Hochrückige Körperform (Brasse)](img/koerperform_hoch.png)
 -   **Schlangenförmig:** Der Körper ist sehr lang und rund (z.B. Aal), ideal um sich am Grund und in engen Spalten zu bewegen.
+    ![Schlangenförmige Körperform (Aal)](img/koerperform_schlange.png)
 
 Die Haut des Fisches ist komplex aufgebaut und besteht aus zwei Hauptschichten:
 1.  **Oberhaut (Epidermis):** Sie enthält viele Schleimzellen, die die wichtige Schleimschicht produzieren.
@@ -37,8 +41,11 @@ Die Form des Maules und die Bezahnung verraten, wo und was ein Fisch frisst.
 
 **Maulstellungen:**
 -   **Oberständiges Maul:** Der Unterkiefer ist länger als der Oberkiefer, die Maulspalte zeigt nach oben (z.B. Hecht). Diese Fische jagen oft an der Wasseroberfläche.
+    ![Oberständiges Maul (Hecht)](img/maulstellung_oberstaendig.png)
 -   **Endständiges Maul:** Ober- und Unterkiefer sind gleich lang, die Maulspalte zeigt nach vorne (z.B. Forelle, Rotauge). Typisch für Fische, die im freien Wasser jagen.
+    ![Endständiges Maul (Forelle)](img/maulstellung_endstaendig.png)
 -   **Unterständiges Maul:** Der Oberkiefer ragt über den Unterkiefer, die Maulöffnung zeigt nach unten (z.B. Karpfen, Barbe). Dies ist typisch für Fische, die ihre Nahrung am Grund suchen (Gründler).
+    ![Unterständiges Maul (Karpfen)](img/maulstellung_unterstaendig.png)
 
 **Bezahnung:**
 -   **Kieferzähne:** Raubfische (z.B. Hecht, Zander) besitzen oft spitze Zähne im Kiefer (z.B. "Hundszähne"), um Beute zu greifen und festzuhalten.
@@ -47,6 +54,8 @@ Die Form des Maules und die Bezahnung verraten, wo und was ein Fisch frisst.
 ### Die Flossen - Steuerung und Antrieb
 
 Fische besitzen verschiedene Arten von Flossen, und jede hat eine spezifische Aufgabe. Die Schwanzflosse (Caudalflosse) ist der Hauptantrieb. Durch seitliche Bewegungen des Schwanzstiels wird der Fisch nach vorne getrieben. Die Form der Schwanzflosse verrät viel über die Lebensweise: Schnelle Raubfische wie Hechte haben oft gegabelte Schwanzflossen, während Grundfische wie Karpfen eher abgerundete Schwanzflossen besitzen.
+
+![Übersicht der Flossenarten](img/flossen_uebersicht.png)
 
 Die Rückenflosse (Dorsalflosse) stabilisiert den Fisch und verhindert ein seitliches Kippen. Manche Fischarten wie Barsche haben sogar zwei Rückenflossen - eine vordere mit Hartstrahlen als Schutz und eine hintere mit Weichstrahlen.
 
@@ -59,9 +68,13 @@ Die Afterflosse, unterhalb des Fisches gelegen, sorgt zusammen mit der Rückenfl
 
 Eine Besonderheit ist die **Fettflosse**. Sie ist eine kleine, strahlenlose Hautfahne zwischen Rücken- und Schwanzflosse. Sie ist ein wichtiges Erkennungsmerkmal für alle lachsartigen Fische (**Salmoniden**) wie Forellen, Äschen und Saiblinge, kommt aber auch bei Zwergwelsen vor. Friedfische wie Karpfen haben *keine* Fettflosse.
 
+![Fettflosse bei Salmoniden](img/flossen_fettflosse.png)
+
 ### Die innere Anatomie
 
 Unter der Oberfläche verbirgt sich ein hochkomplexes System. Das Skelett besteht bei den meisten heimischen Fischen aus Knochen (Knochenfische/Osteichthyes).
+
+![Innere Anatomie eines Fisches](img/innere_anatomie.png)
 
 **Verdauungssystem:**
 Der Verdauungstrakt ist eng an die Nahrung angepasst:

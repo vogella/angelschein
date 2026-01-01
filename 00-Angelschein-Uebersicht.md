@@ -2,7 +2,8 @@
 
 ## Einführung
 
-Der Angelschein (auch Fischereischein genannt) ist in Deutschland erforderlich, um legal angeln zu dürfen. Die Fischerprüfung umfasst verschiedene Wissensgebiete, die sicherstellen, dass Angler über das notwendige Fachwissen verfügen, um verantwortungsvoll und tierschutzgerecht zu angeln.
+Der Angelschein (auch Fischereischein genannt) ist in Deutschland erforderlich, um legal angeln zu dürfen. 
+Die Fischerprüfung umfasst verschiedene Wissensgebiete, die sicherstellen, dass Angler über das notwendige Fachwissen verfügen, um verantwortungsvoll und tierschutzgerecht zu angeln.
 
 ## Die 6 Hauptwissensgebiete
 
@@ -57,24 +58,6 @@ Der Angelschein (auch Fischereischein genannt) ist in Deutschland erforderlich, 
 
 ## Prüfungsformat
 
-Die Fischerprüfung besteht üblicherweise aus:
+Die Fischerprüfung besteht aus:
 - **Theoretischer Teil**: Multiple-Choice-Fragen aus allen Wissensgebieten
-- **Praktischer Teil**: Erkennen von Fischen, Zusammenstellen von Angelgeräten
-
-## Lernempfehlungen
-
-1. Arbeite die Wissensgebiete systematisch durch
-2. Nutze verschiedene Lernmethoden (Lesen, Hören, Bilder)
-3. Wiederhole regelmäßig
-4. Übe mit Prüfungsfragen
-5. Besuche einen Vorbereitungskurs
-
-## Zeitplan
-
-- **Gesamtdauer**: ca. 4-8 Wochen intensive Vorbereitung
-- **Pro Wissensgebiet**: 3-7 Tage
-- **Wiederholung**: 1-2 Wochen vor der Prüfung
-
----
-
-*Diese Übersicht dient als Grundlage für die Vorbereitung auf die Fischerprüfung. Die einzelnen Wissensgebiete werden in separaten, detaillierten Dokumenten behandelt.*
+- **Praktischer Teil**: Zusammenstellen von Angelgeräten
