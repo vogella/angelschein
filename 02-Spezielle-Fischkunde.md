@@ -4,6 +4,96 @@
 
 Während die allgemeine Fischkunde uns das grundlegende Verständnis für Fische vermittelt hat, widmen wir uns nun den konkreten Arten, die in deutschen Gewässern leben. Die spezielle Fischkunde ist für jeden Angler von zentraler Bedeutung - nicht nur für die Prüfung, sondern auch für die Praxis. Wer Fische sicher bestimmen kann, weiß, welche Art geschützt ist, welche Schonzeiten gelten und welche Mindestmaße einzuhalten sind.
 
+
+![Fische](img/relative-fische.jpg)
+
+
+<!--
+{
+
+  "style": "black and white",
+
+  "background": "transparent",
+
+  "composition": "übersichtliche Anordnung aller Fische, jeweils drei fische nebeneinander",
+
+  "view": "Seitenansicht",
+
+  "detail_level": "hoch, klare Konturen, keine Farben oder Schattierungen",
+
+  "relative_scale": "Fische sind proportional in ihrer typischen Durchschnittsgröße zueinander dargestellt",
+
+  "subjects": [
+
+    {
+
+      "name": "Hecht",
+
+      "label_position": "unter dem Fisch",
+
+      "notes": "länglich, größter Fisch in der Übersicht"
+
+    },
+
+    {
+
+      "name": "Zander",
+
+      "label_position": "unter dem Fisch",
+
+      "notes": "schlank, etwas kleiner als der Hecht"
+
+    },
+
+    {
+
+      "name": "Barsch",
+
+      "label_position": "unter dem Fisch",
+
+      "notes": "kompakter Körper, deutlich kleiner als Zander"
+
+    },
+
+    {
+
+      "name": "Forelle",
+
+      "label_position": "unter dem Fisch",
+
+      "notes": "stromlinienförmig, etwa in der Größe des Barsches"
+
+    },
+
+    {
+
+      "name": "Brasse",
+
+      "label_position": "unter dem Fisch",
+
+      "notes": "hoch gebauter Körper, mittlere Größe"
+
+    },
+
+    {
+
+      "name": "Karpfen",
+
+      "label_position": "unter dem Fisch",
+
+      "notes": "kräftiger, massiger Körper, größer als Brasse, kleiner als Hecht"
+
+    }
+
+  ],
+
+  "text_style": "schlichte serifenlose Schrift, schwarz",
+
+  "intended_use": "Infografik / Poster / Druck"
+
+}
+
+-->
 ## Friedfische versus Raubfische
 
 Bevor wir uns den einzelnen Arten widmen, ist es wichtig, die grundlegende Unterscheidung zwischen Friedfischen und Raubfischen zu verstehen.
@@ -27,7 +117,7 @@ Der Karpfen ist wohl der bekannteste Friedfisch und bei Anglern sehr beliebt. Ur
 - Lange Rückenflosse mit einem gezähnten Hartstrahl
 - Kann über 1 Meter lang und über 30 kg schwer werden
 
-![Karpfen (Cyprinus carpio)](img/fisch_karpfen.png)
+![Karpfen (Cyprinus carpio)](img/fisch_karpfen.png){ width=50% }
 
 **Lebensweise:**
 Karpfen bevorzugen stehende oder langsam fließende, warme Gewässer mit Pflanzenbewuchs und schlammigem Grund. Sie sind Allesfresser und ernähren sich von Bodentieren, Schnecken, Muscheln, Würmern und Pflanzen. Im Winter verfallen sie in eine Art Winterruhe und fressen kaum.
@@ -57,7 +147,7 @@ Schleien lieben verkrautete Gewässer mit weichem, schlammigem Grund. Sie sind d
 **Besonderheiten:**
 Schleien können in sauerstoffarmen Gewässern überleben, in denen andere Fische eingehen würden. Ihr dicker Schleimmantel schützt sie vor Krankheiten und Verletzungen.
 
-![Schleie (Tinca tinca)](img/fisch_schleie.png)
+![Schleie (Tinca tinca)](img/fisch_schleie.png){ width=50% }
 
 ### Der Brassen (Abramis brama)
 
@@ -78,7 +168,7 @@ Brassen leben in großen Schwärmen in stehenden und langsam fließenden Gewäss
 **Besonderheiten:**
 Junge Brassen haben regional unterschiedliche Bezeichnungen; oft wird 'Brachse' aber auch synonym für die Art an sich verwendet. In nährstoffreichen Gewässern können Brassen zur dominanten Art werden.
 
-![Brassen (Abramis brama)](img/fisch_brassen.png)
+![Brassen (Abramis brama)](img/fisch_brassen.png){ width=50% }
 
 ### Die Rotfeder (Scardinius erythrophthalmus)
 
@@ -100,7 +190,7 @@ Rotfedern bevorzugen pflanzenreiche, stehende oder langsam fließende Gewässer.
 **Besonderheiten:**
 Der wichtigste Unterschied zum Rotauge: Bei der Rotfeder ist das Maul oberständig und die Rückenflosse sitzt weiter hinten.
 
-![Rotfeder (Scardinius erythrophthalmus)](img/fisch_rotfeder.png)
+![Rotfeder (Scardinius erythrophthalmus)](img/fisch_rotfeder.png){ width=50% }
 
 ### Das Rotauge (Rutilus rutilus)
 
@@ -122,9 +212,12 @@ Rotaugen sind extrem anpassungsfähig und kommen in fast allen Gewässertypen vo
 **Besonderheiten:**
 Das Rotauge ist ein idealer Einsteigerfisch und gilt als guter Köderfisch für das Raubfischangeln.
 
+![Rotauge (Rutilus rutilus)](img/fisch_rotauge.png){ width=50% }
+
 ### Die Barbe (Barbus barbus)
 
 Die Barbe ist ein typischer Bewohner schnell fließender, sauerstoffreicher Flüsse.
+Die Barbe ist ein Knochenfisch, diese haben ein teilweise oder vollständiges verknöchertes Skelett.
 
 **Erkennungsmerkmale:**
 - Langgestreckter, torpedoförmiger Körper
@@ -134,12 +227,16 @@ Die Barbe ist ein typischer Bewohner schnell fließender, sauerstoffreicher Flü
 - Kräftige Schwanzflosse
 
 **Lebensweise:**
-Barben sind typische Flussfische, die starke Strömungen lieben. Sie halten sich am Grund auf und ernähren sich von Würmern, Schnecken, Insektenlarven und kleinen Fischen. Sie sind ausgezeichnete Schwimmer.
+Barben sind typische Flussfische, die starke Strömungen lieben. 
+Sie halten sich am Grund auf und ernähren sich von Würmern, Schnecken, Insektenlarven und kleinen Fischen. Sie sind ausgezeichnete Schwimmer.
 
 **Laichzeit:** Mai bis Juli
 
 **Besonderheiten:**
-Der Laich und die Rogen der Barbe sind giftig und dürfen nicht verzehrt werden! Die Barbe gibt einer Gewässerregion ihren Namen - die Barbenregion.
+Der Laich und die Rogen der Barbe sind giftig und dürfen nicht verzehrt werden!
+Die Barbe gibt einer Gewässerregion ihren Namen - die Barbenregion.
+
+![Barbe (Barbus barbus)](img/fisch_barbe.jpg){ width=50% }
 
 ### Der Döbel (Squalius cephalus)
 
@@ -159,6 +256,8 @@ Döbel sind vielseitige Fische, die sowohl in Flüssen als auch in Seen vorkomme
 
 **Besonderheiten:**
 Der Döbel ist ein intelligenter, vorsichtiger Fisch, der schwer zu überlisten ist. Er beißt auf viele verschiedene Köder.
+
+![Döbel (Squalius cephalus)](img/fisch_doebel.png){ width=50% }
 
 ## Die wichtigsten Raubfische
 
@@ -181,6 +280,8 @@ Hechte sind Lauerjäger, die aus dem Hinterhalt ihre Beute angreifen. Sie bevorz
 **Besonderheiten:**
 Der Hecht hat über 700 nach hinten gerichtete Zähne. Weibchen werden deutlich größer als Männchen. Alte, große Weibchen nennt man "Hechtmütter".
 
+![Hecht (Esox lucius)](img/fisch_hecht.png){ width=50% }
+
 ### Der Zander (Sander lucioperca)
 
 Der Zander ist ein hervorragender Speisefisch und geschätzter Angelzielfisch.
@@ -199,6 +300,8 @@ Zander bevorzugen große, tiefe, klare Gewässer mit festem Grund. Sie sind däm
 
 **Besonderheiten:**
 Zander betreiben Brutpflege - das Männchen bewacht und belüftet das Gelege. Zander sind empfindlich gegenüber Wasserverschmutzung.
+
+![Zander (Sander lucioperca)](img/fisch_zander.png)
 
 ### Der Flussbarsch (Perca fluviatilis)
 
@@ -219,12 +322,14 @@ Barsche leben in Schwärmen, wobei sich oft gleichgroße Fische zusammenschließ
 **Besonderheiten:**
 Die stacheligen Hartstrahlen der Rückenflosse können schmerzhafte Verletzungen verursachen. Barsche sind sehr neugierig und oft leicht zu fangen.
 
+![Flussbarsch (Perca fluviatilis)](img/fisch_flussbarsch.png)
+
 ### Die Forelle (Salmo trutta)
 
 Die Forelle tritt in verschiedenen Formen auf - als Bachforelle, Seeforelle und Meerforelle (alle gehören zur gleichen Art).
 
 **Erkennungsmerkmale:**
-- Stromlinienförmiger, torpedoartiger Körper
+- Spindel- bzw. torpedoförmiger Körper
 - Kleine Fettflosse zwischen Rücken- und Schwanzflosse
 - Zahlreiche schwarze und rote Punkte auf den Flanken
 - Großes Maul mit vielen kleinen Zähnen
@@ -237,6 +342,8 @@ Bachforellen bevorzugen kalte, sauerstoffreiche, schnell fließende Bäche und F
 
 **Besonderheiten:**
 Forellen benötigen sehr sauberes, sauerstoffreiches Wasser. Sie sind ausgezeichnete Indikatoren für gute Wasserqualität. Die Fettflosse ist charakteristisch für alle Salmoniden (Lachsartige).
+
+![Forelle (Salmo trutta)](img/fisch_forelle.png)
 
 ### Die Regenbogenforelle (Oncorhynchus mykiss)
 
