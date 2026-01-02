@@ -15,24 +15,23 @@ Der Körper ist stromlinienförmig, wodurch der Fisch mit minimalem Energieaufwa
 Wir unterscheiden verschiedene typische Körperformen, die viel über den Lebensraum und die Jagdweise verraten:
 
 *   **Spindelförmig (Torpedoförmig):** Der Körper ist im Querschnitt fast rund und verjüngt sich zu beiden Enden. Dies ist die ideale Form für ausdauernde Schwimmer, auch in starker Strömung (z.B. Forelle, Lachs).
-    ![Spindelförmige Körperform (Forelle)](img/koerperform_torpedo.png)
+    ![Spindelförmige Körperform (Forelle)](img/koerperform_torpedo.png){ width=50% }
 
 *   **Pfeilförmig:** Der Körper ist langgestreckt, aber Rücken- und Afterflosse sind weit nach hinten verlagert. Dies ermöglicht keine Ausdauer, aber eine enorme Beschleunigung aus dem Stand für den Beutefang (z.B. Hecht).
-    ![Pfeilförmige Körperform (Hecht)](img/koerperform_pfeil.png)
+    ![Pfeilförmige Körperform (Hecht)](img/koerperform_pfeil.png){ width=50% }
 
 *   **Hochrückig:** Der Körper ist seitlich stark abgeflacht (z.B. Brasse). Dies sorgt für gute Manövrierfähigkeit in pflanzenreichen Gewässern, ist aber ungünstig in starker Strömung.
-    ![Hochrückige Körperform (Brasse)](img/koerperform_hoch.png)
+    ![Hochrückige Körperform (Brasse)](img/koerperform_hoch.png){ width=50% }
 
 *   **Schlangenförmig:** Der Körper ist sehr lang und rund (z.B. Aal), ideal um sich am Grund und in engen Spalten zu bewegen.
-    ![Schlangenförmige Körperform (Aal)](img/koerperform_schlange.png)
+    ![Schlangenförmige Körperform (Aal)](img/koerperform_schlange.png){ width=50% }
 
 Die Haut des Fisches ist komplex aufgebaut und besteht aus zwei Hauptschichten:
 
 *   **Oberhaut (Epidermis):** Sie enthält viele Schleimzellen, die die wichtige Schleimschicht produzieren.
 *   **Lederhaut (Dermis):** Sie ist fester und enthält Blutgefäße, Nerven sowie die Farbzellen. In ihr sind auch die Schuppen verankert.
 
-Die Schuppen liegen wie Dachziegel übereinander. Sie sind nicht nur Schutz, sondern auch ein Wachstumsprotokoll: Ähnlich wie bei Baumringen kann man an den Jahresringen auf den Schuppen das Alter eines Fisches ablesen. Im Winter, wenn das Wachstum langsamer ist, entstehen engere Ringe - im Sommer weitere Abstände.
-
+Die Schuppen liegen wie Dachziegel übereinander und dienen als Schutz.
 Man unterscheidet im Wesentlichen zwei Schuppenarten:
 
 *   **Rundschuppen (Cycloidschuppen):** Diese sind am Hinterrand glatt und rund. Streicht man über den Fisch, fühlt er sich glatt an. Typisch für fast alle Friedfische (z.B. Karpfen, Rotauge) und Salmoniden (Forelle).
@@ -47,11 +46,11 @@ Die Form des Maules und die Bezahnung verraten, wo und was ein Fisch frisst.
 **Maulstellungen:**
 
 *   **Oberständiges Maul:** Der Unterkiefer ist länger als der Oberkiefer, die Maulspalte zeigt nach oben (z.B. Hecht). Diese Fische jagen oft an der Wasseroberfläche.
-    ![Oberständiges Maul (Hecht)](img/maulstellung_oberstaendig.png)
+    ![Oberständiges Maul (Hecht)](img/maulstellung_oberstaendig.png){ width=50% }
 *   **Endständiges Maul:** Ober- und Unterkiefer sind gleich lang, die Maulspalte zeigt nach vorne (z.B. Forelle, Rotauge). Typisch für Fische, die im freien Wasser jagen.
-    ![Endständiges Maul (Forelle)](img/maulstellung_endstaendig.png)
+    ![Endständiges Maul (Forelle)](img/maulstellung_endstaendig.png){ width=50% }
 *   **Unterständiges Maul:** Der Oberkiefer ragt über den Unterkiefer, die Maulöffnung zeigt nach unten (z.B. Karpfen, Barbe). Dies ist typisch für Fische, die ihre Nahrung am Grund suchen (Gründler).
-    ![Unterständiges Maul (Karpfen)](img/maulstellung_unterstaendig.png)
+    ![Unterständiges Maul (Karpfen)](img/maulstellung_unterstaendig.png){ width=50% }
 
 **Bezahnung:**
 
@@ -60,29 +59,34 @@ Die Form des Maules und die Bezahnung verraten, wo und was ein Fisch frisst.
 
 ### Die Flossen - Steuerung und Antrieb
 
-Fische besitzen verschiedene Arten von Flossen, und jede hat eine spezifische Aufgabe. Die Schwanzflosse (Caudalflosse) ist der Hauptantrieb. Durch seitliche Bewegungen des Schwanzstiels wird der Fisch nach vorne getrieben. Die Form der Schwanzflosse verrät viel über die Lebensweise: Schnelle Raubfische wie Hechte haben oft gegabelte Schwanzflossen, während Grundfische wie Karpfen eher abgerundete Schwanzflossen besitzen.
+Fische besitzen verschiedene Arten von Flossen, und jede hat eine spezifische Aufgabe. 
+Die **Schwanzflosse** (Caudalflosse) ist der Hauptantrieb. 
+Durch seitliche Bewegungen des Schwanzstiels wird der Fisch nach vorne getrieben.
+Die Form der Schwanzflosse verrät viel über die Lebensweise: Schnelle Raubfische wie Hechte haben oft gegabelte Schwanzflossen, während Grundfische wie Karpfen eher abgerundete Schwanzflossen besitzen.
 
-![Übersicht der Flossenarten](img/flossen_uebersicht.png)
+![Übersicht der Flossenarten](img/flossen_uebersicht.png){ width=50% }
 
-Die Rückenflosse (Dorsalflosse) stabilisiert den Fisch und verhindert ein seitliches Kippen. Manche Fischarten wie Barsche haben sogar zwei Rückenflossen - eine vordere mit Hartstrahlen als Schutz und eine hintere mit Weichstrahlen.
+Die **Rückenflosse** (Dorsalflosse) stabilisiert den Fisch und verhindert ein seitliches Kippen.
+Manche Fischarten wie Barsche haben sogar zwei Rückenflossen - eine vordere mit Hartstrahlen als Schutz und eine hintere mit Weichstrahlen.
 
-Die paarigen Brustflossen dienen zum Bremsen und für präzise Manöver. Die Bauchflossen unterstützen diese Bewegungen und helfen bei der Stabilisierung.
+Die paarigen **Brustflossen** dienen zum Bremsen und für präzise Manöver.
+Die **Bauchflossen** unterstützen diese Bewegungen und helfen bei der Stabilisierung.
 Die Position der Bauchflossen verrät viel über die Entwicklungsgeschichte:
 
 *   **Bauchständig:** Die Bauchflossen sitzen weit *hinter* den Brustflossen (z.B. Karpfen, Forelle). Dies ist ein Merkmal eher ursprünglicher Arten.
 *   **Brustständig:** Die Bauchflossen sind nach vorne gewandert und sitzen fast direkt *unter* den Brustflossen (z.B. Barsch, Zander). Dies ermöglicht eine noch bessere Manövrierfähigkeit.
 
-Die Afterflosse, unterhalb des Fisches gelegen, sorgt zusammen mit der Rückenflosse für die Richtungsstabilität.
+Die **Afterflosse**, unterhalb des Fisches gelegen, sorgt zusammen mit der Rückenflosse für die Richtungsstabilität.
 
 Eine Besonderheit ist die **Fettflosse**. Sie ist eine kleine, strahlenlose Hautfahne zwischen Rücken- und Schwanzflosse. Sie ist ein wichtiges Erkennungsmerkmal für alle lachsartigen Fische (**Salmoniden**) wie Forellen, Äschen und Saiblinge, kommt aber auch bei Zwergwelsen vor. Friedfische wie Karpfen haben *keine* Fettflosse.
 
-![Fettflosse bei Salmoniden](img/flossen_fettflosse.png)
+![Fettflosse bei Salmoniden](img/flossen_fettflosse.png){ width=50% }
 
 ### Die innere Anatomie
 
 Unter der Oberfläche verbirgt sich ein hochkomplexes System. Das Skelett besteht bei den meisten heimischen Fischen aus Knochen (Knochenfische/Osteichthyes).
 
-![Innere Anatomie eines Fisches](img/innere_anatomie.png)
+![Innere Anatomie eines Fisches](img/innere_anatomie.png){ width=50% }
 
 **Verdauungssystem:**
 Der Verdauungstrakt ist eng an die Nahrung angepasst:
@@ -98,11 +102,18 @@ Wir unterscheiden dabei zwei Gruppen:
 
 ## Die Atmung der Fische
 
-Fische atmen über Kiemen. Diese hochspezialisierten Organe sind wahre Meisterwerke der Natur. Wasser wird durch das Maul aufgenommen und über die Kiemen wieder ausgeleitet. In den Kiemen befinden sich unzählige feine Blättchen, die Kiemenlamellen, die von hauchfeinen Blutgefäßen durchzogen sind.
+Fische atmen über Kiemen. 
+Wasser wird durch das Maul aufgenommen und über die Kiemen wieder ausgeleitet. In den Kiemen befinden sich unzählige feine Blättchen, die Kiemenlamellen, die von hauchfeinen Blutgefäßen durchzogen sind.
 
 Hier findet der Gasaustausch statt: Sauerstoff aus dem Wasser diffundiert ins Blut, während Kohlendioxid ins Wasser abgegeben wird. Dieser Prozess funktioniert nach dem Gegenstromprinzip - das Blut fließt in die entgegengesetzte Richtung wie das Wasser. Dadurch wird eine maximale Sauerstoffausbeute erreicht.
 
-Die Effizienz der Kiemenatmung ist beeindruckend, aber sie hat auch ihre Grenzen. Bei warmem Wasser sinkt der Sauerstoffgehalt, was für Fische problematisch werden kann, weshalb sie dann oft sauerstoffreichere Bereiche aufsuchen.
+Die Effizienz der Kiemenatmung ist beeindruckend, aber sie hat auch ihre Grenzen.
+Bei warmem Wasser sinkt der Sauerstoffgehalt, was für Fische problematisch werden kann, weshalb sie dann oft sauerstoffreichere Bereiche aufsuchen.
+
+* Kaltwasserfische: Arten: Bachforelle, Regenbogenforelle, Äsche, Saibling. Bedarf: Mindestens 7 bis 8 mg/l.
+* Fische der Barben- und Brachsenregion: Arten: Barbe, Hecht, Zander, Barsch, Rotauge. Bedarf: Etwa 5 mg/l.
+* "Anspruchslose" Friedfische: Arten: Karpfen, Schleie, Karausche, Giebel. Bedarf: Können kurzzeitig bei 2 bis 3 mg/l überleben.
+
 
 ## Das Kreislaufsystem
 
@@ -185,7 +196,9 @@ Wichtige Krankheiten:
 
 ## Altersbestimmung
 
-Die gängigste Methode ist die **Schuppen-Methode**: Zählen der Jahresringe auf den Schuppen (ähnlich wie bei Bäumen). Auch Otolithen (Gehörsteine) oder Kiemendeckelknochen können genutzt werden. Die Kenntnis des Alters ist wichtig für das Fischereimanagement, um z.B. das Wachstum von Populationen zu verstehen und Schonmaße festzulegen.
+Die gängigste Methode ist die **Schuppen-Methode**: Ähnlich wie bei Baumringen kann man an den Jahresringen auf den Schuppen das Alter eines Fisches ablesen. Im Winter, wenn das Wachstum langsamer ist, entstehen engere Ringe, im Sommer weitere Abstände.
+
+Auch Otolithen (Gehörsteine) oder Kiemendeckelknochen können genutzt werden. Die Kenntnis des Alters ist wichtig für das Fischereimanagement, um z.B. das Wachstum von Populationen zu verstehen und Schonmaße festzulegen.
 
 ## Zusammenfassung
 
