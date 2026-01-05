@@ -5,95 +5,6 @@
 Während die allgemeine Fischkunde uns das grundlegende Verständnis für Fische vermittelt hat, widmen wir uns nun den konkreten Arten, die in deutschen Gewässern leben. Die spezielle Fischkunde ist für jeden Angler von zentraler Bedeutung - nicht nur für die Prüfung, sondern auch für die Praxis. Wer Fische sicher bestimmen kann, weiß, welche Art geschützt ist, welche Schonzeiten gelten und welche Mindestmaße einzuhalten sind.
 
 
-![Fische](img/relative-fische.jpg)
-
-
-<!--
-{
-
-  "style": "black and white",
-
-  "background": "transparent",
-
-  "composition": "übersichtliche Anordnung aller Fische, jeweils drei fische nebeneinander",
-
-  "view": "Seitenansicht",
-
-  "detail_level": "hoch, klare Konturen, keine Farben oder Schattierungen",
-
-  "relative_scale": "Fische sind proportional in ihrer typischen Durchschnittsgröße zueinander dargestellt",
-
-  "subjects": [
-
-    {
-
-      "name": "Hecht",
-
-      "label_position": "unter dem Fisch",
-
-      "notes": "länglich, größter Fisch in der Übersicht"
-
-    },
-
-    {
-
-      "name": "Zander",
-
-      "label_position": "unter dem Fisch",
-
-      "notes": "schlank, etwas kleiner als der Hecht"
-
-    },
-
-    {
-
-      "name": "Barsch",
-
-      "label_position": "unter dem Fisch",
-
-      "notes": "kompakter Körper, deutlich kleiner als Zander"
-
-    },
-
-    {
-
-      "name": "Forelle",
-
-      "label_position": "unter dem Fisch",
-
-      "notes": "stromlinienförmig, etwa in der Größe des Barsches"
-
-    },
-
-    {
-
-      "name": "Brasse",
-
-      "label_position": "unter dem Fisch",
-
-      "notes": "hoch gebauter Körper, mittlere Größe"
-
-    },
-
-    {
-
-      "name": "Karpfen",
-
-      "label_position": "unter dem Fisch",
-
-      "notes": "kräftiger, massiger Körper, größer als Brasse, kleiner als Hecht"
-
-    }
-
-  ],
-
-  "text_style": "schlichte serifenlose Schrift, schwarz",
-
-  "intended_use": "Infografik / Poster / Druck"
-
-}
-
--->
 ## Friedfische versus Raubfische
 
 Bevor wir uns den einzelnen Arten widmen, ist es wichtig, die grundlegende Unterscheidung zwischen Friedfischen und Raubfischen zu verstehen.
@@ -108,7 +19,8 @@ Diese Unterscheidung ist nicht immer trennscharf - manche Fischarten wie der Flu
 
 ### Der Karpfen (Cyprinus carpio)
 
-Der Karpfen ist wohl der bekannteste Friedfisch und bei Anglern sehr beliebt. Ursprünglich aus Asien stammend, wurde er bereits vor Jahrhunderten in Europa eingebürgert.
+Der Karpfen ist der bekannteste Friedfisch und stammt ursprünglich aus Asien.
+Der Karpfen hat keinen Magen und Schlundzähne.
 
 **Erkennungsmerkmale:**
 - Hochrückiger, gedrungener Körperbau
@@ -117,15 +29,18 @@ Der Karpfen ist wohl der bekannteste Friedfisch und bei Anglern sehr beliebt. Ur
 - Lange Rückenflosse mit einem gezähnten Hartstrahl
 - Kann über 1 Meter lang und über 30 kg schwer werden
 
-![Karpfen (Cyprinus carpio)](img/fisch_karpfen.png){ width=50% }
+![Karpfen](img/fisch_karpfen.png){ width=50% }
 
 **Lebensweise:**
-Karpfen bevorzugen stehende oder langsam fließende, warme Gewässer mit Pflanzenbewuchs und schlammigem Grund. Sie sind Allesfresser und ernähren sich von Bodentieren, Schnecken, Muscheln, Würmern und Pflanzen. Im Winter verfallen sie in eine Art Winterruhe und fressen kaum.
+Karpfen bevorzugen stehende oder langsam fließende, warme Gewässer mit Pflanzenbewuchs und schlammigem Grund.
+Sie sind Allesfresser und ernähren sich von Bodentieren, Schnecken, Muscheln, Würmern und Pflanzen.
+Im Winter verfallen sie in eine Art Winterruhe und fressen kaum.
 
 **Laichzeit:** Mai bis Juli bei Wassertemperaturen über 18°C
 
 **Besonderheiten:**
 Es gibt verschiedene Zuchtformen wie Spiegelkarpfen (wenige, große Schuppen), Lederkarpfen (fast ohne Schuppen) und Schuppenkarpfen (die ursprüngliche Wildform). Karpfen können sehr alt werden - über 50 Jahre sind möglich.
+Graskarpfen hat keine Barteln und ist eine invasive Art.
 
 ### Die Schleie (Tinca tinca)
 
@@ -147,11 +62,12 @@ Schleien lieben verkrautete Gewässer mit weichem, schlammigem Grund. Sie sind d
 **Besonderheiten:**
 Schleien können in sauerstoffarmen Gewässern überleben, in denen andere Fische eingehen würden. Ihr dicker Schleimmantel schützt sie vor Krankheiten und Verletzungen.
 
-![Schleie (Tinca tinca)](img/fisch_schleie.png){ width=50% }
+![Schleie](img/fisch_schleie.png){ width=50% }
 
 ### Der Brassen (Abramis brama)
 
 Der Brassen, auch Brachse oder Blei genannt, ist in vielen Gewässern der häufigste Weißfisch.
+Kann sein Maul wie einen Rüssel vorstülpen.
 
 **Erkennungsmerkmale:**
 - Stark hochrückiger, seitlich sehr abgeflachter Körper ("scheibenförmig")
@@ -166,9 +82,10 @@ Brassen leben in großen Schwärmen in stehenden und langsam fließenden Gewäss
 **Laichzeit:** Mai bis Juni
 
 **Besonderheiten:**
-Junge Brassen haben regional unterschiedliche Bezeichnungen; oft wird 'Brachse' aber auch synonym für die Art an sich verwendet. In nährstoffreichen Gewässern können Brassen zur dominanten Art werden.
+Junge Brassen haben regional unterschiedliche Bezeichnungen; oft wird 'Brachse' aber auch synonym für die Art an sich verwendet.
+In nährstoffreichen Gewässern können Brassen zur dominanten Art werden.
 
-![Brassen (Abramis brama)](img/fisch_brassen.png){ width=50% }
+![Brassen](img/fisch_brassen.png){ width=50% }
 
 ### Die Rotfeder (Scardinius erythrophthalmus)
 
@@ -211,13 +128,16 @@ Rotaugen sind extrem anpassungsfähig und kommen in fast allen Gewässertypen vo
 
 **Besonderheiten:**
 Das Rotauge ist ein idealer Einsteigerfisch und gilt als guter Köderfisch für das Raubfischangeln.
+Endständiges Maul.
 
-![Rotauge (Rutilus rutilus)](img/fisch_rotauge.png){ width=50% }
+![Rotauge](img/fisch_rotauge.png){ width=50% }
 
 ### Die Barbe (Barbus barbus)
 
 Die Barbe ist ein typischer Bewohner schnell fließender, sauerstoffreicher Flüsse.
-Die Barbe ist ein Knochenfisch, diese haben ein teilweise oder vollständiges verknöchertes Skelett.
+Hält sich am Grund auf.
+Die Barbe ist ein Knochenfisch mit unterständigem Maul.
+Knochenfische haben ein teilweise oder vollständiges verknöchertes Skelett.
 
 **Erkennungsmerkmale:**
 - Langgestreckter, torpedoförmiger Körper
@@ -238,6 +158,7 @@ Die Barbe gibt einer Gewässerregion ihren Namen - die Barbenregion.
 
 ![Barbe (Barbus barbus)](img/fisch_barbe.jpg){ width=50% }
 
+
 ### Der Döbel (Squalius cephalus)
 
 Der Döbel, auch Aitel genannt, ist ein kräftiger, kampfstarker Fisch.
@@ -257,11 +178,62 @@ Döbel sind vielseitige Fische, die sowohl in Flüssen als auch in Seen vorkomme
 **Besonderheiten:**
 Der Döbel ist ein intelligenter, vorsichtiger Fisch, der schwer zu überlisten ist. Er beißt auf viele verschiedene Köder.
 
-![Döbel (Squalius cephalus)](img/fisch_doebel.png){ width=50% }
+![Döbel](img/fisch_doebel.png){ width=50% }
+
+### Stichling
+
+Die Stachelstrahlen der Rückflosse ist nicht mit Flossenhaut verbunden.
+Nutzt selbstgebaute Nester.
+Männchen machen die Blutpflege.
+
+![Stichling](img/fisch_stichling.png){ width=50% }
+
+### Hering
+
+Keine sichtbare Seitenlinie.
+
+### Karausche
+
+Keine Barteln, benötigt nur 3mg/L Sauerstoff 
+
+![Karausche](img/fisch_karausche.png){ width=50% }
+
+
+## Moderlieschen
+
+![Moderlieschen](img/fisch_moderlieschen.png)
+
+## Bitterling
+
+Legt seine Eier in Muscheln ab
+
+## Schlammpeitziger
+
+Hat 10 Barteln
+
+## Makrele
+
+Keine Schwimmblase
+
+![Makrele](img/fisch_makrele.png){ width=50% }
+
+## Quappe
+
+Einziger Süßwasserdorsch.
+
+![Quappe](img/fisch_quappe.png){ width=50% }
+
+## Schellfisch
+
+10 - 200 m über den Meeresboden.
+Haben eine Bartel.
+Schwarzer Fleck über der Bauchflosse ist Erkennungsmerkmal.
+
+![Schellfisch](img/fisch_schellfisch.png){ width=50% }
 
 ## Die wichtigsten Raubfische
 
-### Der Hecht (Esox lucius)
+### Der Hecht
 
 Der Hecht ist der Raubfisch schlechthin - ein perfekter Jäger mit beeindruckendem Gebiss.
 
@@ -282,7 +254,13 @@ Der Hecht hat über 700 nach hinten gerichtete Zähne. Weibchen werden deutlich 
 
 ![Hecht (Esox lucius)](img/fisch_hecht.png){ width=50% }
 
-### Der Zander (Sander lucioperca)
+### Rapfen
+
+Oberständiges Maul, d.h. jagt im oberen Wasserbereich.
+
+![Rapfen](img/fisch_rapfen.png){ width=50% }
+
+### Der Zander
 
 Der Zander ist ein hervorragender Speisefisch und geschätzter Angelzielfisch.
 
@@ -303,7 +281,7 @@ Zander betreiben Brutpflege - das Männchen bewacht und belüftet das Gelege. Za
 
 ![Zander (Sander lucioperca)](img/fisch_zander.png)
 
-### Der Flussbarsch (Perca fluviatilis)
+### Der Flussbarsch
 
 Der Barsch ist einer der häufigsten Raubfische und an seiner charakteristischen Färbung leicht zu erkennen.
 
@@ -313,16 +291,20 @@ Der Barsch ist einer der häufigsten Raubfische und an seiner charakteristischen
 - Markante dunkle Querstreifen (meist 5-9 Stück)
 - Rötliche Bauch-, After- und Schwanzflossen
 - Großes Maul mit Bürstenzähnen
+- Kammschuppen
 
 **Lebensweise:**
-Barsche leben in Schwärmen, wobei sich oft gleichgroße Fische zusammenschließen. Sie bevorzugen struktur- und pflanzenreiche Gewässer. Kleine Barsche ernähren sich von Insektenlarven und Würmern, größere jagen Fische.
+Barsche leben in Schwärmen, wobei sich oft gleichgroße Fische zusammenschließen. 
+Sie bevorzugen struktur- und pflanzenreiche Gewässer.
+Kleine Barsche ernähren sich von Insektenlarven und Würmern, größere jagen Fische.
 
 **Laichzeit:** April bis Juni
 
 **Besonderheiten:**
-Die stacheligen Hartstrahlen der Rückenflosse können schmerzhafte Verletzungen verursachen. Barsche sind sehr neugierig und oft leicht zu fangen.
+Die stacheligen Hartstrahlen der Rückenflosse können schmerzhafte Verletzungen verursachen.
+Barsche sind sehr neugierig und oft leicht zu fangen.
 
-![Flussbarsch (Perca fluviatilis)](img/fisch_flussbarsch.png)
+![Flussbarsch](img/fisch_flussbarsch.png)
 
 ### Die Forelle (Salmo trutta)
 
@@ -336,16 +318,20 @@ Die Forelle tritt in verschiedenen Formen auf - als Bachforelle, Seeforelle und 
 - Färbung variiert je nach Lebensraum
 
 **Lebensweise:**
-Bachforellen bevorzugen kalte, sauerstoffreiche, schnell fließende Bäche und Flüsse. Sie sind standorttreu und verteidigen ihr Revier. Sie ernähren sich von Insekten, deren Larven, Krebstieren und kleineren Fischen.
+Bachforellen bevorzugen kalte, sauerstoffreiche, schnell fließende Bäche und Flüsse.
+Sie sind standorttreu und verteidigen ihr Revier.
+Sie ernähren sich von Insekten, deren Larven, Krebstieren und kleineren Fischen.
 
 **Laichzeit:** Oktober bis Januar (Winterlaicher!)
 
 **Besonderheiten:**
 Forellen benötigen sehr sauberes, sauerstoffreiches Wasser. Sie sind ausgezeichnete Indikatoren für gute Wasserqualität. Die Fettflosse ist charakteristisch für alle Salmoniden (Lachsartige).
+![Bachforelle](img/fisch_bachforelle.png)
 
-![Forelle (Salmo trutta)](img/fisch_forelle.png)
 
-### Die Regenbogenforelle (Oncorhynchus mykiss)
+![Forelle](img/fisch_forelle.png)
+
+### Die Regenbogenforelle  
 
 Die Regenbogenforelle stammt ursprünglich aus Nordamerika und wurde in Europa eingebürgert.
 
@@ -387,6 +373,8 @@ Welse betreiben Brutpflege. Sie können sehr alt werden (über 50 Jahre). Ihre B
 
 ### Der Aal (Anguilla anguilla)
 
+Keine Zwischenmuskelgräten.
+
 **Erkennungsmerkmale:**
 - Schlangenförmiger, langgestreckter Körper
 - Sehr kleine Schuppen, in Haut eingebettet
@@ -394,13 +382,33 @@ Welse betreiben Brutpflege. Sie können sehr alt werden (über 50 Jahre). Ihre B
 - Dunkelgrüner bis brauner Rücken, gelber Bauch
 
 **Lebensweise:**
-Aale sind nachtaktive Raubfische, die sich tagsüber im Schlamm vergraben. Sie ernähren sich von Würmern, Schnecken, Insektenlarven und Fischen.
+Aale sind nachtaktive Raubfische, die sich tagsüber im Schlamm vergraben.
+Sie ernähren sich von Würmern, Schnecken, Insektenlarven und Fischen.
 
 **Laichzeit:**
-Aale haben einen einzigartigen Lebenszyklus: Sie werden in der Sargassosee (Atlantik) geboren, wandern als Glasaale zu europäischen Küsten und steigen in Flüsse auf. Nach 10-20 Jahren wandern sie zurück ins Meer zum Laichen (Blankaal).
+Aale haben einen einzigartigen Lebenszyklus: Sie werden in der Sargassosee (Atlantik) geboren, wandern als **Glasaale** zu europäischen Küsten und steigen in Flüsse auf. 
+
+![Glasaal](img/fisch_glasaal.png)
+
+Nach 10-20 Jahren wandern sie zurück ins Meer zum Laichen (Blankaal).
+Bekommt große Augen und After verschließt sich.
 
 **Besonderheiten:**
-Aale sind vom Aussterben bedroht. Es gelten strenge Fangbeschränkungen. Sie können über Land kriechen und sind extrem zählebig.
+Aale sind vom Aussterben bedroht.
+Es gelten strenge Fangbeschränkungen.
+Sie können über Land kriechen und sind extrem zählebig.
+
+![Aal](img/fisch_aal.png)
+
+### Neunauge
+
+Neunaugen sind biologisch gesehen eigentlich keine echten Fische, sondern gehören zur Gruppe der Rundmäuler (Kieferlose). Sie haben kein Skelett aus Knochen, sondern aus Knorpel, und besitzen keinen Kiefer, sondern ein rundes Saugmaul.
+
+### Dornhai
+
+Zwei Dornen, die allergische Reaktionen verursachen können.
+
+![Dornhai](img/fisch_dornhai.png)
 
 ### Die Äsche (Thymallus thymallus)
 
@@ -417,9 +425,13 @@ Aale sind vom Aussterben bedroht. Es gelten strenge Fangbeschränkungen. Sie kö
 **Laichzeit:** März bis Mai
 
 **Besonderheiten:**
-Die Äsche gibt einer Gewässerregion ihren Namen - die Äschenregion. Sie ist ein Indikator für sehr gute Wasserqualität und steht unter besonderem Schutz.
+Die Äsche gibt einer Gewässerregion ihren Namen - die Äschenregion.
+Sie ![alt text](fisch_aesche.png)ist ein Indikator für sehr gute Wasserqualität und steht unter besonderem Schutz.
 
-### Der Kaulbarsch (Gymnocephalus cernua)
+![Äsche](img/fisch_aesche.png)
+
+
+### Der Kaulbarsch
 
 **Erkennungsmerkmale:**
 - Kleiner, gedrungener Fisch (meist 10-15 cm)
@@ -435,6 +447,8 @@ Kaulbarsche leben gesellig in stehenden und langsam fließenden Gewässern. Sie 
 
 **Besonderheiten:**
 Gilt als Lästling, da er sich manchmal massenhaft vermehrt und als Laichräuber anderen Fischarten schaden kann.
+
+![Kaulbarsch](img/fisch_kaulbarsch.png)
 
 ## Geschützte und besondere Arten
 
@@ -455,6 +469,10 @@ Ebenfalls ein wandernder Fisch, der in vielen Flüssen ausgestorben ist. Es gibt
 ### Rotauge vs. Rotfeder
 - **Rotauge**: Endständiges Maul, Rückenflosse über Bauchflossenansatz
 - **Rotfeder**: Oberständiges Maul, Rückenflosse hinter Bauchflossenansatz
+
+![Rotauge-Rotfeder](img/rotauge-rotfeder.png)
+
+
 
 ### Bachforelle vs. Regenbogenforelle
 - **Bachforelle**: Rote und schwarze Punkte, kein rosa Band
