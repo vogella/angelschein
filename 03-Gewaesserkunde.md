@@ -2,13 +2,18 @@
 
 ## Einleitung
 
-Ein Gewässer ist weitaus mehr als nur eine Ansammlung von Wasser. Es ist ein komplexes Ökosystem, in dem unzählige Organismen in fein abgestimmten Beziehungen zueinander leben. Die Gewässerkunde vermittelt uns das Verständnis für diese Lebensräume - eine unverzichtbare Grundlage für jeden Angler. Wer sein Gewässer versteht, findet nicht nur leichter Fische, sondern kann auch zum Schutz und Erhalt dieser wertvollen Ökosysteme beitragen.
+Ein Gewässer ist ein Ökosystem, in dem unzählige Organismen in fein abgestimmten Beziehungen zueinander leben.
+
+## Ph Wert
+
+Der Ph-Wert ist ein Maß für die Säure oder Base (alkalischer Wert) des Wassers.
+Weniger als 7 ist das Wasser sauer, mehr als 7 ist es alkalisch.
 
 ## Gewässertypen
 
 ### Fließgewässer
 
-Fließgewässer sind durch fließendes Wasser charakterisiert - von kleinen Bächen bis zu großen Strömen. Die Strömung ist das prägende Element und beeinflusst alle Lebewesen.
+Fließgewässer sind durch fließendes Wasser charakterisiert, von kleinen Bächen bis zu großen Strömen.
 
 **Merkmale von Fließgewässern:**
 - Ständige Bewegung des Wassers
@@ -24,7 +29,8 @@ Fließgewässer sind durch fließendes Wasser charakterisiert - von kleinen Bäc
 
 ### Stillgewässer
 
-Stillgewässer haben keine oder nur sehr geringe Strömung. Dazu gehören Seen, Weiher, Teiche und Talsperren.
+Stillgewässer haben keine oder nur sehr geringe Strömung.
+Dazu gehören Seen, Weiher, Teiche und Talsperren.
 
 **Merkmale von Stillgewässern:**
 - Stehendes oder sehr langsam bewegtes Wasser
@@ -42,19 +48,22 @@ Stillgewässer haben keine oder nur sehr geringe Strömung. Dazu gehören Seen, 
 ### Besondere Gewässertypen
 
 **Brackwasser:**
-Mischung aus Süß- und Salzwasser in Flussmündungen. Besondere Fischarten wie Flundern können hier vorkommen.
+Mischung aus Süß- und Salzwasser in Flussmündungen.
+Besondere Fischarten wie Flundern können hier vorkommen.
 
 **Moorgewässer:**
-Saures, nährstoffarmes Wasser mit charakteristischer brauner Färbung durch Huminstoffe. Spezielle Anpassungen der Fischarten erforderlich.
+Saures, nährstoffarmes Wasser mit charakteristischer brauner Färbung durch Huminstoffe.
+Spezielle Anpassungen der Fischarten erforderlich.
 
 **Kanäle:**
 Künstliche Wasserstraßen mit meist gleichmäßiger Tiefe und langsamer Strömung.
 
 ## Die Gewässerregionen (Fischregionen)
 
-Fließgewässer werden nach den dort vorkommenden Leitfischarten in verschiedene Regionen eingeteilt. Diese Einteilung beschreibt die typischen ökologischen Bedingungen.
+Fließgewässer werden nach den dort vorkommenden Leitfischarten in verschiedene Regionen eingeteilt.
+Diese Einteilung beschreibt die typischen ökologischen Bedingungen.
 
-### Forellenregion (Rhithral)
+### Forellenregion
 
 **Charakteristik:**
 - Oberlauf von Bächen und Flüssen
@@ -65,9 +74,6 @@ Fließgewässer werden nach den dort vorkommenden Leitfischarten in verschiedene
 
 **Leitfische:**
 Bachforelle, Groppe, Bachsaibling
-
-**Weitere Arten:**
-Äsche (Übergang zur Äschenregion)
 
 ### Äschenregion
 
@@ -99,7 +105,7 @@ Barbe
 **Weitere Arten:**
 Döbel, Hasel, Nase, Hecht, Barsch, Aal
 
-### Brachsenregion (Bleiregion)
+### Brachsenregion
 
 **Charakteristik:**
 - Unterlauf großer Flüsse
@@ -155,20 +161,25 @@ In Seen und größeren Stillgewässern kommt es zu einer charakteristischen Schi
 Zweimal im Jahr, im Frühjahr und Herbst, kommt es zur vollständigen Durchmischung des Sees:
 
 **Frühjahrszirkulation:**
-Das Oberflächenwasser erwärmt sich auf 4°C, wird dadurch schwerer als die kälteren Wasserschichten und sinkt ab. Dadurch wird der gesamte See durchmischt. Sauerstoff gelangt in die Tiefe, Nährstoffe nach oben.
+Das Oberflächenwasser erwärmt sich auf 4°C, wird dadurch schwerer als die kälteren Wasserschichten und sinkt ab.
+Dadurch wird der gesamte See durchmischt.
+Sauerstoff gelangt in die Tiefe, Nährstoffe nach oben.
 
 **Herbstzirkulation:**
-Ähnlicher Prozess nach dem Sommer. Diese Durchmischungen sind essentiell für die Sauerstoffversorgung der Tiefenzonen.
+Ähnlicher Prozess nach dem Sommer.
+Diese Durchmischungen sind essentiell für die Sauerstoffversorgung der Tiefenzonen.
 
 **Bedeutung für Fische:**
-Im Sommer ziehen sich Kaltwasserfische wie Forellen und Saiblinge in kühlere Tiefen zurück. Im Winter, wenn die Oberfläche gefriert, sammeln sich viele Fische in tieferen, wärmeren Zonen (bei 4°C hat Wasser seine größte Dichte).
+Im Sommer ziehen sich Kaltwasserfische wie Forellen und Saiblinge in kühlere Tiefen zurück.
+Im Winter, wenn die Oberfläche gefriert, sammeln sich viele Fische in tieferen, wärmeren Zonen (bei 4°C hat Wasser seine größte Dichte).
 
 ## Wasserqualität und Wassergüte
 
 ### Physikalische Parameter
 
 **Temperatur:**
-Einer der wichtigsten Faktoren. Sie beeinflusst:
+Einer der wichtigsten Faktoren.
+Sie beeinflusst:
 - Sauerstoffgehalt (kaltes Wasser kann mehr Sauerstoff aufnehmen)
 - Stoffwechsel der Fische (höhere Temperatur = höhere Aktivität)
 - Verbreitung von Fischarten
@@ -397,23 +408,3 @@ Versunkene Bäume, Steine - wichtige Standorte für Raubfische.
 **Zuläufe:**
 Bringen Sauerstoff und Nahrung, ziehen Fische an.
 
-## Zusammenfassung
-
-Die Gewässerkunde ist der Schlüssel zum Verständnis des Lebensraums Wasser. Wer versteht, wie Gewässer funktionieren, kann:
-- Bessere Angelstellen finden
-- Das Verhalten von Fischen vorhersagen
-- Probleme in Gewässern erkennen
-- Zum Schutz der Gewässer beitragen
-
-Wichtige Kernpunkte:
-- Fließ- und Stillgewässer unterscheiden sich grundlegend
-- Fischregionen beschreiben charakteristische Lebensräume
-- Wasserqualität ist entscheidend für Fischbestände
-- Nährstoffkreislauf und Nahrungskette sind komplex
-- Gewässerschutz ist Aufgabe aller Angler
-
-Im nächsten Kapitel widmen wir uns dem Natur- und Tierschutz - den ethischen und gesetzlichen Grundlagen des Angelns.
-
----
-
-*Hinweis: Dieses Dokument dient der Prüfungsvorbereitung für den Angelschein. Die Inhalte basieren auf allgemeinen gewässerkundlichen Kenntnissen.*
