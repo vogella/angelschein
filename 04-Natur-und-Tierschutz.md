@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Der Natur- und Tierschutz ist das Herzstück verantwortungsvollen Angelns. Als Angler bewegen wir uns in sensiblen Ökosystemen und haben direkten Kontakt mit Lebewesen. Daraus erwächst eine besondere Verantwortung - nicht nur gegenüber den Fischen, sondern gegenüber der gesamten Natur. In diesem Kapitel geht es um mehr als nur Gesetze und Vorschriften - es geht um eine Haltung, eine Ethik, die jeden Angler leiten sollte.
+In diesem Kapitel geht es um die Gesetze und Vorschriften des Angels.
 
 ## Das Tierschutzgesetz
 
@@ -17,18 +17,10 @@ Das deutsche Tierschutzgesetz gilt auch für Fische und formuliert klare Grunds�
 - Fische sind Wirbeltiere und empfinden Schmerzen
 - Jede Handlung muss einen "vernünftigen Grund" haben
 - Unnötiges Leiden muss vermieden werden
-- Angeln zum Nahrungserwerb ist ein vernünftiger Grund
-- "Catch and Release" ohne vernünftigen Grund ist problematisch
+- Angeln zum Nahrungserwerb ist der einzige vernünftige Grund
 
-### Verbotene Praktiken
 
-**Absolut verboten sind:**
-- Quälen von Tieren
-- Rohes Misshandeln
-- Vernachlässigung
-- Überanstrengen
-- Verwendung lebender Wirbeltiere als Köder (Köderfischverbot in manchen Bundesländern)
-- Zurücksetzen verletzter oder untermaßiger Fische ohne Sorgfalt
+### Tierschutzgerechtes Angel
 
 **Tierschutzgerechtes Angeln bedeutet:**
 - Sachkundiger Umgang mit Gerät
@@ -55,20 +47,14 @@ Das deutsche Tierschutzgesetz gilt auch für Fische und formuliert klare Grunds�
 
 ### Betäuben und Töten
 
-Dies ist einer der wichtigsten Aspekte des Tierschutzes beim Angeln. Jeder Angler MUSS die fachgerechte Tötung beherrschen.
+Jeder Angler MUSS die fachgerechte Tötung beherrschen.
 
 **Schritt 1: Betäubung**
 
 Der Fisch muss vor der Tötung betäubt werden, sodass er schmerzunempfindlich ist.
+Ein gezielter Schlag mit einem geeigneten Gegenstand (Totschläger, Priest) auf den Kopf des Fisches, direkt hinter die Augen auf das Schädeldach.
+Der Schlag muss kräftig genug sein, um sofortige Bewusstlosigkeit herbeizuführen.
 
-**Methode - Betäubungsschlag:**
-Ein gezielter Schlag mit einem geeigneten Gegenstand (Totschläger, Priest) auf den Kopf des Fisches, direkt hinter die Augen auf das Schädeldach. Der Schlag muss kräftig genug sein, um sofortige Bewusstlosigkeit herbeizuführen.
-
-**Technik:**
-- Fisch sicher fixieren
-- Gezielter, kräftiger Schlag
-- Sofortige Reaktionslosigkeit ist das Ziel
-- Bei großen Fischen eventuell mehrere Schläge nötig
 
 **Schritt 2: Tötung durch Blutentzug**
 
@@ -83,12 +69,6 @@ Unmittelbar nach der Betäubung erfolgt die Tötung:
 **Alternative bei kleinen Fischen:**
 - Genickbruch durch Überstrecken des Kopfes
 - Rückenmarkstich
-
-**Wichtig:**
-- Die Tötung muss unmittelbar nach der Betäubung erfolgen
-- Niemals einen Fisch ohne Betäubung töten
-- Niemals einen noch lebenden Fisch ausnehmen
-- Überprüfe, ob der Fisch wirklich tot ist (keine Kiemenbewegung, keine Reflexe)
 
 ### Verwertung
 
@@ -105,7 +85,21 @@ In Deutschland besteht grundsätzlich die Pflicht zur Verwertung entnommener Fis
 
 ## Zurücksetzen von Fischen (Catch and Release)
 
-Ein oft diskutiertes Thema mit rechtlichen und ethischen Aspekten.
+Hamburg Regeln:
+
+| Fischart | Unteres Maß | Oberes Maß | Tageshöchstmenge | Bildreferenz |
+| :--- | :--- | :--- | :--- | :--- |
+| **Aal** | 45 cm | 75 cm | 3 Expl. | ![Aal](./img/fisch_aal.png){width=10%} |
+| **Hecht** | 45 cm | 75 cm | 2 Expl. | ![Hecht](./img/fisch_hecht.png){width=10%} |
+| **Zander** | 45 cm | 75 cm | 2 Expl. | ![Zander](./img/fisch_zander.png){width=10%} |
+| **Flussbarsch** | 10 cm | 35 cm | - | ![Flussbarsch](./img/fisch_flussbarsch.png){width=10%} |
+| **Bachforelle** | 20 cm | 40 cm | - | ![Bachforelle](./img/fisch_bachforelle.png){width=10%} |
+| **Schleie** | 25 cm | 45 cm | - | ![Schleie](./img/fisch_schleie.png){width=10%} |
+| **Quappe** | 30 cm | 50 cm | 3 Expl. | ![Quappe](./img/fisch_quappe.png){width=10%} |
+| **Karpfen** | 35 cm | kein oberes Maß | - | ![Karpfen](./img/fisch_karpfen.png){width=10%} |
+| **Meerforelle** | 40 cm | 65 cm | 2 Expl. | ![Meerforelle](./img/fisch_meerforelle.png){width=10%} |
+| **Rapfen** | 40 cm | 70 cm | 1 Expl. | ![Rapfen](./img/fisch_rapfen.png){width=10%} |
+|
 
 ### Wann MUSS ein Fisch zurückgesetzt werden?
 
@@ -124,10 +118,6 @@ Ein oft diskutiertes Thema mit rechtlichen und ethischen Aspekten.
 - Hegemaßnahme (z.B. große Laichfische schonen)
 
 **Wichtig:** Schwer verletzte Fische, die nicht überlebensfähig sind, dürfen nicht zurückgesetzt werden - sie müssen aus Tierschutzgründen waidgerecht getötet werden. Das Zurücksetzen eines sterbenden Fisches wäre Tierquälerei.
-
-**Umstritten ist:**
-- Reines Sportangeln ohne Verwertungsabsicht
-- Dies ist nach deutschem Tierschutzgesetz problematisch
 
 ### Richtiges Zurücksetzen
 
@@ -438,38 +428,3 @@ Ein viel diskutiertes Thema:
 - Schutz wichtiger Bäume
 - Positive Aspekte für Gewässer nutzen
 
-## Zusammenfassung
-
-Der Natur- und Tierschutz ist kein lästiges Anhängsel, sondern das Fundament verantwortungsvollen Angelns. Die wichtigsten Punkte:
-
-**Tierschutz:**
-- Fische sind Wirbeltiere und empfinden Schmerzen
-- Waidgerechte Tötung ist Pflicht
-- Schonender Umgang ist selbstverständlich
-- Jeder Angler trägt Verantwortung
-
-**Naturschutz:**
-- Gewässer sind sensible Ökosysteme
-- Geschützte Arten respektieren
-- Lebensräume erhalten
-- Müll vermeiden
-
-**Ethik:**
-- Respekt vor Leben und Natur
-- Nachhaltigkeit praktizieren
-- Vorbildfunktion wahrnehmen
-- Wissen weitergeben
-
-**Rechtliche Grundlagen:**
-- Tierschutzgesetz
-- Naturschutzgesetz
-- Fischereigesetze
-- Artenschutzverordnungen
-
-Wer diese Prinzipien verinnerlicht, ist nicht nur ein besserer Angler - sondern auch ein Botschafter für die Natur und trägt zum Erhalt unserer Gewässer für kommende Generationen bei.
-
-Im nächsten Kapitel widmen wir uns der Gerätekunde - dem praktischen Handwerkszeug des Anglers.
-
----
-
-*Hinweis: Dieses Dokument dient der Prüfungsvorbereitung für den Angelschein. Die rechtlichen Grundlagen können je nach Bundesland variieren. Informiere dich über die spezifischen Regelungen in deinem Bundesland.*
