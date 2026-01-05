@@ -35,7 +35,7 @@ Die Schuppen liegen wie Dachziegel übereinander und dienen als Schutz.
 Man unterscheidet im Wesentlichen zwei Schuppenarten:
 
 *   **Rundschuppen (Cycloidschuppen):** Diese sind am Hinterrand glatt und rund. Streicht man über den Fisch, fühlt er sich glatt an. Typisch für fast alle Friedfische (z.B. Karpfen, Rotauge) und Salmoniden (Forelle).
-*   **Kammschuppen (Ctenoidschuppen):** Diese besitzen am Hinterrand kleine Zähnchen oder Dornen. Der Fisch fühlt sich rau an, wie Schmirgelpapier. Typisch für Barschhaltige (z.B. Barsch, Zander).
+*   **Kammschuppen (Ctenoidschuppen):** Diese besitzen am Hinterrand kleine Zähnchen oder Dornen. Der Fisch fühlt sich rau an, wie Schmirgelpapier. Kammschuppen sitzen fester als Rundschuppen und sind typisch für Barschhaltige (z.B. Barsch, Zander).
 
 Über der Schuppenschicht liegt die dünne Schleimschicht. Sie reduziert den Wasserwiderstand, schützt vor Krankheitserregern (Bakterien, Pilze) und hilft bei der Osmoregulation. Deshalb ist es so wichtig, beim Umgang mit gefangenen Fischen diese Schleimschicht nicht zu beschädigen (Hände vorher nass machen!).
 
@@ -49,7 +49,8 @@ Die Form des Maules und die Bezahnung verraten, wo und was ein Fisch frisst.
     ![Oberständiges Maul (Hecht)](img/maulstellung_oberstaendig.png){ width=50% }
 *   **Endständiges Maul:** Ober- und Unterkiefer sind gleich lang, die Maulspalte zeigt nach vorne (z.B. Forelle, Rotauge). Typisch für Fische, die im freien Wasser jagen.
     ![Endständiges Maul (Forelle)](img/maulstellung_endstaendig.png){ width=50% }
-*   **Unterständiges Maul:** Der Oberkiefer ragt über den Unterkiefer, die Maulöffnung zeigt nach unten (z.B. Karpfen, Barbe). Dies ist typisch für Fische, die ihre Nahrung am Grund suchen (Gründler).
+*   **Unterständiges Maul:** Der Oberkiefer ragt über den Unterkiefer, die Maulöffnung zeigt nach unten (z.B. Karpfen, Barbe).
+Dies ist typisch für Fische, die ihre Nahrung am Grund suchen (Gründler).
     ![Unterständiges Maul (Karpfen)](img/maulstellung_unterstaendig.png){ width=50% }
 
 **Bezahnung:**
@@ -73,8 +74,12 @@ Die paarigen **Brustflossen** dienen zum Bremsen und für präzise Manöver.
 Die **Bauchflossen** unterstützen diese Bewegungen und helfen bei der Stabilisierung.
 Die Position der Bauchflossen verrät viel über die Entwicklungsgeschichte:
 
-*   **Bauchständig:** Die Bauchflossen sitzen weit *hinter* den Brustflossen (z.B. Karpfen, Forelle). Dies ist ein Merkmal eher ursprünglicher Arten.
+*   **Kehlständig:** Die Bauchflossen sitzen noch weiter vorne, also vor dem Ansatz der Brustflossen im Kehlbereich (z.B. Quappe oder Dorsch). Diese Anordnung hilft den Fischen oft dabei, sich am Boden abzustützen oder in Bodennähe extrem präzise zu manövrieren.
 *   **Brustständig:** Die Bauchflossen sind nach vorne gewandert und sitzen fast direkt *unter* den Brustflossen (z.B. Barsch, Zander). Dies ermöglicht eine noch bessere Manövrierfähigkeit.
+*   **Bauchständig:** Die Bauchflossen sitzen weit *hinter* den Brustflossen (z.B. Karpfen, Forelle). Dies ist ein Merkmal eher ursprünglicher Arten.
+
+![Brustflossen](img/brustflossen.png){ width=50% }
+
 
 Die **Afterflosse**, unterhalb des Fisches gelegen, sorgt zusammen mit der Rückenflosse für die Richtungsstabilität.
 
@@ -199,6 +204,11 @@ Wichtige Krankheiten:
 Die gängigste Methode ist die **Schuppen-Methode**: Ähnlich wie bei Baumringen kann man an den Jahresringen auf den Schuppen das Alter eines Fisches ablesen. Im Winter, wenn das Wachstum langsamer ist, entstehen engere Ringe, im Sommer weitere Abstände.
 
 Auch Otolithen (Gehörsteine) oder Kiemendeckelknochen können genutzt werden. Die Kenntnis des Alters ist wichtig für das Fischereimanagement, um z.B. das Wachstum von Populationen zu verstehen und Schonmaße festzulegen.
+
+## Artenbestimmung bei Karpfenartigen (Cypriniden)
+
+Anzahl und und Stellung der Schlundzähne
+
 
 ## Zusammenfassung
 
