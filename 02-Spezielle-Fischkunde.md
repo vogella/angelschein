@@ -137,7 +137,6 @@ Endständiges Maul.
 Die Barbe ist ein typischer Bewohner schnell fließender, sauerstoffreicher Flüsse.
 Hält sich am Grund auf.
 Die Barbe ist ein Knochenfisch mit unterständigem Maul.
-Knochenfische haben ein teilweise oder vollständiges verknöchertes Skelett.
 
 **Erkennungsmerkmale:**
 - Langgestreckter, torpedoförmiger Körper
@@ -184,7 +183,7 @@ Der Döbel ist ein intelligenter, vorsichtiger Fisch, der schwer zu überlisten 
 
 Die Stachelstrahlen der Rückflosse ist nicht mit Flossenhaut verbunden.
 Nutzt selbstgebaute Nester.
-Männchen machen die Blutpflege.
+Männchen machen die Brutpflege.
 
 ![Stichling](img/fisch_stichling.png){ width=50% }
 
@@ -199,31 +198,31 @@ Keine Barteln, benötigt nur 3mg/L Sauerstoff
 ![Karausche](img/fisch_karausche.png){ width=50% }
 
 
-## Moderlieschen
+### Moderlieschen
 
-![Moderlieschen](img/fisch_moderlieschen.png)
+![Moderlieschen](img/fisch_moderlieschen.png){ width=50% }
 
-## Bitterling
+### Bitterling
 
 Legt seine Eier in Muscheln ab
 
-## Schlammpeitziger
+### Schlammpeitziger
 
 Hat 10 Barteln
 
-## Makrele
+### Makrele
 
 Keine Schwimmblase
 
 ![Makrele](img/fisch_makrele.png){ width=50% }
 
-## Quappe
+### Quappe
 
 Einziger Süßwasserdorsch.
 
 ![Quappe](img/fisch_quappe.png){ width=50% }
 
-## Schellfisch
+### Schellfisch
 
 10 - 200 m über den Meeresboden.
 Haben eine Bartel.
@@ -279,7 +278,7 @@ Zander bevorzugen große, tiefe, klare Gewässer mit festem Grund. Sie sind däm
 **Besonderheiten:**
 Zander betreiben Brutpflege - das Männchen bewacht und belüftet das Gelege. Zander sind empfindlich gegenüber Wasserverschmutzung.
 
-![Zander (Sander lucioperca)](img/fisch_zander.png)
+![Zander (Sander lucioperca)](img/fisch_zander.png){ width=50% }
 
 ### Der Flussbarsch
 
@@ -304,7 +303,7 @@ Kleine Barsche ernähren sich von Insektenlarven und Würmern, größere jagen F
 Die stacheligen Hartstrahlen der Rückenflosse können schmerzhafte Verletzungen verursachen.
 Barsche sind sehr neugierig und oft leicht zu fangen.
 
-![Flussbarsch](img/fisch_flussbarsch.png)
+![Flussbarsch](img/fisch_flussbarsch.png){ width=50% }
 
 ### Die Forelle (Salmo trutta)
 
@@ -326,10 +325,10 @@ Sie ernähren sich von Insekten, deren Larven, Krebstieren und kleineren Fischen
 
 **Besonderheiten:**
 Forellen benötigen sehr sauberes, sauerstoffreiches Wasser. Sie sind ausgezeichnete Indikatoren für gute Wasserqualität. Die Fettflosse ist charakteristisch für alle Salmoniden (Lachsartige).
-![Bachforelle](img/fisch_bachforelle.png)
+![Bachforelle](img/fisch_bachforelle.png){ width=50% }
 
 
-![Forelle](img/fisch_forelle.png)
+![Forelle](img/fisch_forelle.png){ width=50% }
 
 ### Die Regenbogenforelle  
 
@@ -388,7 +387,7 @@ Sie ernähren sich von Würmern, Schnecken, Insektenlarven und Fischen.
 **Laichzeit:**
 Aale haben einen einzigartigen Lebenszyklus: Sie werden in der Sargassosee (Atlantik) geboren, wandern als **Glasaale** zu europäischen Küsten und steigen in Flüsse auf. 
 
-![Glasaal](img/fisch_glasaal.png)
+![Glasaal](img/fisch_glasaal.png){ width=50% }
 
 Nach 10-20 Jahren wandern sie zurück ins Meer zum Laichen (Blankaal).
 Bekommt große Augen und After verschließt sich.
@@ -398,7 +397,7 @@ Aale sind vom Aussterben bedroht.
 Es gelten strenge Fangbeschränkungen.
 Sie können über Land kriechen und sind extrem zählebig.
 
-![Aal](img/fisch_aal.png)
+![Aal](img/fisch_aal.png){ width=50% }
 
 ### Neunauge
 
@@ -408,7 +407,7 @@ Neunaugen sind biologisch gesehen eigentlich keine echten Fische, sondern gehör
 
 Zwei Dornen, die allergische Reaktionen verursachen können.
 
-![Dornhai](img/fisch_dornhai.png)
+![Dornhai](img/fisch_dornhai.png){ width=50% }
 
 ### Die Äsche (Thymallus thymallus)
 
@@ -426,9 +425,9 @@ Zwei Dornen, die allergische Reaktionen verursachen können.
 
 **Besonderheiten:**
 Die Äsche gibt einer Gewässerregion ihren Namen - die Äschenregion.
-Sie ![alt text](fisch_aesche.png)ist ein Indikator für sehr gute Wasserqualität und steht unter besonderem Schutz.
+Sie ist ein Indikator für sehr gute Wasserqualität und steht unter besonderem Schutz.
 
-![Äsche](img/fisch_aesche.png)
+![Äsche](img/fisch_aesche.png){ width=50% }
 
 
 ### Der Kaulbarsch
@@ -448,7 +447,7 @@ Kaulbarsche leben gesellig in stehenden und langsam fließenden Gewässern. Sie 
 **Besonderheiten:**
 Gilt als Lästling, da er sich manchmal massenhaft vermehrt und als Laichräuber anderen Fischarten schaden kann.
 
-![Kaulbarsch](img/fisch_kaulbarsch.png)
+![Kaulbarsch](img/fisch_kaulbarsch.png){ width=50% }
 
 ## Geschützte und besondere Arten
 
@@ -470,7 +469,7 @@ Ebenfalls ein wandernder Fisch, der in vielen Flüssen ausgestorben ist. Es gibt
 - **Rotauge**: Endständiges Maul, Rückenflosse über Bauchflossenansatz
 - **Rotfeder**: Oberständiges Maul, Rückenflosse hinter Bauchflossenansatz
 
-![Rotauge-Rotfeder](img/rotauge-rotfeder.png)
+![Rotauge-Rotfeder](img/rotauge-rotfeder.png){ width=50% }
 
 
 

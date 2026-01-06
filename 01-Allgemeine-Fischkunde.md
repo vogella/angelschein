@@ -89,7 +89,7 @@ Eine Besonderheit ist die **Fettflosse**. Sie ist eine kleine, strahlenlose Haut
 
 ### Die innere Anatomie
 
-Unter der Oberfläche verbirgt sich ein hochkomplexes System. Das Skelett besteht bei den meisten heimischen Fischen aus Knochen (Knochenfische/Osteichthyes).
+Unter der Oberfläche verbirgt sich ein hochkomplexes System. Das Skelett besteht bei den meisten heimischen Fischen aus Knochen (Knochenfische/Osteichthyes). Knochenfische haben ein teilweise oder vollständig verknöchertes Skelett.
 
 ![Innere Anatomie eines Fisches](img/innere_anatomie.png){ width=50% }
 
@@ -207,7 +207,7 @@ Auch Otolithen (Gehörsteine) oder Kiemendeckelknochen können genutzt werden. D
 
 ## Artenbestimmung bei Karpfenartigen (Cypriniden)
 
-Anzahl und und Stellung der Schlundzähne
+Anzahl und Stellung der Schlundzähne
 
 
 ## Zusammenfassung
