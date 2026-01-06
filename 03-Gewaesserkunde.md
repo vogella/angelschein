@@ -46,8 +46,8 @@ Ihnen fehlen oft ausgedehnte Flachzonen mit Wasserpflanzen.
 ### Weiher und Teiche
 Kleinere, oft künstlich angelegte Gewässer.
 
-### Altwasser
-Ehemals Teil von einem Fluss, abgetrennt, dadurch Stillgewässer. Ein Altarm ist eine Vorstufe und hat noch eine geringe Verbindung zum Hauptstrom.
+### Baggerseen
+Baggerseen sind durch Kies- oder Sandabbau entstanden. Ziegelteiche sind alte Lehmgruben. Sie haben keinen Zulauf und sind vom Grundwasser abhängig.
 
 ### Altwasser
 Ehemals Teil von einem Flus, abgetrennt, dadurch Stillgewässer.
@@ -152,6 +152,7 @@ In Seen und größeren Stillgewässern kommt es zu einer charakteristischen Schi
 - Viel Licht, starkes Pflanzenwachstum
 
 **Sprungschicht:**
+
 Wenn sich das Oberflächenwasser stark erhitzt und sich das kalte Wasser nicht mehr mit dem warme Wasser vermischen kann, entsteht eine Sprungschicht.
 
 **Tiefenschicht:**
@@ -304,6 +305,11 @@ Störungen können zu Problemen führen.
 Fische ernähren sich von verschiedenen Organismen im Gewässer.
 Das Vorkommen und die Menge dieser Nährtiere bestimmen, wie gut Fische wachsen können.
 
+
+### Plankton
+
+Plankton sind Mikroorganismen, die im Wasser leben.
+Es wird in pflanzliches (Phytoplankton) und tierisches (Zooplankton) Plankton unterschieden.
 
 ### Plankton
 
