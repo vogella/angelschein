@@ -19,8 +19,8 @@ Diese Unterscheidung ist nicht immer trennscharf - manche Fischarten wie der Flu
 
 ### Der Karpfen (Cyprinus carpio)
 
-Der Karpfen ist der bekannteste Friedfisch und stammt ursprünglich aus Asien.
-Der Karpfen hat keinen Magen und Schlundzähne.
+Der Karpfen ist wohl der bekannteste Friedfisch und bei Anglern sehr beliebt. Ursprünglich aus Asien stammend, wurde er bereits vor Jahrhunderten in Europa eingebürgert.
+Der Karpfen hat keinen Magen, zerkleinert seine Nahrung aber mit kräftigen Schlundzähnen.
 
 **Erkennungsmerkmale:**
 - Hochrückiger, gedrungener Körperbau
@@ -330,7 +330,7 @@ Forellen benötigen sehr sauberes, sauerstoffreiches Wasser. Sie sind ausgezeich
 
 ![Forelle](img/fisch_forelle.png){ width=50% }
 
-### Die Regenbogenforelle  
+### Die Regenbogenforelle (Oncorhynchus mykiss)
 
 Die Regenbogenforelle stammt ursprünglich aus Nordamerika und wurde in Europa eingebürgert.
 
@@ -389,8 +389,7 @@ Aale haben einen einzigartigen Lebenszyklus: Sie werden in der Sargassosee (Atla
 
 ![Glasaal](img/fisch_glasaal.png){ width=50% }
 
-Nach 10-20 Jahren wandern sie zurück ins Meer zum Laichen (Blankaal).
-Bekommt große Augen und After verschließt sich.
+Nach 10-20 Jahren wandern sie als Blankaal zurück ins Meer zum Laichen, wobei sie große Augen bekommen und sich ihr After verschließt.
 
 **Besonderheiten:**
 Aale sind vom Aussterben bedroht.
