@@ -4,11 +4,6 @@
 
 Ein Gewässer ist ein Ökosystem, in dem unzählige Organismen in fein abgestimmten Beziehungen zueinander leben.
 
-## Ph Wert
-
-Der Ph-Wert ist ein Maß für die Säure oder Base (alkalischer Wert) des Wassers.
-Weniger als 7 ist das Wasser sauer, mehr als 7 ist es alkalisch.
-
 ## Gewässertypen
 
 ### Fließgewässer
@@ -45,23 +40,29 @@ Dazu gehören Seen, Weiher, Teiche und Talsperren.
 - **Weiher und Teiche**: Kleinere, oft künstlich angelegte Gewässer
 - **Baggerseen**: Durch Kies- oder Sandabbau entstanden
 
-### Besondere Gewässertypen
+### Altwasser
 
-**Brackwasser:**
-Mischung aus Süß- und Salzwasser in Flussmündungen.
-Besondere Fischarten wie Flundern können hier vorkommen.
+Ehemals Teil von einem Flus, abgetrennt, dadurch Stillgewässer.
+Altarm ist eine Vorstufe und hat noch eine geringe Verbindugn zum Hauptstrom.
 
-**Moorgewässer:**
-Saures, nährstoffarmes Wasser mit charakteristischer brauner Färbung durch Huminstoffe.
-Spezielle Anpassungen der Fischarten erforderlich.
+### Talspeeren
 
-**Kanäle:**
-Künstliche Wasserstraßen mit meist gleichmäßiger Tiefe und langsamer Strömung.
+Ihnen fehlen ausgedehnte Flachzonen mit Wasserpflanzen.
+
+### Baggerseen
+
+Baggerseen sind durch Kies- oder Sandabbau entstanden.
+Ziegelteiche sind alte Lehmgruppen.
+Keine Zulauf und sich vom Grundwasser abhängig.
 
 ## Die Gewässerregionen (Fischregionen)
 
 Fließgewässer werden nach den dort vorkommenden Leitfischarten in verschiedene Regionen eingeteilt.
 Diese Einteilung beschreibt die typischen ökologischen Bedingungen.
+
+
+![Gewässerregionen](img/gewaesser-region.jpg)
+
 
 ### Forellenregion
 
@@ -139,18 +140,17 @@ In Seen und größeren Stillgewässern kommt es zu einer charakteristischen Schi
 
 ### Die Temperaturschichtung im Sommer
 
-**Epilimnion (Oberschicht):**
+**Oberschicht:**
 - Warmes Wasser (15-25°C)
 - Gute Durchmischung durch Wind
 - Hoher Sauerstoffgehalt
 - Viel Licht, starkes Pflanzenwachstum
 
-**Metalimnion (Sprungschicht):**
-- Übergangszone
-- Starker Temperaturgradient
-- Temperatur sinkt schnell mit der Tiefe
+**Sprungschicht:**
 
-**Hypolimnion (Tiefenschicht):**
+Wenn sich das Oberflächenwasser stark erhitzt und sich das kalte Wasser nicht mehr mit dem warme Wasser vermischen kann, entsteht eine Sprungschicht.
+
+**Tiefenschicht:**
 - Kaltes Wasser (4-8°C)
 - Keine Durchmischung
 - Kein Licht
@@ -159,6 +159,7 @@ In Seen und größeren Stillgewässern kommt es zu einer charakteristischen Schi
 ### Frühjahrs- und Herbstzirkulation
 
 Zweimal im Jahr, im Frühjahr und Herbst, kommt es zur vollständigen Durchmischung des Sees:
+Diese Durchmischungen sind essentiell für die Sauerstoffversorgung der Tiefenzonen.
 
 **Frühjahrszirkulation:**
 Das Oberflächenwasser erwärmt sich auf 4°C, wird dadurch schwerer als die kälteren Wasserschichten und sinkt ab.
@@ -167,7 +168,6 @@ Sauerstoff gelangt in die Tiefe, Nährstoffe nach oben.
 
 **Herbstzirkulation:**
 Ähnlicher Prozess nach dem Sommer.
-Diese Durchmischungen sind essentiell für die Sauerstoffversorgung der Tiefenzonen.
 
 **Bedeutung für Fische:**
 Im Sommer ziehen sich Kaltwasserfische wie Forellen und Saiblinge in kühlere Tiefen zurück.
@@ -190,18 +190,17 @@ Sie beeinflusst:
 - Kann durch Schwebstoffe oder Algenblüten verursacht sein
 
 **pH-Wert:**
-- Maß für Säure oder Base
+- Maß für Säure oder Base, weniger als 7 ist das Wasser sauer, mehr als 7 ist es alkalisch.
 - Optimaler Bereich für die meisten Fische: pH 6,5-8,5
 - Zu saures oder zu alkalisches Wasser schädigt Fische
 
 ### Chemische Parameter
 
 **Sauerstoff (O₂):**
-Der wichtigste Parameter für Fische!
 - Notwendig für die Atmung
+- Karauschen, Karpfen und Schleien kommen mit 2-3 mg/l aus
 - Mindestgehalt für die meisten Fische: 4-6 mg/l
 - Forellen benötigen mindestens 6-8 mg/l
-- Karpfen und Schleien kommen mit 2-3 mg/l aus
 - Sauerstoffmangel (besonders im Sommer und nachts) kann zu Fischsterben führen
 
 **Kohlendioxid (CO₂):**
@@ -218,29 +217,29 @@ Der wichtigste Parameter für Fische!
 - Wichtiger Nährstoff
 - Zu viel Phosphat führt zu Überdüngung (Eutrophierung)
 
-### Biologische Wasserqualität (Saprobienindex)
+### Biologische Wasserqualität
 
-Die Wasserqualität wird auch anhand von Indikatororganismen bestimmt:
+Die Wasserqualität wird auch anhand von Indikatororganismen bestimmt.
 
-**Güteklasse I (oligosaprob) - unbelastet:**
+**Güteklasse I - unbelastet:**
 - Sehr sauberes Wasser
 - Hoher Sauerstoffgehalt
 - Vorkommen: Strudelwurm, Steinfliegenlarven
 - Fische: Forelle, Äsche
 
-**Güteklasse II (beta-mesosaprob) - mäßig belastet:**
+**Güteklasse II - mäßig belastet:**
 - Gutes Wasser
 - Ausreichend Sauerstoff
 - Vorkommen: Flohkrebse, Köcherfliegenlarven
 - Fische: Die meisten Arten
 
-**Güteklasse III (alpha-mesosaprob) - kritisch belastet:**
+**Güteklasse III - kritisch belastet:**
 - Mäßig verschmutztes Wasser
 - Zeitweise Sauerstoffmangel
 - Vorkommen: Wasserasseln, Egel
 - Fische: Nur robuste Arten wie Karpfen, Schleie
 
-**Güteklasse IV (polysaprob) - stark verschmutzt:**
+**Güteklasse IV - stark verschmutzt:**
 - Stark verunreinigtes Wasser
 - Sehr wenig Sauerstoff
 - Vorkommen: Schlammröhrenwürmer, Rattenschwanzlarven
@@ -280,6 +279,8 @@ Gewässer werden nach ihrem Nährstoffgehalt eingeteilt:
 - Umkippen des Gewässers möglich
 - Fischsterben wahrscheinlich
 
+Die biologische Wassergüte lässt Rückschlüsse auf den Zustand des Gewässers in der Vergangenheit zu.
+
 ### Der Nährstoffkreislauf
 
 Im Gewässer läuft ein ständiger Kreislauf ab:
@@ -291,60 +292,69 @@ Im Gewässer läuft ein ständiger Kreislauf ab:
 5. **Destruenten** (Bakterien, Pilze) bauen organisches Material ab
 6. Nährstoffe werden wieder freigesetzt und stehen Pflanzen zur Verfügung
 
-Dieser Kreislauf ist essentiell für ein gesundes Gewässer. Störungen können zu Problemen führen.
+Dieser Kreislauf ist essentiell für ein gesundes Gewässer.
+Störungen können zu Problemen führen.
 
 ## Fischnährtiere
 
-Fische ernähren sich von verschiedenen Organismen im Gewässer. Das Vorkommen und die Menge dieser Nährtiere bestimmen, wie gut Fische wachsen können.
+Fische ernähren sich von verschiedenen Organismen im Gewässer.
+Das Vorkommen und die Menge dieser Nährtiere bestimmen, wie gut Fische wachsen können.
+
+### Plankton
+
+Plankton sind Mikroorganismen, die im Wasser leben.
+Wird in pflanzlichen und tierischen Formen vorkommen.
 
 ### Zooplankton
 
 Mikroskopisch kleine bis kleine, frei im Wasser schwebende Tiere:
 
-**Rädertierchen (Rotatoria):**
-Winzig klein, wichtig für Fischbrut
+**Rädertierchen:** Winzig klein, wichtig für Fischbrut
 
-**Wasserflöhe (Cladoceren):**
-Kleinkrebse, wichtige Nahrung für junge und kleine Fische
+**Wasserflöhe:** Kleinkrebse, wichtige Nahrung für junge und kleine Fische
 
-**Hüpferlinge (Copepoden):**
-Kleine Krebse, Nahrung für viele Friedfische
+**Hüpferlinge:** Kleine Krebse, Nahrung für viele Friedfische
 
 ### Benthos (Bodenlebewesen)
 
 Tiere, die am oder im Gewässerboden leben:
 
 **Insektenlarven:**
-- **Zuckmückenlarven**: Sehr häufig, wichtige Nahrung
-- **Köcherfliegenlarven**: In sauberen Gewässern
-- **Eintagsfliegenlarven**: Indikator für gute Wasserqualität
-- **Libellenlarven**: Räuber, auch von kleinen Fischen
+
+* **Zuckmückenlarven**: Sehr häufig, wichtige Nahrung
+* **Köcherfliegenlarven**: In sauberen Gewässern
+* **Eintagsfliegenlarven**: Indikator für gute Wasserqualität
+* **Libellenlarven**: Räuber, auch von kleinen Fischen
 
 **Würmer:**
-- **Schlammröhrenwürmer (Tubifex)**: In nährstoffreichen Gewässern
-- **Wenigborster**: Verschiedene Arten
+
+* **Schlammröhrenwürmer**: In nährstoffreichen Gewässern
+* **Wenigborster**: Verschiedene Arten
 
 **Weichtiere:**
-- **Schnecken**: Verschiedene Arten
-- **Muscheln**: Filtrierer, wichtig für Wasserreinigung
+
+* **Schnecken**: Verschiedene Arten
+* **Muscheln**: Filtrierer, wichtig für Wasserreinigung
 
 **Krebstiere:**
-- **Flohkrebse**: In sauerstoffreichen Gewässern
-- **Wasserasseln**: In belasteten Gewässern häufig
-- **Flusskrebse**: Größer, wichtige Nahrung für Raubfische
+
+* **Flohkrebse**: In sauerstoffreichen Gewässern
+* **Wasserasseln**: In belasteten Gewässern häufig
+* **Flusskrebse**: Größer, wichtige Nahrung für Raubfische
 
 ### Makrozoobenthos als Bioindikatoren
 
 Viele Bodenlebewesen sind Indikatoren für Wasserqualität:
-- **Steinfliegenlarven**: Nur in sehr sauberem Wasser
-- **Wasserasseln**: Auch in belasteten Gewässern
-- **Tubifex-Würmer**: Zeigen starke Belastung an
+
+* **Steinfliegenlarven**: Nur in sehr sauberem Wasser
+* **Wasserasseln**: Auch in belasteten Gewässern
+* **Schlammröhrenwürmer**: Zeigen starke Belastung an
 
 ## Gewässerschutz
 
 ### Gefährdungen von Gewässern
 
-- **Eutrophierung:** Überdüngung durch Einträge von Nährstoffen (Landwirtschaft, Abwasser). Folgen: Algenblüten, Sauerstoffmangel, Fischsterben.
+- **Eutrophierung:** Überdüngung durch Einträge von Nährstoffen (Landwirtschaft, Abwasser). Folgen: Algenblüten / **Wasserblüte** , Sauerstoffmangel, Fischsterben.
 - **Verschmutzung:** Eintrag von Schadstoffen, Schwermetallen, Chemikalien, Mikroplastik.
 - **Verbauung:** Begradigung von Flüssen, Wehre, Staudämme zerstören natürliche Lebensräume und verhindern Fischwanderungen.
 - **Erwärmung:** Klimawandel und Einleitung von warmem Kühlwasser reduzieren Sauerstoffgehalt.
@@ -363,6 +373,7 @@ Gewässerrandstreifen ohne intensive Landwirtschaft reduzieren Nährstoffeinträ
 
 **Durchgängigkeit:**
 Fischtreppen und Umgehungsgerinne ermöglichen Fischwanderungen.
+50m vor und hinter der Fischtreppe ist das Angeln verboten.
 
 **Monitoring:**
 Regelmäßige Überwachung der Wasserqualität.
