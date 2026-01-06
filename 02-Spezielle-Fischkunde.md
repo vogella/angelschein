@@ -301,7 +301,7 @@ Zander bevorzugen große, tiefe, klare Gewässer mit festem Grund. Sie sind däm
 **Besonderheiten:**
 Zander betreiben Brutpflege - das Männchen bewacht und belüftet das Gelege. Zander sind empfindlich gegenüber Wasserverschmutzung.
 
-![Zander (Sander lucioperca)](img/fisch_zander.png)
+![Zander (Sander lucioperca)](img/fisch_zander.png){ width=50% }
 
 ### Der Flussbarsch (Perca fluviatilis)
 
@@ -322,7 +322,7 @@ Barsche leben in Schwärmen, wobei sich oft gleichgroße Fische zusammenschließ
 **Besonderheiten:**
 Die stacheligen Hartstrahlen der Rückenflosse können schmerzhafte Verletzungen verursachen. Barsche sind sehr neugierig und oft leicht zu fangen.
 
-![Flussbarsch (Perca fluviatilis)](img/fisch_flussbarsch.png)
+![Flussbarsch (Perca fluviatilis)](img/fisch_flussbarsch.png){ width=50% }
 
 ### Die Forelle (Salmo trutta)
 
@@ -343,7 +343,7 @@ Bachforellen bevorzugen kalte, sauerstoffreiche, schnell fließende Bäche und F
 **Besonderheiten:**
 Forellen benötigen sehr sauberes, sauerstoffreiches Wasser. Sie sind ausgezeichnete Indikatoren für gute Wasserqualität. Die Fettflosse ist charakteristisch für alle Salmoniden (Lachsartige).
 
-![Forelle (Salmo trutta)](img/fisch_forelle.png)
+![Forelle (Salmo trutta)](img/fisch_forelle.png){ width=50% }
 
 ### Die Regenbogenforelle (Oncorhynchus mykiss)
 
