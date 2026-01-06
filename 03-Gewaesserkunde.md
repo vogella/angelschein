@@ -40,25 +40,19 @@ Dazu gehören Seen, Weiher, Teiche und Talsperren.
 Durch geologische Prozesse entstanden (z.B. Gletscherseen).
 
 ### Talsperren
-Künstlich durch Aufstauen von Flüssen entstanden. Ihnen fehlen oft ausgedehnte Flachzonen mit Wasserpflanzen.
+Künstlich durch Aufstauen von Flüssen entstanden.
+Ihnen fehlen oft ausgedehnte Flachzonen mit Wasserpflanzen.
 
 ### Weiher und Teiche
 Kleinere, oft künstlich angelegte Gewässer.
-
-### Baggerseen
-Baggerseen sind durch Kies- oder Sandabbau entstanden. Ziegelteiche sind alte Lehmgruben. Sie haben keinen Zulauf und sind vom Grundwasser abhängig.
 
 ### Altwasser
 Ehemals Teil von einem Fluss, abgetrennt, dadurch Stillgewässer. Ein Altarm ist eine Vorstufe und hat noch eine geringe Verbindung zum Hauptstrom.
 
 ### Altwasser
-
 Ehemals Teil von einem Flus, abgetrennt, dadurch Stillgewässer.
 Altarm ist eine Vorstufe und hat noch eine geringe Verbindugn zum Hauptstrom.
 
-### Talspeeren
-
-Ihnen fehlen ausgedehnte Flachzonen mit Wasserpflanzen.
 
 ### Baggerseen
 
@@ -158,11 +152,7 @@ In Seen und größeren Stillgewässern kommt es zu einer charakteristischen Schi
 - Viel Licht, starkes Pflanzenwachstum
 
 **Sprungschicht:**
-
-- Übergangszone
-- Starker Temperaturgradient
-- Temperatur sinkt schnell mit der Tiefe
-
+Wenn sich das Oberflächenwasser stark erhitzt und sich das kalte Wasser nicht mehr mit dem warme Wasser vermischen kann, entsteht eine Sprungschicht.
 
 **Tiefenschicht:**
 - Kaltes Wasser (4-8°C)
@@ -314,10 +304,6 @@ Störungen können zu Problemen führen.
 Fische ernähren sich von verschiedenen Organismen im Gewässer.
 Das Vorkommen und die Menge dieser Nährtiere bestimmen, wie gut Fische wachsen können.
 
-### Plankton
-
-Plankton sind Mikroorganismen, die im Wasser leben.
-Wird in pflanzlichen und tierischen Formen vorkommen.
 
 ### Plankton
 
