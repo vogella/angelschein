@@ -35,10 +35,21 @@ Dazu gehören Seen, Weiher, Teiche und Talsperren.
 - Größere Temperaturschwankungen als in Fließgewässern
 
 **Einteilung nach Entstehung:**
-- **Natürliche Seen**: Durch geologische Prozesse entstanden (z.B. Gletscherseen)
-- **Talsperren**: Künstlich durch Aufstauen von Flüssen entstanden
-- **Weiher und Teiche**: Kleinere, oft künstlich angelegte Gewässer
-- **Baggerseen**: Durch Kies- oder Sandabbau entstanden
+
+### Natürliche Seen
+Durch geologische Prozesse entstanden (z.B. Gletscherseen).
+
+### Talsperren
+Künstlich durch Aufstauen von Flüssen entstanden. Ihnen fehlen oft ausgedehnte Flachzonen mit Wasserpflanzen.
+
+### Weiher und Teiche
+Kleinere, oft künstlich angelegte Gewässer.
+
+### Baggerseen
+Baggerseen sind durch Kies- oder Sandabbau entstanden. Ziegelteiche sind alte Lehmgruben. Sie haben keinen Zulauf und sind vom Grundwasser abhängig.
+
+### Altwasser
+Ehemals Teil von einem Fluss, abgetrennt, dadurch Stillgewässer. Ein Altarm ist eine Vorstufe und hat noch eine geringe Verbindung zum Hauptstrom.
 
 ### Altwasser
 
@@ -148,7 +159,10 @@ In Seen und größeren Stillgewässern kommt es zu einer charakteristischen Schi
 
 **Sprungschicht:**
 
-Wenn sich das Oberflächenwasser stark erhitzt und sich das kalte Wasser nicht mehr mit dem warme Wasser vermischen kann, entsteht eine Sprungschicht.
+- Übergangszone
+- Starker Temperaturgradient
+- Temperatur sinkt schnell mit der Tiefe
+
 
 **Tiefenschicht:**
 - Kaltes Wasser (4-8°C)
@@ -305,6 +319,11 @@ Das Vorkommen und die Menge dieser Nährtiere bestimmen, wie gut Fische wachsen 
 Plankton sind Mikroorganismen, die im Wasser leben.
 Wird in pflanzlichen und tierischen Formen vorkommen.
 
+### Plankton
+
+Plankton sind Mikroorganismen, die im Wasser leben.
+Es wird in pflanzliches (Phytoplankton) und tierisches (Zooplankton) Plankton unterschieden.
+
 ### Zooplankton
 
 Mikroskopisch kleine bis kleine, frei im Wasser schwebende Tiere:
@@ -354,7 +373,7 @@ Viele Bodenlebewesen sind Indikatoren für Wasserqualität:
 
 ### Gefährdungen von Gewässern
 
-- **Eutrophierung:** Überdüngung durch Einträge von Nährstoffen (Landwirtschaft, Abwasser). Folgen: Algenblüten / **Wasserblüte** , Sauerstoffmangel, Fischsterben.
+- **Eutrophierung:** Überdüngung durch Einträge von Nährstoffen (Landwirtschaft, Abwasser). Folgen: Algenblüten / **Wasserblüte**, Sauerstoffmangel, Fischsterben.
 - **Verschmutzung:** Eintrag von Schadstoffen, Schwermetallen, Chemikalien, Mikroplastik.
 - **Verbauung:** Begradigung von Flüssen, Wehre, Staudämme zerstören natürliche Lebensräume und verhindern Fischwanderungen.
 - **Erwärmung:** Klimawandel und Einleitung von warmem Kühlwasser reduzieren Sauerstoffgehalt.

@@ -303,7 +303,11 @@ Kleine Barsche ernähren sich von Insektenlarven und Würmern, größere jagen F
 Die stacheligen Hartstrahlen der Rückenflosse können schmerzhafte Verletzungen verursachen.
 Barsche sind sehr neugierig und oft leicht zu fangen.
 
+<<<<<<< HEAD
 ![Flussbarsch](img/fisch_flussbarsch.png){ width=50% }
+=======
+![Flussbarsch (Perca fluviatilis)](img/fisch_flussbarsch.png){ width=50% }
+>>>>>>> 5d3f2a1 (Image size updated)
 
 ### Die Forelle (Salmo trutta)
 
@@ -327,8 +331,12 @@ Sie ernähren sich von Insekten, deren Larven, Krebstieren und kleineren Fischen
 Forellen benötigen sehr sauberes, sauerstoffreiches Wasser. Sie sind ausgezeichnete Indikatoren für gute Wasserqualität. Die Fettflosse ist charakteristisch für alle Salmoniden (Lachsartige).
 ![Bachforelle](img/fisch_bachforelle.png){ width=50% }
 
+<<<<<<< HEAD
 
 ![Forelle](img/fisch_forelle.png){ width=50% }
+=======
+![Forelle (Salmo trutta)](img/fisch_forelle.png){ width=50% }
+>>>>>>> 5d3f2a1 (Image size updated)
 
 ### Die Regenbogenforelle (Oncorhynchus mykiss)
 
