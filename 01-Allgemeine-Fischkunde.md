@@ -15,16 +15,21 @@ Der Körper ist stromlinienförmig, wodurch der Fisch mit minimalem Energieaufwa
 Wir unterscheiden verschiedene typische Körperformen, die viel über den Lebensraum und die Jagdweise verraten:
 
 *   **Spindelförmig (Torpedoförmig):** Der Körper ist im Querschnitt fast rund und verjüngt sich zu beiden Enden. Dies ist die ideale Form für ausdauernde Schwimmer, auch in starker Strömung (z.B. Forelle, Lachs).
-    ![Spindelförmige Körperform (Forelle)](img/koerperform_torpedo.png){ width=50% }
+
+![Spindelförmige Körperform (Forelle)](img/koerperform_torpedo.png){ width=30% }
+
 
 *   **Pfeilförmig:** Der Körper ist langgestreckt, aber Rücken- und Afterflosse sind weit nach hinten verlagert. Dies ermöglicht keine Ausdauer, aber eine enorme Beschleunigung aus dem Stand für den Beutefang (z.B. Hecht).
-    ![Pfeilförmige Körperform (Hecht)](img/koerperform_pfeil.png){ width=50% }
+
+![Pfeilförmige Körperform (Hecht)](img/koerperform_pfeil.png){ width=30% }
 
 *   **Hochrückig:** Der Körper ist seitlich stark abgeflacht (z.B. Brasse). Dies sorgt für gute Manövrierfähigkeit in pflanzenreichen Gewässern, ist aber ungünstig in starker Strömung.
-    ![Hochrückige Körperform (Brasse)](img/koerperform_hoch.png){ width=50% }
+
+![Hochrückige Körperform (Brasse)](img/koerperform_hoch.png){ width=30% }
 
 *   **Schlangenförmig:** Der Körper ist sehr lang und rund (z.B. Aal), ideal um sich am Grund und in engen Spalten zu bewegen.
-    ![Schlangenförmige Körperform (Aal)](img/koerperform_schlange.png){ width=50% }
+
+![Schlangenförmige Körperform (Aal)](img/koerperform_schlange.png){ width=30% }
 
 Die Haut des Fisches ist komplex aufgebaut und besteht aus zwei Hauptschichten:
 
@@ -46,12 +51,17 @@ Die Form des Maules und die Bezahnung verraten, wo und was ein Fisch frisst.
 **Maulstellungen:**
 
 *   **Oberständiges Maul:** Der Unterkiefer ist länger als der Oberkiefer, die Maulspalte zeigt nach oben (z.B. Hecht). Diese Fische jagen oft an der Wasseroberfläche.
-    ![Oberständiges Maul (Hecht)](img/maulstellung_oberstaendig.png){ width=50% }
+
+![Oberständiges Maul (Hecht)](img/maulstellung_oberstaendig.png){ width=30% }
+
 *   **Endständiges Maul:** Ober- und Unterkiefer sind gleich lang, die Maulspalte zeigt nach vorne (z.B. Forelle, Rotauge). Typisch für Fische, die im freien Wasser jagen.
-    ![Endständiges Maul (Forelle)](img/maulstellung_endstaendig.png){ width=50% }
+
+![Endständiges Maul (Forelle)](img/maulstellung_endstaendig.png){ width=30% }
+
 *   **Unterständiges Maul:** Der Oberkiefer ragt über den Unterkiefer, die Maulöffnung zeigt nach unten (z.B. Karpfen, Barbe).
 Dies ist typisch für Fische, die ihre Nahrung am Grund suchen (Gründler).
-    ![Unterständiges Maul (Karpfen)](img/maulstellung_unterstaendig.png){ width=50% }
+
+![Unterständiges Maul (Karpfen)](img/maulstellung_unterstaendig.png){ width=30% }
 
 **Bezahnung:**
 
@@ -65,7 +75,7 @@ Die **Schwanzflosse** (Caudalflosse) ist der Hauptantrieb.
 Durch seitliche Bewegungen des Schwanzstiels wird der Fisch nach vorne getrieben.
 Die Form der Schwanzflosse verrät viel über die Lebensweise: Schnelle Raubfische wie Hechte haben oft gegabelte Schwanzflossen, während Grundfische wie Karpfen eher abgerundete Schwanzflossen besitzen.
 
-![Übersicht der Flossenarten](img/flossen_uebersicht.png){ width=50% }
+![Übersicht der Flossenarten](img/flossen_uebersicht.png){ width=30% }
 
 Die **Rückenflosse** (Dorsalflosse) stabilisiert den Fisch und verhindert ein seitliches Kippen.
 Manche Fischarten wie Barsche haben sogar zwei Rückenflossen - eine vordere mit Hartstrahlen als Schutz und eine hintere mit Weichstrahlen.
@@ -78,14 +88,14 @@ Die Position der Bauchflossen verrät viel über die Entwicklungsgeschichte:
 *   **Brustständig:** Die Bauchflossen sind nach vorne gewandert und sitzen fast direkt *unter* den Brustflossen (z.B. Barsch, Zander). Dies ermöglicht eine noch bessere Manövrierfähigkeit.
 *   **Bauchständig:** Die Bauchflossen sitzen weit *hinter* den Brustflossen (z.B. Karpfen, Forelle). Dies ist ein Merkmal eher ursprünglicher Arten.
 
-![Brustflossen](img/brustflossen.png){ width=50% }
+![Brustflossen](img/brustflossen.png){ width=60% }
 
 
 Die **Afterflosse**, unterhalb des Fisches gelegen, sorgt zusammen mit der Rückenflosse für die Richtungsstabilität.
 
 Eine Besonderheit ist die **Fettflosse**. Sie ist eine kleine, strahlenlose Hautfahne zwischen Rücken- und Schwanzflosse. Sie ist ein wichtiges Erkennungsmerkmal für alle lachsartigen Fische (**Salmoniden**) wie Forellen, Äschen und Saiblinge, kommt aber auch bei Zwergwelsen vor. Friedfische wie Karpfen haben *keine* Fettflosse.
 
-![Fettflosse bei Salmoniden](img/flossen_fettflosse.png){ width=50% }
+![Fettflosse bei Salmoniden](img/flossen_fettflosse.png){ width=20% }
 
 ### Die innere Anatomie
 
@@ -158,9 +168,9 @@ In der Fachsprache nennt man das männliche Tier **Milchner** (wegen der milchig
 
 Die Fortpflanzung (Laichzeit) ist artspezifisch und temperaturabhängig.
 
-*   **Winterlaicher:** z.B. Forelle, Quappe (November bis Februar)
 *   **Frühjahrslaicher:** z.B. Hecht, Äsche (Februar bis Mai)
-*   **Sommerlaicher:** z.B. Karpfen, Schleie, Wels (Mai bis Juli)
+*   **Sommerlaicher:** z.B. Karpfen, Schleie, Wels, Brasse (Mai bis Juli)
+*   **Winterlaicher:** z.B. Forelle, Quappe (November bis Februar)
 
 Während der Laichzeit bilden manche Fische ein "Laichkleid" (intensivere Farben) oder einen "Laichhaken" (männliche Forellen).
 
@@ -177,8 +187,8 @@ Viele Fische unternehmen Wanderungen zum Laichen. Wir unterscheiden:
 Die meisten heimischen Fische sind Freilaicher mit äußerer Befruchtung.
 Je nach Ablageort unterscheidet man:
 
-*   **Kieslaicher (Lithophile):** Legen Eier in kiesigem Grund ab (z.B. Forelle).
-*   **Krautlaicher (Phytophile):** Kleben Eier an Wasserpflanzen (z.B. Hecht, Karpfen).
+*   **Krautlaicher:** Kleben Eier an Wasserpflanzen (z.B. Hecht, Karpfen, Zander, Barsch, Schleie, Brassen.
+*   **Kieslaicher:** Legen Eier in kiesigem Grund ab (z.B. Forelle) (Salmoniden), Nase, Barbe.
 
 Einige Arten betreiben Brutpflege (z.B. Stichling, Wels, Zander), die meisten überlassen den Laich sich selbst.
 
@@ -203,16 +213,11 @@ Wichtige Krankheiten:
 
 Die gängigste Methode ist die **Schuppen-Methode**: Ähnlich wie bei Baumringen kann man an den Jahresringen auf den Schuppen das Alter eines Fisches ablesen. Im Winter, wenn das Wachstum langsamer ist, entstehen engere Ringe, im Sommer weitere Abstände.
 
-Auch Otolithen (Gehörsteine) oder Kiemendeckelknochen können genutzt werden. Die Kenntnis des Alters ist wichtig für das Fischereimanagement, um z.B. das Wachstum von Populationen zu verstehen und Schonmaße festzulegen.
+Bei einigen Cypriniden (karpfenartigen) können auch die Barteln verwendet werden.
+
 
 ## Artenbestimmung bei Karpfenartigen (Cypriniden)
 
 Anzahl und Stellung der Schlundzähne
 
-
-## Zusammenfassung
-
-Die allgemeine Fischkunde lehrt uns das "Funktionsprinzip Fisch". Von der hydrodynamischen Form über die spezialisierten Sinne bis hin zur Anpassung an verschiedene Gewässerzonen - all dies hilft dem Angler, den Fisch nicht nur als Beute, sondern als komplexes Lebewesen zu verstehen und zu respektieren. Im nächsten Kapitel widmen wir uns der speziellen Fischkunde und den einzelnen Fischarten.
-
----
 

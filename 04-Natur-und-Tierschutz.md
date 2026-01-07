@@ -87,19 +87,27 @@ In Deutschland besteht grundsätzlich die Pflicht zur Verwertung entnommener Fis
 
 Hamburg Regeln:
 
-| Fischart | Unteres Maß | Oberes Maß | Tageshöchstmenge | Bildreferenz |
-| :--- | :--- | :--- | :--- | :--- |
-| **Aal** | 45 cm | 75 cm | 3 Expl. | ![Aal](./img/fisch_aal.png){width=10%} |
-| **Hecht** | 45 cm | 75 cm | 2 Expl. | ![Hecht](./img/fisch_hecht.png){width=10%} |
-| **Zander** | 45 cm | 75 cm | 2 Expl. | ![Zander](./img/fisch_zander.png){width=10%} |
-| **Flussbarsch** | 10 cm | 35 cm | - | ![Flussbarsch](./img/fisch_flussbarsch.png){width=10%} |
-| **Bachforelle** | 20 cm | 40 cm | - | ![Bachforelle](./img/fisch_bachforelle.png){width=10%} |
-| **Schleie** | 25 cm | 45 cm | - | ![Schleie](./img/fisch_schleie.png){width=10%} |
-| **Quappe** | 30 cm | 50 cm | 3 Expl. | ![Quappe](./img/fisch_quappe.png){width=10%} |
-| **Karpfen** | 35 cm | kein oberes Maß | - | ![Karpfen](./img/fisch_karpfen.png){width=10%} |
-| **Meerforelle** | 40 cm | 65 cm | 2 Expl. | ![Meerforelle](./img/fisch_meerforelle.png){width=10%} |
-| **Rapfen** | 40 cm | 70 cm | 1 Expl. | ![Rapfen](./img/fisch_rapfen.png){width=10%} |
-|
+| Fischart | Unteres Maß | Oberes Maß | Tageshöchstmenge | Schonzeit | Bildreferenz |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Aal** | 45 cm | 75 cm | 3 Expl. | - | ![Aal](./img/fisch_aal.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Hecht** | 45 cm | 75 cm | 2 Expl. | 01.02. - 31.05. | ![Hecht](./img/fisch_hecht.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Zander** | 45 cm | 75 cm | 2 Expl. | 01.02. - 31.05. | ![Zander](./img/fisch_zander.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Flussbarsch** | 10 cm | 35 cm | - | - | ![Flussbarsch](./img/fisch_flussbarsch.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Bachforelle** | 20 cm | 40 cm | - | 15.10. - 15.02. | ![Bachforelle](./img/fisch_bachforelle.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Schleie** | 25 cm | 45 cm | - | - | ![Schleie](./img/fisch_schleie.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Quappe** | 30 cm | 50 cm | 3 Expl. | - | ![Quappe](./img/fisch_quappe.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Karpfen** | 35 cm | kein oberes Maß | - | - | ![Karpfen](./img/fisch_karpfen.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Meerforelle** | 40 cm | 65 cm | 2 Expl. | 15.10. - 15.02. | ![Meerforelle](./img/fisch_meerforelle.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Rapfen** | 50 cm | 70 cm | 1 Expl. | - | ![Rapfen](./img/fisch_rapfen.png){width=10%} |
 
 ### Wann MUSS ein Fisch zurückgesetzt werden?
 

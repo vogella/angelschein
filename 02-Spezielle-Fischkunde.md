@@ -17,14 +17,14 @@ Diese Unterscheidung ist nicht immer trennscharf - manche Fischarten wie der Flu
 
 ## Die wichtigsten Friedfische
 
-### Der Karpfen (Cyprinus carpio)
+### Der Karpfen
 
 Der Karpfen ist wohl der bekannteste Friedfisch und bei Anglern sehr beliebt. Ursprünglich aus Asien stammend, wurde er bereits vor Jahrhunderten in Europa eingebürgert.
 Der Karpfen hat keinen Magen, zerkleinert seine Nahrung aber mit kräftigen Schlundzähnen.
 
 **Erkennungsmerkmale:**
 - Hochrückiger, gedrungener Körperbau
-- Vier Barteln am Obermaul (zwei lange, zwei kurze)
+- *Vier Barteln am Obermaul* (zwei lange, zwei kurze)
 - Große, goldfarbene bis bronzene Schuppen
 - Lange Rückenflosse mit einem gezähnten Hartstrahl
 - Kann über 1 Meter lang und über 30 kg schwer werden
@@ -40,9 +40,9 @@ Im Winter verfallen sie in eine Art Winterruhe und fressen kaum.
 
 **Besonderheiten:**
 Es gibt verschiedene Zuchtformen wie Spiegelkarpfen (wenige, große Schuppen), Lederkarpfen (fast ohne Schuppen) und Schuppenkarpfen (die ursprüngliche Wildform). Karpfen können sehr alt werden - über 50 Jahre sind möglich.
-Graskarpfen hat keine Barteln und ist eine invasive Art.
+Graskarpfen hat keine Barteln, sind nicht mit dem Karpfen verwandt und sind eine invasive Art.
 
-### Die Schleie (Tinca tinca)
+### Die Schleie
 
 Die Schleie ist ein scheuer, bodenbewohnender Friedfisch, der oft übersehen wird, aber ein faszinierendes Leben führt.
 
@@ -64,8 +64,8 @@ Schleien können in sauerstoffarmen Gewässern überleben, in denen andere Fisch
 
 ![Schleie](img/fisch_schleie.png){ width=50% }
 
-### Der Brassen (Abramis brama)
-
+### Der Brassen
+ 
 Der Brassen, auch Brachse oder Blei genannt, ist in vielen Gewässern der häufigste Weißfisch.
 Kann sein Maul wie einen Rüssel vorstülpen.
 
@@ -87,7 +87,7 @@ In nährstoffreichen Gewässern können Brassen zur dominanten Art werden.
 
 ![Brassen](img/fisch_brassen.png){ width=50% }
 
-### Die Rotfeder (Scardinius erythrophthalmus)
+### Die Rotfeder
 
 Die Rotfeder wird oft mit dem Rotauge verwechselt, ist aber bei genauem Hinsehen leicht zu unterscheiden.
 
@@ -107,9 +107,9 @@ Rotfedern bevorzugen pflanzenreiche, stehende oder langsam fließende Gewässer.
 **Besonderheiten:**
 Der wichtigste Unterschied zum Rotauge: Bei der Rotfeder ist das Maul oberständig und die Rückenflosse sitzt weiter hinten.
 
-![Rotfeder (Scardinius erythrophthalmus)](img/fisch_rotfeder.png){ width=50% }
+![Rotfeder](img/fisch_rotfeder.png){ width=50% }
 
-### Das Rotauge (Rutilus rutilus)
+### Das Rotauge
 
 Das Rotauge, auch Plötze genannt, ist einer der häufigsten Fische in deutschen Gewässern.
 
@@ -132,7 +132,7 @@ Endständiges Maul.
 
 ![Rotauge](img/fisch_rotauge.png){ width=50% }
 
-### Die Barbe (Barbus barbus)
+### Die Barbe
 
 Die Barbe ist ein typischer Bewohner schnell fließender, sauerstoffreicher Flüsse.
 Hält sich am Grund auf.
@@ -152,13 +152,12 @@ Sie halten sich am Grund auf und ernähren sich von Würmern, Schnecken, Insekte
 **Laichzeit:** Mai bis Juli
 
 **Besonderheiten:**
-Der Laich und die Rogen der Barbe sind giftig und dürfen nicht verzehrt werden!
+Der Laich und die Rogen der Barbe sind **giftig** und dürfen nicht verzehrt werden!
 Die Barbe gibt einer Gewässerregion ihren Namen - die Barbenregion.
 
-![Barbe (Barbus barbus)](img/fisch_barbe.jpg){ width=50% }
+![Barbe](img/fisch_barbe.png){ width=50% }
 
-
-### Der Döbel (Squalius cephalus)
+### Der Döbel
 
 Der Döbel, auch Aitel genannt, ist ein kräftiger, kampfstarker Fisch.
 
@@ -219,6 +218,7 @@ Keine Schwimmblase
 ### Quappe
 
 Einziger Süßwasserdorsch.
+Hat nur eine Bartel.
 
 ![Quappe](img/fisch_quappe.png){ width=50% }
 
@@ -232,7 +232,7 @@ Schwarzer Fleck über der Bauchflosse ist Erkennungsmerkmal.
 
 ## Die wichtigsten Raubfische
 
-### Der Hecht
+### Hecht
 
 Der Hecht ist der Raubfisch schlechthin - ein perfekter Jäger mit beeindruckendem Gebiss.
 
@@ -278,9 +278,9 @@ Zander bevorzugen große, tiefe, klare Gewässer mit festem Grund. Sie sind däm
 **Besonderheiten:**
 Zander betreiben Brutpflege - das Männchen bewacht und belüftet das Gelege. Zander sind empfindlich gegenüber Wasserverschmutzung.
 
-![Zander (Sander lucioperca)](img/fisch_zander.png){ width=50% }
+![Zander](img/fisch_zander.png){ width=50% }
 
-### Der Flussbarsch
+### Flussbarsch
 
 Der Barsch ist einer der häufigsten Raubfische und an seiner charakteristischen Färbung leicht zu erkennen.
 
@@ -290,6 +290,7 @@ Der Barsch ist einer der häufigsten Raubfische und an seiner charakteristischen
 - Markante dunkle Querstreifen (meist 5-9 Stück)
 - Rötliche Bauch-, After- und Schwanzflossen
 - Großes Maul mit Bürstenzähnen
+- **Brustständige Bauchflossen**
 - Kammschuppen
 
 **Lebensweise:**
@@ -303,13 +304,9 @@ Kleine Barsche ernähren sich von Insektenlarven und Würmern, größere jagen F
 Die stacheligen Hartstrahlen der Rückenflosse können schmerzhafte Verletzungen verursachen.
 Barsche sind sehr neugierig und oft leicht zu fangen.
 
-<<<<<<< HEAD
 ![Flussbarsch](img/fisch_flussbarsch.png){ width=50% }
-=======
-![Flussbarsch (Perca fluviatilis)](img/fisch_flussbarsch.png){ width=50% }
->>>>>>> 5d3f2a1 (Image size updated)
 
-### Die Forelle (Salmo trutta)
+### Forelle
 
 Die Forelle tritt in verschiedenen Formen auf - als Bachforelle, Seeforelle und Meerforelle (alle gehören zur gleichen Art).
 
@@ -331,14 +328,9 @@ Sie ernähren sich von Insekten, deren Larven, Krebstieren und kleineren Fischen
 Forellen benötigen sehr sauberes, sauerstoffreiches Wasser. Sie sind ausgezeichnete Indikatoren für gute Wasserqualität. Die Fettflosse ist charakteristisch für alle Salmoniden (Lachsartige).
 ![Bachforelle](img/fisch_bachforelle.png){ width=50% }
 
-<<<<<<< HEAD
-
-![Forelle](img/fisch_forelle.png){ width=50% }
-=======
 ![Forelle (Salmo trutta)](img/fisch_forelle.png){ width=50% }
->>>>>>> 5d3f2a1 (Image size updated)
 
-### Die Regenbogenforelle (Oncorhynchus mykiss)
+### Regenbogenforelle
 
 Die Regenbogenforelle stammt ursprünglich aus Nordamerika und wurde in Europa eingebürgert.
 
@@ -356,7 +348,7 @@ Die Regenbogenforelle stammt ursprünglich aus Nordamerika und wurde in Europa e
 **Besonderheiten:**
 Regenbogenforellen wachsen schneller als Bachforellen und werden größer. Sie vermehren sich in den meisten europäischen Gewässern nicht natürlich.
 
-### Der Wels (Silurus glanis)
+### Wels
 
 Der Wels ist der größte reine Süßwasserfisch Europas - ein wahrer Riese.
 
@@ -378,7 +370,7 @@ Welse betreiben Brutpflege. Sie können sehr alt werden (über 50 Jahre). Ihre B
 
 ## Weitere wichtige Fischarten
 
-### Der Aal (Anguilla anguilla)
+### Aal
 
 Keine Zwischenmuskelgräten.
 
@@ -416,11 +408,11 @@ Zwei Dornen, die allergische Reaktionen verursachen können.
 
 ![Dornhai](img/fisch_dornhai.png){ width=50% }
 
-### Die Äsche (Thymallus thymallus)
+### Äsche
 
 **Erkennungsmerkmale:**
 - Gestreckter, seitlich abgeflachter Körper
-- Sehr große, segelartige Rückenflosse (beim Männchen besonders ausgeprägt)
+- Sehr große, segelartige Rückenflosse (beim Männchen besonders ausgeprägt), **größte Rückenflosse aller lachsartigen Fische**
 - Fettflosse vorhanden
 - Großschuppig mit violetten Längsstreifen
 - Großes Maul mit kleinen Zähnen
@@ -433,6 +425,7 @@ Zwei Dornen, die allergische Reaktionen verursachen können.
 **Besonderheiten:**
 Die Äsche gibt einer Gewässerregion ihren Namen - die Äschenregion.
 Sie ist ein Indikator für sehr gute Wasserqualität und steht unter besonderem Schutz.
+Den Äschermilcher erkennt man an der langgezogenen Rückenflosse.
 
 ![Äsche](img/fisch_aesche.png){ width=50% }
 
@@ -441,7 +434,7 @@ Sie ist ein Indikator für sehr gute Wasserqualität und steht unter besonderem 
 
 **Erkennungsmerkmale:**
 - Kleiner, gedrungener Fisch (meist 10-15 cm)
-- Zwei zusammengewachsene Rückenflossen
+- **Zwei zusammengewachsene Rückenflossen - Unterscheidung zum Flussbarsch, der zwei hat**     
 - Großer Kopf mit großen Augen
 - Raue Haut (auch auf Kiemendeckeln)
 - Graubraune bis grünliche Färbung mit dunklen Flecken
@@ -462,13 +455,16 @@ Gilt als Lästling, da er sich manchmal massenhaft vermehrt und als Laichräuber
 
 Störe waren früher in deutschen Flüssen heimisch, sind aber ausgestorben. Es gibt Wiederansiedlungsprojekte. Störe stehen unter strengstem Schutz.
 
-### Die Nase (Chondrostoma nasus)
+### Die Nase 
 
-Ein Fisch mit charakteristisch unterständigem Maul zum Abweiden von Algen. Geschützt und gefährdet.
+Ein Fisch mit charakteristisch unterständigem Maul zum Abweiden von Algen.
+Geschützt und gefährdet.
 
-### Der Lachs (Salmo salar)
+### Der Lachs 
 
-Ebenfalls ein wandernder Fisch, der in vielen Flüssen ausgestorben ist. Es gibt Wiederansiedlungsprogramme. Streng geschützt.
+Ebenfalls ein wandernder Fisch, der in vielen Flüssen ausgestorben ist.
+Es gibt Wiederansiedlungsprogramme.
+Streng geschützt.
 
 ## Unterscheidungsmerkmale und Verwechslungsgefahren
 
@@ -492,6 +488,12 @@ Ebenfalls ein wandernder Fisch, der in vielen Flüssen ausgestorben ist. Es gibt
 - **Barbe**: Groß (bis 80 cm), 4 Barteln
 - **Gründling**: Klein (bis 15 cm), 2 Barteln
 
+### Wels vs. Zwergwels
+
+- **Zwergwels**: Zwei lange Barteln am Oberkiefer
+
+
+
 ## Schonzeiten und Mindestmaße
 
 Es ist von zentraler Bedeutung, dass jeder Angler die Schonzeiten und Mindestmaße kennt. Diese dienen dem Schutz der Fischbestände und stellen sicher, dass sich Fische mindestens einmal fortpflanzen können, bevor sie entnommen werden dürfen.
@@ -503,26 +505,3 @@ Es ist von zentraler Bedeutung, dass jeder Angler die Schonzeiten und Mindestma�
 - Mindestmaße orientieren sich an der Geschlechtsreife
 - Ganzjährig geschonte Arten dürfen niemals entnommen werden
 - Auch außerhalb der Schonzeit gilt: Laichfische schonen!
-
-## Zusammenfassung und Prüfungstipps
-
-Für die Fischerprüfung ist es essentiell, die wichtigsten Fischarten sicher zu erkennen. Folgende Fische solltest du in jedem Fall kennen:
-
-**Friedfische:** Karpfen, Schleie, Brassen, Rotauge, Rotfeder, Barbe, Döbel
-
-**Raubfische:** Hecht, Zander, Barsch, Forelle, Regenbogenforelle, Wels, Aal
-
-**Lernempfehlungen:**
-1. Präge dir charakteristische Merkmale ein (z.B. Barteln beim Karpfen, rosa Band bei Regenbogenforelle)
-2. Lerne die Flossen-Formeln (Anzahl der Flossen, Hartstrahlen vs. Weichstrahlen)
-3. Nutze Bildmaterial - viele Prüfungen enthalten Bilderfragen
-4. Achte auf Details wie Maul-Stellung, Färbung, Schuppentyp
-5. Übe Verwechslungsarten besonders gründlich
-
-Die spezielle Fischkunde ist nicht nur Prüfungsstoff - sie ist der Schlüssel zu erfolgreichem und verantwortungsvollem Angeln. Wer seine Fische kennt, der angelt gezielter, schützt gefährdete Arten und respektiert die Natur.
-
-Im nächsten Kapitel widmen wir uns der Gewässerkunde - dem Lebensraum der Fische.
-
----
-
-*Hinweis: Dieses Dokument dient der Prüfungsvorbereitung für den Angelschein. Spezifische Schonzeiten und Mindestmaße variieren je nach Bundesland und müssen lokal recherchiert werden.*
