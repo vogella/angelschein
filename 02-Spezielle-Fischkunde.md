@@ -65,7 +65,7 @@ Schleien können in sauerstoffarmen Gewässern überleben, in denen andere Fisch
 ![Schleie](img/fisch_schleie.png){ width=50% }
 
 ### Der Brassen
- 
+
 Der Brassen, auch Brachse oder Blei genannt, ist in vielen Gewässern der häufigste Weißfisch.
 Kann sein Maul wie einen Rüssel vorstülpen.
 
@@ -460,7 +460,7 @@ Störe waren früher in deutschen Flüssen heimisch, sind aber ausgestorben. Es 
 Ein Fisch mit charakteristisch unterständigem Maul zum Abweiden von Algen.
 Geschützt und gefährdet.
 
-### Der Lachs 
+### Lachs
 
 Ebenfalls ein wandernder Fisch, der in vielen Flüssen ausgestorben ist.
 Es gibt Wiederansiedlungsprogramme.
