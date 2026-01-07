@@ -50,8 +50,7 @@ Kleinere, oft künstlich angelegte Gewässer.
 Baggerseen sind durch Kies- oder Sandabbau entstanden. Ziegelteiche sind alte Lehmgruben. Sie haben keinen Zulauf und sind vom Grundwasser abhängig.
 
 ### Altwasser
-Ehemals Teil von einem Flus, abgetrennt, dadurch Stillgewässer.
-Altarm ist eine Vorstufe und hat noch eine geringe Verbindugn zum Hauptstrom.
+Ehemals Teil von einem Fluss, abgetrennt, dadurch Stillgewässer. Ein Altarm ist eine Vorstufe und hat noch eine geringe Verbindung zum Hauptstrom.
 
 
 ### Baggerseen
@@ -153,7 +152,7 @@ In Seen und größeren Stillgewässern kommt es zu einer charakteristischen Schi
 
 **Sprungschicht:**
 
-Wenn sich das Oberflächenwasser stark erhitzt und sich das kalte Wasser nicht mehr mit dem warme Wasser vermischen kann, entsteht eine Sprungschicht.
+Wenn sich das Oberflächenwasser stark erhitzt und sich das kalte Wasser nicht mehr mit dem warmen Wasser vermischen kann, entsteht eine Sprungschicht.
 
 **Tiefenschicht:**
 - Kaltes Wasser (4-8°C)
