@@ -8,8 +8,14 @@ SOURCES := $(wildcard [0-9][0-9]-*.md)
 OUT_DIR := pdfs
 OBJECTS := $(patsubst %.md,$(OUT_DIR)/%.pdf,$(SOURCES))
 
-# Options
-PANDOC_ARGS := --pdf-engine=lualatex -V geometry:margin=2cm -V mainfont="DejaVu Sans" --variable urlcolor=cyan --toc -N
+# Options - Added markdown extensions for attributes
+PANDOC_ARGS := --pdf-engine=lualatex \
+               -V geometry:margin=2cm \
+               -V mainfont="DejaVu Sans" \
+               --variable urlcolor=cyan \
+               --toc \
+               -N \
+               --from=markdown+link_attributes
 
 # Default target
 all: $(OUT_DIR) $(OBJECTS)
