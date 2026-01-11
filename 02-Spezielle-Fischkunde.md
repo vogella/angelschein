@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Die spezielle Fischkunde behandelt die Eigenschafter der einzelnen Fische.
+Die spezielle Fischkunde behandelt die Eigenschaften der einzelnen Fische.
 
 ## Friedfische versus Raubfische
 
@@ -20,7 +20,7 @@ Karpfenartige Süßwasserfische mit den folgenden Kennzeichen:
 * Schlundzähne
 * Häufig Alles- oder Pflanzenfresser
 * Meist keine Fettflosse
-* Bevorzugt ruhig bis mässig fließende Gewässer
+* Bevorzugt ruhig bis mäßig fließende Gewässer
 
 Arten: Karpfen, Rotauge, Rotfeder, Brassen, Schleie, Döbel, Barbe
 
@@ -161,7 +161,7 @@ Sie halten sich am Grund auf und ernähren sich von Würmern, Schnecken, Insekte
 **Laichzeit:** Mai bis Juli
 
 **Besonderheiten:**
-Der Laich und die Rogen der Barbe sind **giftig** und dürfen nicht verzehrt werden!
+Der Laich und der Rogen der Barbe sind **giftig** und dürfen nicht verzehrt werden!
 Die Barbe gibt einer Gewässerregion ihren Namen - die Barbenregion.
 
 ![Barbe - Giftiger Rogen](img/fisch_barbe.png){ width=50% }
@@ -187,7 +187,7 @@ Größere Döbel jagen aktiv kleine Fische.
 **Besonderheiten:**
 Der Döbel beißt auf viele verschiedene Köder.
 
-![Döbel- Karpfenartig](img/fisch_doebel.png){ width=50% }
+![Döbel - Karpfenartig](img/fisch_doebel.png){ width=50% }
 
 
 
@@ -195,7 +195,7 @@ Der Döbel beißt auf viele verschiedene Köder.
 
 Keine Barteln, benötigt nur 3mg/L Sauerstoff.
 
-![Karausche - Punkt vor der Schwanzflosse ](img/fisch_karausche.png){ width=50% }
+![Karausche - Punkt vor der Schwanzflosse](img/fisch_karausche.png){ width=50% }
 
 
 ### Moderlieschen
@@ -262,7 +262,7 @@ Haben eine Bartel.
 Schwarzer Fleck über der Bauchflosse ist Erkennungsmerkmal.
 Bodenfresser, frisst auch Fische, jagt aber nicht aktiv.
 
-![Schellfisch- Dorschartig](img/fisch_schellfisch.png){ width=50% }
+![Schellfisch - Dorschartig](img/fisch_schellfisch.png){ width=50% }
 
 ## Die wichtigsten Raubfische
 
@@ -393,7 +393,7 @@ Der Wels ist der größte reine Süßwasserfisch Europas - ein wahrer Riese.
 **Erkennungsmerkmale:**
 - Langgestreckter, walzenförmiger Körper ohne Schuppen
 - Sehr breites, flaches Maul mit zahllosen kleinen Zähnen
-- **Sechs lange Barteln (zwei sehr lange am Oberkiefer, vier kurze am Unterkiefer)**
+- **Sechs Barteln (zwei lange am Oberkiefer, vier kurze am Unterkiefer)**
 - Kleine Augen
 - Grünlich-braune bis schwarze Färbung, oft marmoriert
 - Kann über 2,50 m lang und über 100 kg schwer werden
@@ -438,7 +438,7 @@ Aale sind vom Aussterben bedroht.
 Es gelten strenge Fangbeschränkungen.
 Sie können über Land kriechen und sind extrem zählebig.
 
-![Aal- Bekommt bei der Wanderung große Augen und After verschließt sich](img/fisch_aal.png){ width=50% }
+![Aal - Bekommt bei der Wanderung große Augen und After verschließt sich](img/fisch_aal.png){ width=50% }
 
 ### Neunauge
 
@@ -533,5 +533,6 @@ Streng geschützt.
 
 ### Wels vs. Zwergwels
 
-Der Wels hat 6 Barteln (2 lange am Oberkiefer, 4 kurze am Unterkiefer), während der Zwergwels 8 Barteln besitzt.
+- **Wels**: Sechs Barteln (zwei lange am Oberkiefer, vier kurze am Unterkiefer)
+- **Zwergwels**: Acht Barteln (vier am Oberkiefer, vier am Unterkiefer)
 
