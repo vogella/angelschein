@@ -2,34 +2,41 @@
 
 ## Einleitung
 
-Während die allgemeine Fischkunde uns das grundlegende Verständnis für Fische vermittelt hat, widmen wir uns nun den konkreten Arten, die in deutschen Gewässern leben. Die spezielle Fischkunde ist für jeden Angler von zentraler Bedeutung - nicht nur für die Prüfung, sondern auch für die Praxis. Wer Fische sicher bestimmen kann, weiß, welche Art geschützt ist, welche Schonzeiten gelten und welche Mindestmaße einzuhalten sind.
-
+Die spezielle Fischkunde behandelt die Eigenschafter der einzelnen Fische.
 
 ## Friedfische versus Raubfische
-
-Bevor wir uns den einzelnen Arten widmen, ist es wichtig, die grundlegende Unterscheidung zwischen Friedfischen und Raubfischen zu verstehen.
 
 **Friedfische** ernähren sich hauptsächlich von Pflanzen, Kleintieren, Insektenlarven und Plankton. Sie haben meist ein endständiges oder unterständiges Maul ohne große Zähne. Viele Friedfische leben in Schwärmen und sind eher scheue, vorsichtige Fische.
 
 **Raubfische** jagen andere Fische und größere Beutetiere. Sie besitzen meist ein großes, oberständiges Maul mit kräftigen Zähnen oder Fangzähnen. Raubfische sind oft Einzelgänger und haben eine aggressivere Lebensweise.
 
-Diese Unterscheidung ist nicht immer trennscharf - manche Fischarten wie der Flussbarsch sind sowohl Friedfisch als auch Raubfisch, je nach Größe und Lebensphase.
+Manche Fischarten wie der Flussbarsch sind sowohl Friedfisch als auch Raubfisch, je nach Größe und Lebensphase.
 
-## Die wichtigsten Friedfische
+
+## Cypriniden Friedfische
+
+Karpfenartige Süßwasserfische mit den folgenden Kennzeichen:
+
+* Schlundzähne
+* Häufig Alles- oder Pflanzenfresser
+* Meist keine Fettflosse
+* Bevorzuugt ruhig bis mässig fließende Gewässer
+
+Arten: Karpfen, Rotauge, Rotfeder, Brassen, Schleie, Döbel, Barbe
 
 ### Der Karpfen
 
-Der Karpfen ist wohl der bekannteste Friedfisch und bei Anglern sehr beliebt. Ursprünglich aus Asien stammend, wurde er bereits vor Jahrhunderten in Europa eingebürgert.
+Der Karpfen stand ursprünglich aus Asien stammend, wurde er bereits vor Jahrhunderten in Europa eingebürgert.
 Der Karpfen hat keinen Magen, zerkleinert seine Nahrung aber mit kräftigen Schlundzähnen.
 
 **Erkennungsmerkmale:**
 - Hochrückiger, gedrungener Körperbau
-- *Vier Barteln am Obermaul* (zwei lange, zwei kurze)
+- **Vier Barteln am Obermaul (zwei lange, zwei kurze)**
 - Große, goldfarbene bis bronzene Schuppen
 - Lange Rückenflosse mit einem gezähnten Hartstrahl
 - Kann über 1 Meter lang und über 30 kg schwer werden
 
-![Karpfen](img/fisch_karpfen.png){ width=50% }
+![Karpfen - vier Barteln](img/fisch_karpfen.png){ width=50% }
 
 **Lebensweise:**
 Karpfen bevorzugen stehende oder langsam fließende, warme Gewässer mit Pflanzenbewuchs und schlammigem Grund.
@@ -40,11 +47,11 @@ Im Winter verfallen sie in eine Art Winterruhe und fressen kaum.
 
 **Besonderheiten:**
 Es gibt verschiedene Zuchtformen wie Spiegelkarpfen (wenige, große Schuppen), Lederkarpfen (fast ohne Schuppen) und Schuppenkarpfen (die ursprüngliche Wildform). Karpfen können sehr alt werden - über 50 Jahre sind möglich.
-Graskarpfen hat keine Barteln, sind nicht mit dem Karpfen verwandt und sind eine invasive Art.
+**Graskarpfen** haben keine Barteln, sind nicht mit dem Karpfen verwandt und sind eine invasive Art.
 
 ### Die Schleie
 
-Die Schleie ist ein scheuer, bodenbewohnender Friedfisch, der oft übersehen wird, aber ein faszinierendes Leben führt.
+Die Schleie ist ein scheuer, bodenbewohnender Friedfisch.
 
 **Erkennungsmerkmale:**
 - Gedrungener, hochrückiger Körper
@@ -62,12 +69,12 @@ Schleien lieben verkrautete Gewässer mit weichem, schlammigem Grund. Sie sind d
 **Besonderheiten:**
 Schleien können in sauerstoffarmen Gewässern überleben, in denen andere Fische eingehen würden. Ihr dicker Schleimmantel schützt sie vor Krankheiten und Verletzungen.
 
-![Schleie](img/fisch_schleie.png){ width=50% }
+![Schleie - Große Bauchflosse beim Männchen](img/fisch_schleie.png){ width=50% }
 
 ### Der Brassen
 
 Der Brassen, auch Brachse oder Blei genannt, ist in vielen Gewässern der häufigste Weißfisch.
-Kann sein Maul wie einen Rüssel vorstülpen.
+Kann sein Maul wie einen **Rüssel** vorstülpen.
 
 **Erkennungsmerkmale:**
 - Stark hochrückiger, seitlich sehr abgeflachter Körper ("scheibenförmig")
@@ -85,29 +92,8 @@ Brassen leben in großen Schwärmen in stehenden und langsam fließenden Gewäss
 Junge Brassen haben regional unterschiedliche Bezeichnungen; oft wird 'Brachse' aber auch synonym für die Art an sich verwendet.
 In nährstoffreichen Gewässern können Brassen zur dominanten Art werden.
 
-![Brassen](img/fisch_brassen.png){ width=50% }
+![Brassen - Haften Eier an Wasserpflanzen](img/fisch_brassen.png){ width=50% }
 
-### Die Rotfeder
-
-Die Rotfeder wird oft mit dem Rotauge verwechselt, ist aber bei genauem Hinsehen leicht zu unterscheiden.
-
-**Erkennungsmerkmale:**
-- Hochrückiger Körper, seitlich abgeflacht
-- Oberständiges Maul
-- Goldglänzende Schuppen
-- Leuchtend rote Flossen
-- Rote bis orangefarbene Augen
-- Die Rückenflosse beginnt HINTER dem Ansatz der Bauchflossen
-
-**Lebensweise:**
-Rotfedern bevorzugen pflanzenreiche, stehende oder langsam fließende Gewässer. Im Gegensatz zum Rotauge halten sie sich mehr in mittleren Wasserschichten auf. Sie ernähren sich von Insekten, deren Larven und Pflanzenmaterial.
-
-**Laichzeit:** April bis Juni
-
-**Besonderheiten:**
-Der wichtigste Unterschied zum Rotauge: Bei der Rotfeder ist das Maul oberständig und die Rückenflosse sitzt weiter hinten.
-
-![Rotfeder](img/fisch_rotfeder.png){ width=50% }
 
 ### Das Rotauge
 
@@ -115,11 +101,11 @@ Das Rotauge, auch Plötze genannt, ist einer der häufigsten Fische in deutschen
 
 **Erkennungsmerkmale:**
 - Schlanker, seitlich abgeflachter Körper
-- Endständiges Maul
+- **Endständiges Maul**
 - Silbrige Schuppen
 - Rötliche Flossen (weniger intensiv als bei der Rotfeder)
 - Rote Augen
-- Die Rückenflosse beginnt ÜBER dem Ansatz der Bauchflossen
+- **Die Rückenflosse beginnt ÜBER dem Ansatz der Bauchflossen**
 
 **Lebensweise:**
 Rotaugen sind extrem anpassungsfähig und kommen in fast allen Gewässertypen vor. Sie leben in großen Schwärmen und ernähren sich von Insekten, Würmern, Schnecken und Pflanzen.
@@ -131,6 +117,29 @@ Das Rotauge ist ein idealer Einsteigerfisch und gilt als guter Köderfisch für 
 Endständiges Maul.
 
 ![Rotauge](img/fisch_rotauge.png){ width=50% }
+
+
+### Die Rotfeder
+
+Die Rotfeder wird oft mit dem Rotauge verwechselt.
+
+**Erkennungsmerkmale:**
+- Hochrückiger Körper, seitlich abgeflacht
+- **Oberständiges Maul**
+- Goldglänzende Schuppen
+- Leuchtend rote Flossen
+- Rote bis orangefarbene Augen
+- **Die Rückenflosse beginnt HINTER dem Ansatz der Bauchflossen**
+
+**Lebensweise:**
+Rotfedern bevorzugen pflanzenreiche, stehende oder langsam fließende Gewässer. Im Gegensatz zum Rotauge halten sie sich mehr in mittleren Wasserschichten auf. Sie ernähren sich von Insekten, deren Larven und Pflanzenmaterial.
+
+**Laichzeit:** April bis Juni
+
+**Besonderheiten:**
+Der wichtigste Unterschied zum Rotauge: Bei der Rotfeder ist das Maul oberständig und die Rückenflosse sitzt weiter hinten.
+
+![Rotfeder](img/fisch_rotfeder.png){ width=50% }
 
 ### Die Barbe
 
@@ -155,7 +164,7 @@ Sie halten sich am Grund auf und ernähren sich von Würmern, Schnecken, Insekte
 Der Laich und die Rogen der Barbe sind **giftig** und dürfen nicht verzehrt werden!
 Die Barbe gibt einer Gewässerregion ihren Namen - die Barbenregion.
 
-![Barbe](img/fisch_barbe.png){ width=50% }
+![Barbe - Giftiger Roggen](img/fisch_barbe.png){ width=50% }
 
 ### Der Döbel
 
@@ -169,14 +178,34 @@ Der Döbel, auch Aitel genannt, ist ein kräftiger, kampfstarker Fisch.
 - Goldbraune bis graugrüne Färbung
 
 **Lebensweise:**
-Döbel sind vielseitige Fische, die sowohl in Flüssen als auch in Seen vorkommen. Sie sind Allesfresser und nehmen fast alles - von Insekten über Würmer bis hin zu kleinen Fischen und sogar Früchten. Größere Döbel jagen aktiv kleine Fische.
+Döbel sind vielseitige Fische, die sowohl in Flüssen als auch in Seen vorkommen. 
+Sie sind Allesfresser und nehmen fast alles - von Insekten über Würmer bis hin zu kleinen Fischen und sogar Früchten.
+Größere Döbel jagen aktiv kleine Fische.
 
 **Laichzeit:** April bis Juni
 
 **Besonderheiten:**
-Der Döbel ist ein intelligenter, vorsichtiger Fisch, der schwer zu überlisten ist. Er beißt auf viele verschiedene Köder.
+Der Döbel beißt auf viele verschiedene Köder.
 
-![Döbel](img/fisch_doebel.png){ width=50% }
+![Döbel- Karpfenartig](img/fisch_doebel.png){ width=50% }
+
+
+
+### Karausche
+
+Keine Barteln, benötigt nur 3mg/L Sauerstoff.
+
+![Karausche - Punkt vor der Schwanzflosse ](img/fisch_karausche.png){ width=50% }
+
+
+### Moderlieschen
+
+Gehört in Hamburg zu den ganzjährig geschonten Arten.
+
+![Moderlieschen](img/fisch_moderlieschen.png){ width=50% }
+
+
+## Andere Friedfische
 
 ### Stichling
 
@@ -189,17 +218,6 @@ Männchen machen die Brutpflege.
 ### Hering
 
 Keine sichtbare Seitenlinie.
-
-### Karausche
-
-Keine Barteln, benötigt nur 3mg/L Sauerstoff 
-
-![Karausche](img/fisch_karausche.png){ width=50% }
-
-
-### Moderlieschen
-
-![Moderlieschen](img/fisch_moderlieschen.png){ width=50% }
 
 ### Bitterling
 
@@ -215,20 +233,34 @@ Keine Schwimmblase
 
 ![Makrele](img/fisch_makrele.png){ width=50% }
 
-### Quappe
 
-Einziger Süßwasserdorsch.
+## Dorschartige Fische
+
+### Dorsch
+
+Aggressiver Jäger
 Hat nur eine Bartel.
 
-![Quappe](img/fisch_quappe.png){ width=50% }
+![Dorsch - hat nur eine Bartel](img/fisch_dorsch.png){ width=50% }
+
+### Quappe
+
+Lauerjäger
+Einziger Süßwasserdorsch.
+Kehlständige Bauchflossen.
+Hat nur eine Bartel.
+
+![Quappe - Einziger Süßwasserdorsch](img/fisch_quappe.png){ width=50% }
+
 
 ### Schellfisch
 
 10 - 200 m über den Meeresboden.
 Haben eine Bartel.
 Schwarzer Fleck über der Bauchflosse ist Erkennungsmerkmal.
+Bodenfresser, frisst auch Fische, jagt aber nicht aktiv.
 
-![Schellfisch](img/fisch_schellfisch.png){ width=50% }
+![Schellfisch- Dorschartig](img/fisch_schellfisch.png){ width=50% }
 
 ## Die wichtigsten Raubfische
 
@@ -249,17 +281,20 @@ Hechte sind Lauerjäger, die aus dem Hinterhalt ihre Beute angreifen. Sie bevorz
 **Laichzeit:** Februar bis Mai (Frühjahrslaicher)
 
 **Besonderheiten:**
-Der Hecht hat über 700 nach hinten gerichtete Zähne. Weibchen werden deutlich größer als Männchen. Alte, große Weibchen nennt man "Hechtmütter".
+Der Hecht hat über 700 nach hinten gerichtete Zähne.
+Weibchen werden deutlich größer als Männchen. 
+Alte, große Weibchen nennt man "Hechtmütter".
 
-![Hecht (Esox lucius)](img/fisch_hecht.png){ width=50% }
+![Hecht - Raubfisch, sehr scharfe Zähne](img/fisch_hecht.png){ width=50% }
 
 ### Rapfen
 
+Karpfenartiger Fisch, mit Schlundzähnen, dennoch aggressiver Raubfisch.
 Oberständiges Maul, d.h. jagt im oberen Wasserbereich.
 
 ![Rapfen](img/fisch_rapfen.png){ width=50% }
 
-### Der Zander
+### Zander
 
 Der Zander ist ein hervorragender Speisefisch und geschätzter Angelzielfisch.
 
@@ -278,7 +313,7 @@ Zander bevorzugen große, tiefe, klare Gewässer mit festem Grund. Sie sind däm
 **Besonderheiten:**
 Zander betreiben Brutpflege - das Männchen bewacht und belüftet das Gelege. Zander sind empfindlich gegenüber Wasserverschmutzung.
 
-![Zander](img/fisch_zander.png){ width=50% }
+![Zander - Schmackhafter Raubfisch](img/fisch_zander.png){ width=50% }
 
 ### Flussbarsch
 
@@ -304,7 +339,7 @@ Kleine Barsche ernähren sich von Insektenlarven und Würmern, größere jagen F
 Die stacheligen Hartstrahlen der Rückenflosse können schmerzhafte Verletzungen verursachen.
 Barsche sind sehr neugierig und oft leicht zu fangen.
 
-![Flussbarsch](img/fisch_flussbarsch.png){ width=50% }
+![Flussbarsch - Guter Hechtköder](img/fisch_flussbarsch.png){ width=50% }
 
 ### Forelle
 
@@ -326,9 +361,8 @@ Sie ernähren sich von Insekten, deren Larven, Krebstieren und kleineren Fischen
 
 **Besonderheiten:**
 Forellen benötigen sehr sauberes, sauerstoffreiches Wasser. Sie sind ausgezeichnete Indikatoren für gute Wasserqualität. Die Fettflosse ist charakteristisch für alle Salmoniden (Lachsartige).
-![Bachforelle](img/fisch_bachforelle.png){ width=50% }
 
-![Forelle (Salmo trutta)](img/fisch_forelle.png){ width=50% }
+![Bachforelle](img/fisch_bachforelle.png){ width=50% }
 
 ### Regenbogenforelle
 
@@ -348,6 +382,8 @@ Die Regenbogenforelle stammt ursprünglich aus Nordamerika und wurde in Europa e
 **Besonderheiten:**
 Regenbogenforellen wachsen schneller als Bachforellen und werden größer. Sie vermehren sich in den meisten europäischen Gewässern nicht natürlich.
 
+![Regenbogenforelle](img/fisch_regenbogenforelle.png){ width=50% }
+
 ### Wels
 
 Der Wels ist der größte reine Süßwasserfisch Europas - ein wahrer Riese.
@@ -355,7 +391,7 @@ Der Wels ist der größte reine Süßwasserfisch Europas - ein wahrer Riese.
 **Erkennungsmerkmale:**
 - Langgestreckter, walzenförmiger Körper ohne Schuppen
 - Sehr breites, flaches Maul mit zahllosen kleinen Zähnen
-- Sechs lange Barteln (zwei sehr lange am Oberkiefer, vier kurze am Unterkiefer)
+- **Sechs lange Barteln (zwei sehr lange am Oberkiefer, vier kurze am Unterkiefer)**
 - Kleine Augen
 - Grünlich-braune bis schwarze Färbung, oft marmoriert
 - Kann über 2,50 m lang und über 100 kg schwer werden
@@ -367,6 +403,10 @@ Welse sind überwiegend dämmerungs- und nachtaktiv. Sie bevorzugen warme, stehe
 
 **Besonderheiten:**
 Welse betreiben Brutpflege. Sie können sehr alt werden (über 50 Jahre). Ihre Barteln sind hochsensible Tastorgane zum Aufspüren von Beute im Dunkeln.
+
+
+![Wels](img/fisch_wels.png){ width=50% }
+
 
 ## Weitere wichtige Fischarten
 
@@ -387,7 +427,7 @@ Sie ernähren sich von Würmern, Schnecken, Insektenlarven und Fischen.
 **Laichzeit:**
 Aale haben einen einzigartigen Lebenszyklus: Sie werden in der Sargassosee (Atlantik) geboren, wandern als **Glasaale** zu europäischen Küsten und steigen in Flüsse auf. 
 
-![Glasaal](img/fisch_glasaal.png){ width=50% }
+![Glasaal - Nach dem Schlüpfen](img/fisch_glasaal.png){ width=50% }
 
 Nach 10-20 Jahren wandern sie als Blankaal zurück ins Meer zum Laichen, wobei sie große Augen bekommen und sich ihr After verschließt.
 
@@ -396,7 +436,7 @@ Aale sind vom Aussterben bedroht.
 Es gelten strenge Fangbeschränkungen.
 Sie können über Land kriechen und sind extrem zählebig.
 
-![Aal](img/fisch_aal.png){ width=50% }
+![Aal- Bekommt bei der Wanderung große Augen und After verschließt sich](img/fisch_aal.png){ width=50% }
 
 ### Neunauge
 
@@ -406,7 +446,7 @@ Neunaugen sind biologisch gesehen eigentlich keine echten Fische, sondern gehör
 
 Zwei Dornen, die allergische Reaktionen verursachen können.
 
-![Dornhai](img/fisch_dornhai.png){ width=50% }
+![Dornhai](img/fisch_dornhai.png){ width=70% }
 
 ### Äsche
 
@@ -418,13 +458,14 @@ Zwei Dornen, die allergische Reaktionen verursachen können.
 - Großes Maul mit kleinen Zähnen
 
 **Lebensweise:**
-Äschen bevorzugen schnell fließende, sauerstoffreiche Flüsse mit kiesigem Grund. Sie ernähren sich hauptsächlich von Insekten und deren Larven.
+Äschen bevorzugen schnell fließende, sauerstoffreiche Flüsse mit kiesigem Grund.
+Sie ernähren sich hauptsächlich von Insekten und deren Larven.
 
 **Laichzeit:** März bis Mai
 
 **Besonderheiten:**
 Die Äsche gibt einer Gewässerregion ihren Namen - die Äschenregion.
-Sie ist ein Indikator für sehr gute Wasserqualität und steht unter besonderem Schutz.
+Sie ist ein Indikator für sehr gute Wasserqualität.
 Den Äschermilcher erkennt man an der langgezogenen Rückenflosse.
 
 ![Äsche](img/fisch_aesche.png){ width=50% }
@@ -447,7 +488,7 @@ Kaulbarsche leben gesellig in stehenden und langsam fließenden Gewässern. Sie 
 **Besonderheiten:**
 Gilt als Lästling, da er sich manchmal massenhaft vermehrt und als Laichräuber anderen Fischarten schaden kann.
 
-![Kaulbarsch](img/fisch_kaulbarsch.png){ width=50% }
+![Kaulbarsch - Schwarmfisch](img/fisch_kaulbarsch.png){ width=50% }
 
 ## Geschützte und besondere Arten
 
@@ -490,18 +531,5 @@ Streng geschützt.
 
 ### Wels vs. Zwergwels
 
-- **Zwergwels**: Zwei lange Barteln am Oberkiefer
+Wels hat 4 lange und 2 kurze Barteln.
 
-
-
-## Schonzeiten und Mindestmaße
-
-Es ist von zentraler Bedeutung, dass jeder Angler die Schonzeiten und Mindestmaße kennt. Diese dienen dem Schutz der Fischbestände und stellen sicher, dass sich Fische mindestens einmal fortpflanzen können, bevor sie entnommen werden dürfen.
-
-**Wichtig:** Schonzeiten und Mindestmaße variieren von Bundesland zu Bundesland! Informiere dich immer über die lokalen Bestimmungen.
-
-**Allgemeine Prinzipien:**
-- Schonzeiten liegen meist in der Laichzeit
-- Mindestmaße orientieren sich an der Geschlechtsreife
-- Ganzjährig geschonte Arten dürfen niemals entnommen werden
-- Auch außerhalb der Schonzeit gilt: Laichfische schonen!

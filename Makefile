@@ -15,7 +15,8 @@ PANDOC_ARGS := --pdf-engine=lualatex \
                --variable urlcolor=cyan \
                --toc \
                -N \
-               --from=markdown+link_attributes
+               --from=markdown+link_attributes \
+               -H header.tex
 
 # Default target
 all: $(OUT_DIR) $(OBJECTS)
