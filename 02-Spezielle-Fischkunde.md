@@ -20,13 +20,13 @@ Karpfenartige Süßwasserfische mit den folgenden Kennzeichen:
 * Schlundzähne
 * Häufig Alles- oder Pflanzenfresser
 * Meist keine Fettflosse
-* Bevorzuugt ruhig bis mässig fließende Gewässer
+* Bevorzugt ruhig bis mässig fließende Gewässer
 
 Arten: Karpfen, Rotauge, Rotfeder, Brassen, Schleie, Döbel, Barbe
 
 ### Der Karpfen
 
-Der Karpfen stand ursprünglich aus Asien stammend, wurde er bereits vor Jahrhunderten in Europa eingebürgert.
+Der Karpfen, ursprünglich aus Asien stammend, wurde bereits vor Jahrhunderten in Europa eingebürgert.
 Der Karpfen hat keinen Magen, zerkleinert seine Nahrung aber mit kräftigen Schlundzähnen.
 
 **Erkennungsmerkmale:**
@@ -164,7 +164,7 @@ Sie halten sich am Grund auf und ernähren sich von Würmern, Schnecken, Insekte
 Der Laich und die Rogen der Barbe sind **giftig** und dürfen nicht verzehrt werden!
 Die Barbe gibt einer Gewässerregion ihren Namen - die Barbenregion.
 
-![Barbe - Giftiger Roggen](img/fisch_barbe.png){ width=50% }
+![Barbe - Giftiger Rogen](img/fisch_barbe.png){ width=50% }
 
 ### Der Döbel
 
@@ -475,7 +475,7 @@ Den Äschermilcher erkennt man an der langgezogenen Rückenflosse.
 
 **Erkennungsmerkmale:**
 - Kleiner, gedrungener Fisch (meist 10-15 cm)
-- **Zwei zusammengewachsene Rückenflossen - Unterscheidung zum Flussbarsch, der zwei hat**     
+- **Zwei zusammengewachsene Rückenflossen - Unterscheidung zum Flussbarsch, der zwei hat**
 - Großer Kopf mit großen Augen
 - Raue Haut (auch auf Kiemendeckeln)
 - Graubraune bis grünliche Färbung mit dunklen Flecken
@@ -531,5 +531,5 @@ Streng geschützt.
 
 ### Wels vs. Zwergwels
 
-Wels hat 4 lange und 2 kurze Barteln.
+Der Wels hat 6 Barteln (2 lange am Oberkiefer, 4 kurze am Unterkiefer), während der Zwergwels 8 Barteln besitzt.
 
