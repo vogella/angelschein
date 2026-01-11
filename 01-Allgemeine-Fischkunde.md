@@ -187,8 +187,8 @@ Viele Fische unternehmen Wanderungen zum Laichen. Wir unterscheiden:
 Die meisten heimischen Fische sind Freilaicher mit äußerer Befruchtung.
 Je nach Ablageort unterscheidet man:
 
-*   **Krautlaicher:** Kleben Eier an Wasserpflanzen (z.B. Hecht, Karpfen, Zander, Barsch, Schleie, Brassen.
-*   **Kieslaicher:** Legen Eier in kiesigem Grund ab (z.B. Forelle) (Salmoniden), Nase, Barbe.
+*   **Krautlaicher:** Kleben Eier an Wasserpflanzen (z.B. Hecht, Karpfen, Zander, Barsch, Schleie, Brassen)
+*   **Kieslaicher:** Legen Eier in kiesigem Grund ab (z.B. Forelle (Salmoniden), Nase, Barbe)
 
 Einige Arten betreiben Brutpflege (z.B. Stichling, Wels, Zander), die meisten überlassen den Laich sich selbst.
 
