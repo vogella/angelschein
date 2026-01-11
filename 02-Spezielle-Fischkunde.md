@@ -218,6 +218,8 @@ Männchen machen die Brutpflege.
 ### Hering
 
 Keine sichtbare Seitenlinie.
+Wird mit blanken Hacken gefangen.
+
 
 ### Bitterling
 
