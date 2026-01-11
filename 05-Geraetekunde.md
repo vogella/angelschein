@@ -2,20 +2,29 @@
 
 ## Einleitung
 
-Die richtige Ausrüstung ist entscheidend für erfolgreiches und waidgerechtes Angeln. Gutes Gerät ermöglicht es, Fische sicher zu landen, schonend zu behandeln und das Angeln zu genießen. In diesem Kapitel lernen wir die verschiedenen Komponenten der Angelausrüstung kennen - von der Rute bis zum Kescher, von der Rolle bis zum kleinsten Wirbel.
+In diesem Kapitel lernen wir die Komponenten der Angelausrüstung kennen, von der Rute bis zum Kescher, von der Rolle bis zum kleinsten Wirbel.
 
 ## Die Angelrute
 
-Die Angelrute ist das zentrale Werkzeug. Sie überträgt den Anhieb, federt die Fluchten des Fisches ab und ermöglicht das Werfen des Köders.
+Die Angelrute überträgt den Anhieb, federt die Fluchten des Fisches ab und ermöglicht das Werfen des Köders.
+
+Teleskopruten ist zusammenschiebbar.
+
+![Teleskoprute](./img/geraet-teleskoprute.png){width=50%}
+
+Steckrute hat einen schmalleren Blank.
+
+![Steckrute](./img/geraet-steckrute.png){width=50%}
 
 ### Aufbau einer Angelrute
 
 **Grundkomponenten:**
-- **Blank (Rutenrohling)**: Das eigentliche Rohr, meist aus Carbon oder Glasfaser
-- **Griff**: Korkgriff oder EVA-Schaum, zum Halten der Rute
-- **Rollenhalter**: Befestigung für die Angelrolle
-- **Ringe**: Führen die Schnur von der Rolle zur Rutenspitze
-- **Spitze**: Das empfindlichste Teil, zeigt Bisse an
+
+* **Blank (Rutenrohling)**: Das eigentliche Rohr, meist aus Carbon oder Glasfaser
+* **Griff**: Korkgriff oder EVA-Schaum, zum Halten der Rute
+* **Rollenhalter**: Befestigung für die Angelrolle
+* **Ringe**: Führen die Schnur von der Rolle zur Rutenspitze
+* **Spitze**: Das empfindlichste Teil, zeigt Bisse an
 
 ### Rutenmaterialien
 
@@ -24,6 +33,7 @@ Die Angelrute ist das zentrale Werkzeug. Sie überträgt den Anhieb, federt die 
 - Hohe Sensibilität
 - Schnelle Aktion
 - Modernes Standardmaterial
+- **Leiten Strom sehr gut**
 - Teurer als Glasfaser
 
 **Glasfaser:**
@@ -95,13 +105,15 @@ Die Aktion beschreibt, wie sich die Rute unter Belastung biegt:
 - Sehr leicht und flexibel
 - Klassifizierung nach AFTM-Klassen (1-12)
 - Parabolische Aktion
+- **Rolle sitzt hinter der Wurfhand**
 
-**Posenrute (Stipprute):**
+**Posenrute (Stipprute, Kopfrute):**
 - Für das Angeln mit Pose
 - Länge: 3,00 - 5,00 m (Teleskop) oder 4,00 - 13,00 m (Steckrute)
 - Sehr leicht
 - Sensible Spitze
 - Oft ohne Ringe (bei Kopfruten)
+- ** benötigt keine Rolle**
 
 ### Wurfgewicht
 
@@ -119,15 +131,20 @@ Das Wurfgewicht gibt an, welches Gewicht optimal mit der Rute geworfen werden ka
 Die richtige Länge hängt vom Einsatzgebiet ab:
 
 - **Kurze Ruten (< 2,40 m)**: Angeln vom Boot, kleine Gewässer, Kinderangeln
-- **Mittlere Ruten (2,40 - 3,00 m)**: Allround, Spinnfischen, mittlere Gewässer
-- **Lange Ruten (3,00 - 4,00 m)**: Weitwurf, Brandungsangeln, große Flüsse
-- **Extra lange Ruten (> 4,00 m)**: Stippen, Karpfenangeln, spezielle Techniken
+- **Mittlere Ruten (2,40 - 3,00 m)**: Allround, **Spinnfischen**, mittlere Gewässer
+- **Lange Ruten (3,00 - 4,00 m)**: Weitwurf, **Brandungsangeln**, große Flüsse
+- **Extra lange Ruten (> 4,00 m)**: Stippen,    **Karpfenangeln**, spezielle Techniken
+
+## Haken
+
+![Haken](./img/geraet-hakengroesse.png){ width=50% }
 
 ## Die Angelrolle
 
 Die Rolle speichert die Schnur, ermöglicht das Auswerfen und dient zum Einholen des Köders bzw. zum Drillen des Fisches.
 
 ### Stationärrolle (Spinnrolle)
+
 
 Die am weitesten verbreitete Rollenart.
 
@@ -159,6 +176,10 @@ Rollen werden nach der Schnurfassung klassifiziert (z.B. 2500, 4000):
 - **5000-8000**: Schweres Spinnfischen, Karpfen
 - **10000+**: Welsangeln, Meeresangeln
 
+![Stationärrolle](./img/geraet-stationaerrolle.png){ width=20% }
+
+![Stationärrolle](./img/geraet-stationaerrolle-1.png){ width=20% }
+
 ### Multirolle (Baitcaster)
 
 Kompakte Rolle, die oberhalb der Rute sitzt.
@@ -183,6 +204,10 @@ Die Spule dreht sich beim Wurf und gibt Schnur frei. Beim Einholen wickelt sich 
 - Norwegen-Angeln
 - Welsangeln
 
+![Multirolle](./img/geraet-multirolle.png){ width=20% }
+
+![Multirolle](./img/geraet-multirolle-1.png){ width=20% }
+
 ### Freilaufrolle
 
 Spezialform der Stationärrolle mit zusätzlichem Freilauf.
@@ -205,6 +230,10 @@ Speziell fürs Fliegenfischen konzipiert.
 - Bremse nur für den Drill
 - Leichtbauweise
 
+![Fliegenrolle](./img/geraet-fliegenrolle.png){ width=20% }
+
+![Fliegenrolle](./img/geraet-fliegenrolle-1.png){ width=20% }
+
 ## Angelschnüre
 
 Die Schnur ist die Verbindung zwischen Angler und Fisch - ein oft unterschätztes Element.
@@ -212,6 +241,9 @@ Die Schnur ist die Verbindung zwischen Angler und Fisch - ein oft unterschätzte
 ### Monofile Schnur
 
 **Material:** Nylon (Polyamid)
+Blutknoten um monofile Schnur zu verbingen.
+
+![Blutknoten](./img/geraet-blutknoten.png){width=30%}
 
 **Eigenschaften:**
 - Dehnbar (10-25%)
@@ -296,6 +328,10 @@ Schnüre werden nach Durchmesser (mm) oder Tragkraft (kg, lbs) klassifiziert:
 ## Vorfächer
 
 Das Vorfach ist das Endstück der Schnur, an dem der Haken befestigt ist.
+** Der Schnurteil zwischen Hauptschnur und Hacken.**
+Dient der Tarnung (durchsichtig), dem Bissschutz (Hecht), Sollbruchstelle bei Riss (Naturschutz und Kosten), Präsentation (wirkt natürlicher).
+
+Paternoster für Herning darf in Hamburg nur 2 Hacken haben. 
 
 ### Monofile Vorfächer
 
@@ -419,8 +455,10 @@ Posen zeigen den Biss an und halten den Köder in gewünschter Tiefe.
 **Laufpose (Gleitschwimmer):**
 - Läuft frei auf der Schnur
 - Durch Stopper begrenzt
-- Für tiefe Gewässer
+- **Für tiefe Gewässer**
 - Ermöglicht weite Würfe
+
+![Laufpose](./img/geraet-laufpose.png){width=50%}
 
 **Stipppose:**
 - Sehr sensibel
@@ -535,6 +573,14 @@ Taumelt beim Einholen, imitiert schwimmenden Fisch. Tauchtiefe abhängig von Sch
 - Sehr realistische Imitation
 - Große Auswahl an Größen, Farben, Tauchtiefen
 
+![Wobbler](./img/geraet-wobbler.png){ width=20% }
+
+### Springer
+
+Zusätzlicher Köder, der vor dem eigentlichen Köder an einem Seitenvorfach montiert wird.
+
+![Springer](./img/geraet-springer.png){ width=20% }
+
 ### Gummifische (Softbaits)
 
 **Aufbau:**
@@ -551,6 +597,26 @@ Verführerisches Schwanzspiel beim Einholen oder Jiggen (Auf-und-Ab-Führung).
 - Sehr vielseitig
 - Verschiedene Größen (5-25 cm)
 - Preiswert
+
+### Pilker
+
+Schwerer Kunstköder mit beweglilchem Hacken.
+
+![Pilker](./img/geraet-pilker.png){ width=20% }
+
+### Twister
+
+Ein Kunstköder aus Weichplastik mit einem beweglichen Schwanz.
+
+![Twister](./img/geraet-twister.png){ width=20% }
+
+### Fliegen
+
+Trocken- und Nassfliegen.
+Trockenfliegen schwimmen auf der Oberfläche, Nassfliegen sinken ab.
+**Streamer** ist eine große künstlichen Fliege.
+
+![Fliegen](./img/geraet-fliegen.png){ width=20% }
 
 ### Jerkbaits
 
@@ -762,9 +828,6 @@ Ein Maßstab am Kescher oder der Abhakmatte ist praktisch!
 **Zweck:**
 Aufbewahrung von Kleinteilen (Haken, Wirbel, Bleie).
 
-**Tipp:**
-Ordnung spart Zeit und Nerven!
-
 ## Pflege und Wartung
 
 ### Ruten
@@ -802,45 +865,12 @@ Ordnung spart Zeit und Nerven!
 - Regelmäßig schärfen
 - Leicht ölen gegen Rost
 
-## Zusammenfassung
+### Wirbel
 
-Die Gerätekunde umfasst eine Vielzahl von Komponenten, die alle ihre spezifische Funktion haben. Wichtige Erkenntnisse:
+![Wirbel](./img/geraet-wirbelgroessen.png){width=50%}
 
-**Ruten:**
-- Unterschiedliche Typen für unterschiedliche Angelmethoden
-- Aktion, Länge und Wurfgewicht müssen zum Einsatzzweck passen
+### Senke
 
-**Rollen:**
-- Stationärrolle ist der Allrounder
-- Größe nach Zielfisch wählen
-- Bremse korrekt einstellen
+Zum Fangen von Köderfischen, darf nur 1x1 m sein.
 
-**Schnüre:**
-- Monofile für Allround und Ansitz
-- Geflochtene für Spinnfischen und Raubfisch
-- Fluorocarbon für scheue Fische
-
-**Haken:**
-- Größe und Form nach Köder und Zielfisch
-- Scharf halten!
-
-**Köder:**
-- Kunstköder für aktives Angeln
-- Naturköder für Ansitzangeln
-- Große Auswahl ermöglicht Anpassung
-
-**Zubehör:**
-- Kescher, Hakenlöser, Messer sind Pflicht
-- Totschläger ist essentiell für waidgerechte Tötung
-
-**Pflege:**
-- Regelmäßige Wartung verlängert Lebensdauer
-- Sauberes, funktionierendes Gerät macht mehr Freude
-
-Mit dem richtigen Gerät und dessen fachgerechtem Einsatz bist du bestens gerüstet für erfolgreiches, waidgerechtes Angeln!
-
-Im nächsten und letzten Kapitel widmen wir uns der Gesetzeskunde - den rechtlichen Rahmenbedingungen des Angelns.
-
----
-
-*Hinweis: Dieses Dokument dient der Prüfungsvorbereitung für den Angelschein. Die Ausrüstung entwickelt sich ständig weiter - die hier beschriebenen Grundlagen bleiben jedoch bestehen.*
+![Senke](./img/geraet-senke.png){ width=20% }
