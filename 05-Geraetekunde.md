@@ -8,11 +8,11 @@ In diesem Kapitel lernen wir die Komponenten der Angelausrüstung kennen, von de
 
 Die Angelrute überträgt den Anhieb, federt die Fluchten des Fisches ab und ermöglicht das Werfen des Köders.
 
-Teleskopruten ist zusammenschiebbar.
+Teleskopruten sind zusammenschiebbar.
 
 ![Teleskoprute](./img/geraet-teleskoprute.png){width=50%}
 
-Steckrute hat einen schmalleren Blank.
+Eine Steckrute hat einen schmaleren Blank.
 
 ![Steckrute](./img/geraet-steckrute.png){width=50%}
 
@@ -113,7 +113,7 @@ Die Aktion beschreibt, wie sich die Rute unter Belastung biegt:
 - Sehr leicht
 - Sensible Spitze
 - Oft ohne Ringe (bei Kopfruten)
-- ** benötigt keine Rolle**
+- **Benötigt keine Rolle**
 
 ### Wurfgewicht
 
@@ -133,7 +133,7 @@ Die richtige Länge hängt vom Einsatzgebiet ab:
 - **Kurze Ruten (< 2,40 m)**: Angeln vom Boot, kleine Gewässer, Kinderangeln
 - **Mittlere Ruten (2,40 - 3,00 m)**: Allround, **Spinnfischen**, mittlere Gewässer
 - **Lange Ruten (3,00 - 4,00 m)**: Weitwurf, **Brandungsangeln**, große Flüsse
-- **Extra lange Ruten (> 4,00 m)**: Stippen,    **Karpfenangeln**, spezielle Techniken
+- **Extra lange Ruten (> 4,00 m)**: Stippen, **Karpfenangeln**, spezielle Techniken
 
 ## Haken
 
@@ -241,7 +241,7 @@ Die Schnur ist die Verbindung zwischen Angler und Fisch - ein oft unterschätzte
 ### Monofile Schnur
 
 **Material:** Nylon (Polyamid)
-Blutknoten um monofile Schnur zu verbingen.
+Blutknoten zum Verbinden von monofiler Schnur.
 
 ![Blutknoten](./img/geraet-blutknoten.png){width=30%}
 
@@ -328,10 +328,10 @@ Schnüre werden nach Durchmesser (mm) oder Tragkraft (kg, lbs) klassifiziert:
 ## Vorfächer
 
 Das Vorfach ist das Endstück der Schnur, an dem der Haken befestigt ist.
-** Der Schnurteil zwischen Hauptschnur und Hacken.**
+**Der Schnurteil zwischen Hauptschnur und Haken.**
 Dient der Tarnung (durchsichtig), dem Bissschutz (Hecht), Sollbruchstelle bei Riss (Naturschutz und Kosten), Präsentation (wirkt natürlicher).
 
-Paternoster für Herning darf in Hamburg nur 2 Hacken haben. 
+Paternoster für Hering darf in Hamburg nur 2 Haken haben. 
 
 ### Monofile Vorfächer
 
@@ -600,7 +600,7 @@ Verführerisches Schwanzspiel beim Einholen oder Jiggen (Auf-und-Ab-Führung).
 
 ### Pilker
 
-Schwerer Kunstköder mit beweglilchem Hacken.
+Schwerer Kunstköder mit beweglichem Haken.
 
 ![Pilker](./img/geraet-pilker.png){ width=20% }
 
@@ -614,7 +614,7 @@ Ein Kunstköder aus Weichplastik mit einem beweglichen Schwanz.
 
 Trocken- und Nassfliegen.
 Trockenfliegen schwimmen auf der Oberfläche, Nassfliegen sinken ab.
-**Streamer** ist eine große künstlichen Fliege.
+**Streamer** ist eine große künstliche Fliege.
 
 ![Fliegen](./img/geraet-fliegen.png){ width=20% }
 
@@ -871,6 +871,6 @@ Aufbewahrung von Kleinteilen (Haken, Wirbel, Bleie).
 
 ### Senke
 
-Zum Fangen von Köderfischen, darf nur 1x1 m sein.
+Wird zum Fangen von Köderfischen verwendet und darf maximal 1x1 m groß sein.
 
 ![Senke](./img/geraet-senke.png){ width=20% }
