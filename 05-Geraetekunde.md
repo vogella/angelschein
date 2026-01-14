@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-In diesem Kapitel lernen wir die Komponenten der Angelausrüstung kennen, von der Rute bis zum Kescher, von der Rolle bis zum kleinsten Wirbel.
+In diesem Kapitel lernen wir die Komponenten der Angelausrüstung kennen.
 
 ## Die Angelrute
 
@@ -29,23 +29,23 @@ Eine Steckrute hat einen schmaleren Blank.
 ### Rutenmaterialien
 
 **Carbon (Kohlefaser):**
-- Sehr leicht und steif
-- Hohe Sensibilität
-- Schnelle Aktion
-- Modernes Standardmaterial
-- **Leiten Strom sehr gut**
-- Teurer als Glasfaser
+
+* Sehr leicht und steif
+* Hohe Sensibilität
+* Schnelle Aktion
+* Modernes Standardmaterial
+* Leiten Strom sehr gut
+* Teurer als Glasfaser
 
 **Glasfaser:**
-- Robuster und verzeiht Fehler
-- Weichere Aktion
-- Schwerer als Carbon
-- Günstiger
-- Gut für Einsteiger
 
-**Komposit:**
-- Mischung aus Carbon und Glasfaser
-- Kompromiss zwischen Eigenschaften
+* Robuster und verzeiht Fehler
+* Weichere Aktion
+* Schwerer als Carbon
+* Günstiger
+* Gut für Einsteiger
+
+Komposit sind Mischungen aus Carbon und Glasfaser und bieten einen Kompromiss zwischen den Eigenschaften.
 
 ### Rutenaktion
 
@@ -85,18 +85,10 @@ Die Aktion beschreibt, wie sich die Rute unter Belastung biegt:
 - Robuste Bauweise
 - Hohe Weitwurfkapazität
 
-**Feederrute:**
-- Speziell für das Feedern (Grundangeln mit Futterkorb)
-- Länge: 3,30 - 4,20 m
-- Wurfgewicht: 30 - 150 g
-- Auswechselbare Spitzen unterschiedlicher Härte
-- Sehr sensibel
-
 **Karpfenrute:**
 - Speziell für große Karpfen
 - Länge: 3,60 - 3,90 m
 - Wurfgewicht: 2,5 - 3,5 lbs (Pfund Testkurve)
-- Parabolische Aktion
 - Robust gebaut
 
 **Fliegenrute:**
@@ -104,7 +96,6 @@ Die Aktion beschreibt, wie sich die Rute unter Belastung biegt:
 - Länge: 2,40 - 3,00 m
 - Sehr leicht und flexibel
 - Klassifizierung nach AFTM-Klassen (1-12)
-- Parabolische Aktion
 - **Rolle sitzt hinter der Wurfhand**
 
 **Posenrute (Stipprute, Kopfrute):**
@@ -144,7 +135,6 @@ Die richtige Länge hängt vom Einsatzgebiet ab:
 Die Rolle speichert die Schnur, ermöglicht das Auswerfen und dient zum Einholen des Köders bzw. zum Drillen des Fisches.
 
 ### Stationärrolle (Spinnrolle)
-
 
 Die am weitesten verbreitete Rollenart.
 
@@ -783,21 +773,9 @@ Betäuben des Fisches vor der Tötung.
 - Griff aus Holz oder Kunststoff
 - Immer griffbereit!
 
-### Waage
-
-**Zweck:**
-Wiegen des Fisches (für Statistik, Mindestmaß-Kontrolle).
-
-**Arten:**
-- Federwaage
-- Digitalwaage
-
 ### Maßband
 
-**Zweck:**
 Messen der Fischlänge zur Kontrolle des Mindestmaßes.
-
-**Tipp:**
 Ein Maßstab am Kescher oder der Abhakmatte ist praktisch!
 
 ### Rutenhalter
@@ -825,7 +803,6 @@ Ein Maßstab am Kescher oder der Abhakmatte ist praktisch!
 
 ### Tackle-Box
 
-**Zweck:**
 Aufbewahrung von Kleinteilen (Haken, Wirbel, Bleie).
 
 ## Pflege und Wartung
@@ -853,17 +830,6 @@ Aufbewahrung von Kleinteilen (Haken, Wirbel, Bleie).
 - Geflochtene alle 1-2 Jahre wechseln
 - Schnurende regelmäßig kürzen (abgeriebener Teil)
 
-### Haken
-
-- Stumpfe Haken wegwerfen oder nachschärfen
-- Rostige Haken entsorgen
-- Trocken lagern
-
-### Messer
-
-- Nach Gebrauch reinigen
-- Regelmäßig schärfen
-- Leicht ölen gegen Rost
 
 ### Wirbel
 
@@ -874,3 +840,79 @@ Aufbewahrung von Kleinteilen (Haken, Wirbel, Bleie).
 Wird zum Fangen von Köderfischen verwendet und darf maximal 1x1 m groß sein.
 
 ![Senke](./img/geraet-senke.png){ width=20% }
+
+# Angelmethoden und Ausrüstung
+
+\newpage
+
+## Spinnangel
+*Zielfisch: Hecht, Zander (Leichte Rute mit mittlerer Länge)*
+
+| Komponente      | Details |
+| :---            | :---    |
+| **Rute**        | 2.7 Meter |
+| **Rolle**       | 4000er |
+| **Schnur**      | 0.14 mm Geflochtene |
+| **Wirbel**      | Größe 8 |
+| **Vorfach**     | Stahlvorfach |
+| **Haken / Köder** | Löffelblinker, Wobbler mit Tauchschaufel, Jighaken mit Gummifischen |
+
+![Spinnangel](./img/geraet-spinnangel.png){ width=40% }
+
+\newpage
+
+## Grundangel 
+*Zielfisch: Aal, Karpfen*
+
+| Komponente | Details |
+| :---       | :---    |
+| **Rute**   | Teleskop 3,30 Meter |
+| **Rolle**  | 4000er mit Heckbremse |
+| **Schnur** | 0.35 mm Monofile |
+| **Blei**   | 40 gr. |
+| **Wirbel** | Größe 8 |
+| **Haken**  | Aalhaken |
+| **Köder**  | Wurm |
+
+![Grundangel](./img/geraet-grundangel.png){ width=50% }
+
+\newpage
+
+## Brandungsangel
+
+* Zielfisch: Plattfische, Dorsch *
+
+| Komponente       | Details |
+| :---             | :---    |
+| **Rute**         | 3.9 Meter (3-teilig) |
+| **Rolle**        | 8000 - 10000 |
+| **Schnur**       | 0.35 mm Monofile (mit Schlagschnur) |
+| **Wirbel**       | Edelstahl, hohe Tragkraft |
+| **Haken / System** | Riesengroß, Paternostersystem mit langschenkligen Wurmhaken |
+| **Blei**         | 160 gr. |
+| **Köder**        | Wattwurm, Fisch |
+
+![Brandungsangel](./img/geraet-brandungsangel.png){ width=100% }
+
+
+\newpage
+
+## Friedfischangel
+*Zielfisch: Rotaugen*
+
+
+| Komponente | Details |
+| :---       | :---    |
+| **Rute**   | Ca. 4 Meter (mittleres Wurfgewicht) |
+| **Rolle**  | 2000er  |
+| **Schnur** | 0.16 mm Monofile |
+| **Pose**   | 4 gr. Tragkraft |
+| **Wirbel** | Größe 12 |
+| **Haken**  | Größe 16 |
+| **Blei**   | bis 4 gr. |
+| **Köder**  | Mais, Maden, Wurm |
+
+
+
+![Friedfischangel](./img/geraet-possenangel.png){ width=50% }
+
