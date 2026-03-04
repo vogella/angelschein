@@ -24,7 +24,7 @@ Karpfenartige Süßwasserfische mit den folgenden Kennzeichen:
 
 Arten: Karpfen, Rotauge, Rotfeder, Brassen, Schleie, Döbel, Barbe
 
-### Der Karpfen
+### Karpfen
 
 Der Karpfen, ursprünglich aus Asien stammend, wurde bereits vor Jahrhunderten in Europa eingebürgert.
 Der Karpfen hat keinen Magen, zerkleinert seine Nahrung aber mit kräftigen Schlundzähnen.
@@ -49,7 +49,7 @@ Im Winter verfallen sie in eine Art Winterruhe und fressen kaum.
 Es gibt verschiedene Zuchtformen wie Spiegelkarpfen (wenige, große Schuppen), Lederkarpfen (fast ohne Schuppen) und Schuppenkarpfen (die ursprüngliche Wildform). Karpfen können sehr alt werden - über 50 Jahre sind möglich.
 **Graskarpfen** haben keine Barteln, sind nicht mit dem Karpfen verwandt und sind eine invasive Art.
 
-### Die Schleie
+### Schleie
 
 Die Schleie ist ein scheuer, bodenbewohnender Friedfisch.
 
@@ -95,7 +95,7 @@ In nährstoffreichen Gewässern können Brassen zur dominanten Art werden.
 ![Brassen - Haften Eier an Wasserpflanzen](img/fisch_brassen.png){ width=50% }
 
 
-### Das Rotauge
+### Rotauge
 
 Das Rotauge, auch Plötze genannt, ist einer der häufigsten Fische in deutschen Gewässern.
 
@@ -119,7 +119,7 @@ Endständiges Maul.
 ![Rotauge](img/fisch_rotauge.png){ width=50% }
 
 
-### Die Rotfeder
+### Rotfeder
 
 Die Rotfeder wird oft mit dem Rotauge verwechselt.
 
@@ -141,7 +141,7 @@ Der wichtigste Unterschied zum Rotauge: Bei der Rotfeder ist das Maul oberständ
 
 ![Rotfeder](img/fisch_rotfeder.png){ width=50% }
 
-### Die Barbe
+### Barbe
 
 Die Barbe ist ein typischer Bewohner schnell fließender, sauerstoffreicher Flüsse.
 Hält sich am Grund auf.
@@ -166,7 +166,7 @@ Die Barbe gibt einer Gewässerregion ihren Namen - die Barbenregion.
 
 ![Barbe - Giftiger Rogen](img/fisch_barbe.png){ width=50% }
 
-### Der Döbel
+### Döbel
 
 Der Döbel, auch Aitel genannt, ist ein kräftiger, kampfstarker Fisch.
 

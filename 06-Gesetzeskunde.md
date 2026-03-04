@@ -1,16 +1,17 @@
 # Gesetzeskunde - Rechtliche Grundlagen des Angelns
 
-## Einleitung
 
-Das Angeln in Deutschland ist umfassend durch Gesetze und Verordnungen geregelt. Diese Regelungen mögen auf den ersten Blick komplex erscheinen, dienen aber wichtigen Zielen: dem Schutz der Fischbestände, der Gewässer, der Natur und der Einhaltung tierschutzrechtlicher Grundsätze. Wer die gesetzlichen Rahmenbedingungen kennt und respektiert, kann unbesorgt seinem Hobby nachgehen.
+Das Angeln in Deutschland ist umfassend durch Gesetze und Verordnungen geregelt. 
+Diese Regelungen dienen dem Schutz der Fischbestände, der Gewässer, der Natur und der Einhaltung tierschutzrechtlicher Grundsätze.
 
-**Wichtiger Hinweis:** Die Fischereigesetzgebung ist Ländersache! Die hier dargestellten Grundlagen gelten bundesweit, aber viele Details variieren von Bundesland zu Bundesland. Informiere dich immer über die spezifischen Regelungen in deinem Bundesland!
+**Wichtiger Hinweis:** Die Fischereigesetzgebung ist Ländersache!
 
 ## Das Fischereirecht - Grundlagen
 
 ### Was ist das Fischereirecht?
 
-Das Fischereirecht ist das Recht, in einem Gewässer zu fischen. In Deutschland gibt es kein "freies Angelrecht" - jedes Gewässer gehört jemandem, und nur der Inhaber des Fischereirechts darf dort fischen oder anderen die Erlaubnis dazu geben.
+Das Fischereirecht ist das Recht, in einem Gewässer zu fischen.
+In Deutschland gibt es kein "freies Angelrecht" - jedes Gewässer gehört jemandem, und nur der Inhaber des Fischereirechts darf dort fischen oder anderen die Erlaubnis dazu geben.
 
 ### Arten des Fischereirechts
 
@@ -23,11 +24,8 @@ Der Grundstückseigentümer besitzt automatisch das Fischereirecht an Gewässern
 - Gewässer auf Privatgrundstücken
 
 **Pachtfischereirecht:**
-Das Fischereirecht wird vom Eigentümer an einen Pächter verpachtet. Dieser kann dann angeln oder weitere Erlaubnisse vergeben.
-
-**Typisch:**
-- Angelvereine pachten Flüsse, Seen
-- Pachtverträge laufen über Jahre oder Jahrzehnte
+Das Fischereirecht wird vom Eigentümer an einen Pächter verpachtet. 
+Dieser kann dann angeln oder weitere Erlaubnisse vergeben.
 
 **Gemeinschaftliches Fischereirecht:**
 In einigen Regionen haben Anlieger an Gewässern gemeinschaftliche Fischereirechte.
@@ -39,13 +37,15 @@ An großen Flüssen und Gewässern kann das Fischereirecht beim Staat liegen.
 
 **Fischereirecht ≠ Grundstückseigentum**
 
-Nur weil ein Gewässer auf öffentlichem Grund liegt, heißt das nicht, dass dort jeder angeln darf. Auch wenn du am Ufer stehst, brauchst du die Erlaubnis des Fischereirechtsinhabers!
+Nur weil ein Gewässer auf öffentlichem Grund liegt, heißt das nicht, dass dort jeder angeln darf.
+Auch wenn du am Ufer stehst, brauchst du die Erlaubnis des Fischereirechtsinhabers!
 
 ## Der Fischereischein (Angelschein)
 
 ### Rechtsgrundlage
 
-In Deutschland ist der Fischereischein grundsätzlich Pflicht zum Angeln. Die Regelungen finden sich in den Fischereigesetzen der Bundesländer.
+In Deutschland ist der Fischereischein grundsätzlich Pflicht zum Angeln.
+Die Regelungen finden sich in den Fischereigesetzen der Bundesländer.
 
 ### Voraussetzungen
 
@@ -60,14 +60,7 @@ In fast allen Bundesländern muss vor dem Erwerb des Fischereischeins eine Fisch
 - Gerätekunde
 - Gesetzeskunde
 
-**Prüfungsformat:**
-- Meist Multiple-Choice (60 Fragen aus 6 Themengebieten)
-- Praktischer Teil (Fische erkennen, Gerät zusammenstellen)
-- Mindestpunktzahl erforderlich
-
-**Mindestalter:**
-- Variiert je nach Bundesland (meist 10-14 Jahre für Jugendfischereischein)
-- Vollwertiger Fischereischein ab 14-18 Jahren
+In Hamburg ist das Mindestalter für den Fischereischein 12 Jahre.
 
 ### Arten des Fischereischeins
 
@@ -109,43 +102,11 @@ Der Fischereischein gilt normalerweise nur in dem Bundesland, in dem er ausgeste
 
 ### Zwei Dokumente sind Pflicht!
 
-Zusätzlich zum Fischereischein benötigst du für jedes Gewässer einen **Fischereierlaubnisschein**. Erst beide zusammen berechtigen zum Angeln.
+Zusätzlich zum Fischereischein benötigst du für jedes Gewässer einen **Fischereierlaubnisschein**.
+Erst beide zusammen berechtigen zum Angeln.
 
 **Fischereischein:** Berechtigung der Person (du darfst angeln)
 **Erlaubnisschein:** Berechtigung für das Gewässer (du darfst HIER angeln)
-
-### Arten von Erlaubnisscheinen
-
-**Tageskarte:**
-- Berechtigt zum Angeln für einen Tag
-- Oft für Gäste und Nichtmitglieder
-- Erhältlich bei Vereinen, Angelläden, online
-
-**Wochenkarte / Monatskarte:**
-- Mehrere Tage oder Wochen gültig
-- Für Urlauber praktisch
-
-**Jahreskarte:**
-- Gültig für ein Jahr
-- Oft günstiger als viele Tageskarten
-
-**Vereinsmitgliedschaft:**
-- Mitglieder eines Angelvereins erhalten Zugang zu Vereinsgewässern
-- Meist Jahresbeitrag
-- Oft mit Arbeitseinsätzen verbunden
-
-### Wo erhältlich?
-
-- Angelvereine (für ihre Gewässer)
-- Angelgeschäfte
-- Online-Portale
-- Ausgabestellen vor Ort
-- Touristeninformationen
-
-**Wichtig:**
-- Informiere dich VOR dem Angeln, wo Karten erhältlich sind
-- Manche Gewässer sind schwer zu beangeln (begrenzte Ausgabe, Mitgliedschaft nötig)
-- Schwarzangeln ist strafbar!
 
 ### Gewässerordnung
 
@@ -169,22 +130,16 @@ Schonzeiten und Mindestmaße dienen dem Schutz der Fischbestände.
 
 ### Schonzeiten
 
-**Definition:**
-Zeiträume, in denen bestimmte Fischarten nicht beangelt werden dürfen.
+Schonzeiten sind Zeiträume, in denen bestimmte Fischarten nicht beangelt werden dürfen.
+Dies dient dem Schutz während der Laichzeit, damit sich Fische ungestört fortpflanzen können.
+Gefangene Fische während der Schonzeit müssen sofort schonend zurückgesetzt werden
 
-**Zweck:**
-Schutz während der Laichzeit, damit sich Fische ungestört fortpflanzen können.
 
-**Beispiele (variieren stark!):**
+**Beispiele:**
 - **Hecht**: Meist Februar bis April
 - **Zander**: April bis Mai
 - **Forelle**: Oktober bis Februar
-- **Karpfen**: In einigen Bundesländern Mai bis Juni
 
-**Wichtig:**
-- Schonzeiten variieren zwischen Bundesländern!
-- Auch zwischen Gewässern kann es Unterschiede geben
-- Gefangene Fische während der Schonzeit müssen sofort schonend zurückgesetzt werden
 
 **Ganzjährige Schonzeit:**
 Manche Arten sind ganzjährig geschützt und dürfen nie entnommen werden:
@@ -193,28 +148,20 @@ Manche Arten sind ganzjährig geschützt und dürfen nie entnommen werden:
 
 ### Mindestmaße (Schonmaße)
 
-**Definition:**
 Mindestlänge, die ein Fisch haben muss, damit er entnommen werden darf.
+Dies soll sicherstellen, dass sich Fische mindestens einmal fortpflanzen können, bevor sie entnommen werden.
+Die Messung erfolgt von der Maulspitze bis zum Ende der Schwanzflosse.
+Untermaßige Fische MÜSSEN sofort und schonend zurückgesetzt werden.
 
-**Zweck:**
-Sicherstellen, dass sich Fische mindestens einmal fortpflanzen können, bevor sie entnommen werden.
 
 **Beispiele (variieren stark!):**
-- **Hecht**: 40-50 cm (je nach Bundesland)
-- **Zander**: 40-50 cm
-- **Forelle**: 25-30 cm
-- **Karpfen**: 30-40 cm
-- **Aal**: 35-50 cm
+* **Hecht**: 45-75 cm
+* **Zander**: 45-75 cm
+* **Aal**: 45-75 cm
+* **Forelle**: 20-40 cm
+* **Meeresforelle**: 20-40 cm
+* **Karpfen**: 35-* cm
 
-**Messung:**
-- Von der Maulspitze bis zum Ende der Schwanzflosse
-- Im Zweifel: Zurücksetzen!
-- Maßband/Maßstab beim Angeln dabeihaben
-
-**Wichtig:**
-- Untermaßige Fische MÜSSEN sofort und schonend zurückgesetzt werden
-- Auch wenn ein Fisch knapp unter dem Maß ist - zurücksetzen!
-- Entnahme untermaßiger Fische ist eine Ordnungswidrigkeit
 
 ### Entnahmefenster / Höchstmaße
 
@@ -227,6 +174,32 @@ In einigen Gewässern gelten zusätzlich **Höchstmaße** oder **Entnahmefenster
 **Zweck:**
 - Schutz der Laichfische (große, alte Fische sind besonders produktiv)
 - Erhaltung der Altersstruktur
+
+
+### Hamburg Regeln:
+
+| Fischart | Unteres Maß | Oberes Maß | Tageshöchstmenge | Schonzeit | Bildreferenz |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Äsche** |  |  | - | 01.01.15.05 | ![Äsche](./img/fisch_aesche.png){width=10%} |
+| **Aal** | 45 cm | 75 cm | 3 Expl. | - | ![Aal](./img/fisch_aal.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Hecht** | 45 cm | 75 cm | 2 Expl. | 01.02. - 31.05. | ![Hecht](./img/fisch_hecht.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Zander** | 45 cm | 75 cm | 2 Expl. | 01.02. - 31.05. | ![Zander](./img/fisch_zander.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Flussbarsch** | 10 cm | 35 cm | - | - | ![Flussbarsch](./img/fisch_flussbarsch.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Bachforelle** | 20 cm | 40 cm | - | 15.10. - 15.02. | ![Bachforelle](./img/fisch_bachforelle.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Schleie** | 25 cm | 45 cm | - | - | ![Schleie](./img/fisch_schleie.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Quappe** | 30 cm | 50 cm | 3 Expl. | - | ![Quappe](./img/fisch_quappe.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Karpfen** | 35 cm | kein oberes Maß | - | - | ![Karpfen](./img/fisch_karpfen.png){width=10%} |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Meerforelle** | 40 cm | 65 cm | 2 Expl. | 15.10. - 15.02. | |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| **Rapfen** | 50 cm | 70 cm | 1 Expl. | - | ![Rapfen](./img/fisch_rapfen.png){width=10%} |
 
 ## Verbote und Gebote
 

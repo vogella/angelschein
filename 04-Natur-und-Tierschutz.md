@@ -83,31 +83,7 @@ In Deutschland besteht grundsätzlich die Pflicht zur Verwertung entnommener Fis
 - Kranke Fische
 - In manchen Bundesländern: Raubfische zur Bestandsregulierung
 
-## Zurücksetzen von Fischen (Catch and Release)
-
-Hamburg Regeln:
-
-| Fischart | Unteres Maß | Oberes Maß | Tageshöchstmenge | Schonzeit | Bildreferenz |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Aal** | 45 cm | 75 cm | 3 Expl. | - | ![Aal](./img/fisch_aal.png){width=10%} |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| **Hecht** | 45 cm | 75 cm | 2 Expl. | 01.02. - 31.05. | ![Hecht](./img/fisch_hecht.png){width=10%} |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| **Zander** | 45 cm | 75 cm | 2 Expl. | 01.02. - 31.05. | ![Zander](./img/fisch_zander.png){width=10%} |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| **Flussbarsch** | 10 cm | 35 cm | - | - | ![Flussbarsch](./img/fisch_flussbarsch.png){width=10%} |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| **Bachforelle** | 20 cm | 40 cm | - | 15.10. - 15.02. | ![Bachforelle](./img/fisch_bachforelle.png){width=10%} |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| **Schleie** | 25 cm | 45 cm | - | - | ![Schleie](./img/fisch_schleie.png){width=10%} |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| **Quappe** | 30 cm | 50 cm | 3 Expl. | - | ![Quappe](./img/fisch_quappe.png){width=10%} |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| **Karpfen** | 35 cm | kein oberes Maß | - | - | ![Karpfen](./img/fisch_karpfen.png){width=10%} |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| **Meerforelle** | 40 cm | 65 cm | 2 Expl. | 15.10. - 15.02. | ![Meerforelle](./img/fisch_meerforelle.png){width=10%} |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| **Rapfen** | 50 cm | 70 cm | 1 Expl. | - | ![Rapfen](./img/fisch_rapfen.png){width=10%} |
+## Zurücksetzen von Fischen
 
 ### Wann MUSS ein Fisch zurückgesetzt werden?
 
@@ -152,13 +128,10 @@ Wenn ein Fisch zurückgesetzt wird, muss dies schonend geschehen:
 **Vollständig geschützt (ganzjährige Schonzeit):**
 - Stör (alle Arten)
 - Lachs (regional unterschiedlich)
-- Meerforelle (regional)
 - Nase (regional)
-- Äsche (regional streng reguliert)
 - Steinbeißer
 - Bitterling
 
-**Achtung:** Die Liste variiert stark zwischen den Bundesländern! Informiere dich immer lokal!
 
 **Warum sind diese Arten geschützt?**
 - Stark zurückgegangene Bestände
@@ -174,7 +147,8 @@ Heimische Krebsarten sind streng geschützt:
 - Steinkrebs
 - Dohlenkrebs
 
-Diese dürfen nicht gefangen oder gestört werden. Sie sind vom Aussterben bedroht, auch durch eingeschleppte amerikanische Krebsarten, die die Krebspest übertragen.
+Diese dürfen nicht gefangen oder gestört werden. 
+Sie sind vom Aussterben bedroht, auch durch eingeschleppte amerikanische Krebsarten, die die Krebspest übertragen.
 
 **Muscheln:**
 - Große Teichmuschel
@@ -186,8 +160,6 @@ Muscheln sind wichtige Filtrierer und Indikatoren für sauberes Wasser.
 Alle heimischen Amphibien sind geschützt:
 - Frösche, Kröten, Unken
 - Molche, Salamander
-
-**Wichtig:** Keine Amphibien als Köder verwenden!
 
 ### Geschützte Vögel
 
@@ -227,29 +199,6 @@ Auch Uferpflanzen stehen oft unter Schutz:
 
 Neozoen sind gebietsfremde Arten, die durch menschlichen Einfluss eingeschleppt wurden und heimische Arten verdrängen können.
 
-### Problematische Fischarten
-
-**Grundeln (Schwarzmundgrundel, Kesslergrundel):**
-- Aus dem Schwarzmeergebiet eingewandert
-- Vermehren sich explosionsartig
-- Fressen Laich und Jungfische
-- Verdrängen heimische Grundfische
-- **Maßnahme:** Entnehmen, nicht zurücksetzen
-
-**Sonnenbarsch:**
-- Aus Nordamerika
-- Frisst Laich und Jungfische
-- **Maßnahme:** Entnehmen
-
-**Giebel (Silberkarausche):**
-- Kann sich ohne Männchen vermehren
-- Verdrängt Karauschen
-- **Maßnahme:** Regional unterschiedlich
-
-**Katzenwels:**
-- Aus Nordamerika
-- Kann heimische Arten verdrängen
-
 ### Problematische Krebsarten
 
 **Amerikanische Krebse:**
@@ -257,13 +206,7 @@ Neozoen sind gebietsfremde Arten, die durch menschlichen Einfluss eingeschleppt 
 - Signalkrebs
 - Roter Sumpfkrebs
 
-Diese Arten übertragen die Krebspest, an der heimische Krebse sterben. Sie dürfen NICHT in andere Gewässer verbracht werden!
-
-**Wichtig:**
-- Keine Verwendung als Köder
-- Keine Umsiedlung
-- Ausrüstung nach Kontakt desinfizieren
-- Meldung an Behörden
+Diese Arten übertragen die Krebspest, an der heimische Krebse sterben.
 
 ### Verhinderung der Ausbreitung
 
@@ -272,7 +215,6 @@ Diese Arten übertragen die Krebspest, an der heimische Krebse sterben. Sie dür
 - Keine Fische oder Krebse von einem Gewässer ins andere bringen
 - Keine lebenden Köderfische übrig lassen
 - Ausrüstung reinigen (besonders bei Gewässerwechsel)
-- Keine Aquarienfische aussetzen
 - Verdächtige Arten melden
 
 ## Vermeidung von Umweltschäden
@@ -299,13 +241,6 @@ Diese Arten übertragen die Krebspest, an der heimische Krebse sterben. Sie dür
 Bleigewichte sind giftig und belasten die Umwelt:
 - Bleivergiftung bei Wasservögeln durch Aufnahme
 - Blei reichert sich in Sedimenten an
-- In manchen Ländern bereits verboten
-
-**Alternativen:**
-- Tungsten (Wolfram)
-- Stein
-- Glas
-- Keramik
 
 ### Futter und Anfüttern
 
@@ -317,12 +252,12 @@ Bleigewichte sind giftig und belasten die Umwelt:
 
 **Problematisch:**
 - Übermäßiges Anfüttern belastet Gewässer
-- Exotische Futtermittel können Neozoen enthalten
 - Brot ist ungeeignet (bläht Fische auf, verschmutzt Wasser)
 
 ## Hegemaßnahmen und Gewässerpflege
 
-Viele Angelvereine betreiben aktive Gewässerpflege (Hege). Als Angler kann man dazu beitragen:
+Viele Angelvereine betreiben aktive Gewässerpflege (Hege). 
+Als Angler kann man dazu beitragen:
 
 ### Besatzmaßnahmen
 
@@ -398,8 +333,6 @@ Viele Angelvereine betreiben aktive Gewässerpflege (Hege). Als Angler kann man 
 ## Konflikte und Lösungen
 
 ### Kormoran
-
-Ein viel diskutiertes Thema:
 
 **Konflikt:**
 - Kormorane fressen große Mengen Fisch

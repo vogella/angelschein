@@ -857,7 +857,7 @@ Wird zum Fangen von Köderfischen verwendet und darf maximal 1x1 m groß sein.
 | **Vorfach**     | Stahlvorfach |
 | **Haken / Köder** | Löffelblinker, Wobbler mit Tauchschaufel, Jighaken mit Gummifischen |
 
-![Spinnangel](./img/geraet-spinnangel.png){ width=40% }
+![Spinnangel](./img/geraet-spinnangel.png){ width=45% }
 
 \newpage
 
@@ -874,7 +874,7 @@ Wird zum Fangen von Köderfischen verwendet und darf maximal 1x1 m groß sein.
 | **Haken**  | Aalhaken |
 | **Köder**  | Wurm |
 
-![Grundangel](./img/geraet-grundangel.png){ width=50% }
+![Grundangel](./img/geraet-grundangel.png){ width=70% }
 
 \newpage
 
@@ -914,5 +914,5 @@ Wird zum Fangen von Köderfischen verwendet und darf maximal 1x1 m groß sein.
 
 
 
-![Friedfischangel](./img/geraet-possenangel.png){ width=50% }
+![Friedfischangel](./img/geraet-possenangel.png){ width=60% }
 
